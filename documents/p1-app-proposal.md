@@ -93,7 +93,7 @@ Two Google Docs, and they do different jobs:
 
 | Doc | When | What you do with it |
 |---|---|---|
-| **[Work Plan Template](https://docs.google.com/document/d/14pgXuFqD0yfLrQZFrJHb1VUgkxgtHeHd5Gu2k9Urji8/copy)** | Week 2 | **Copy it.** One per team. This is deliverable 1. |
+| **[Work Plan Template](https://docs.google.com/document/d/1T6O55lF2eQDSp0A_l37YTgbnfpZXUZvu9r62ty0YUCo/copy)** | Week 2 | **Copy it.** One per team. This is deliverable 1. |
 | **[Proposal Template](https://docs.google.com/document/d/1khRFXrBf5BCrPiw7z9wpl2QXw2PDqvH8JMCC1MXbbSA/copy)** | Week 2 through week 4 | **Copy it.** One per team. Your draft and your final both live here. |
 
 Everything about what goes in them is on this page. There is no third document to go read.
