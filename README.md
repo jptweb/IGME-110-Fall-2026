@@ -31,17 +31,20 @@ Thursdays.
 
 ### Weeks 1 through 5: Research and Written Media
 
-**Project 1: App Proposal (group)**
+**Project 1: Product Proposal (group)**
 
-| Week | Topic | Key activities | Due Friday |
+| Week | Topic | Key activities | Due |
 |---|---|---|---|
-| **Week 1** (Aug 25 & 27) | Getting Started | Course overview, Slack and Google Docs setup, brainstorming | Kickoff survey |
-| **Week 2** (Sep 1 & 3) | Finding & Evaluating Information | Teams meet, research methods, sources and citations | P1 Work Plan |
-| **Week 3** (Sep 8 & 10) | Critiquing & Defending Ideas | Metagame activity, peer critiques of drafts | P1 Draft & Critiques |
-| **Week 4** (Sep 15 & 17) | Legal Aspects of Media | Copyright, fair use, asset scavenger hunt | P1 Final |
-| **Week 5** (Sep 22 & 24) | Types of Media | Transmedia adaptation, P2 kickoff | P1 Reflections & Peer Evals |
+| **Week 1** (Aug 25 & 27) | Getting Started | Course overview, Slack and Google Docs setup, brainstorming | Kickoff survey (Fri) |
+| **Week 2** (Sep 1 & 3) | Finding & Evaluating Information | Teams meet, research methods, sources and citations | P1 Work Plan (Fri) |
+| **Week 3** (Sep 8 & 10) | Critiquing & Defending Ideas | Metagame activity, peer critiques of drafts | **P1 Draft (Wed)**, P1 Critiques (Fri) |
+| **Week 4** (Sep 15 & 17) | Legal Aspects of Media | Copyright, fair use, asset scavenger hunt | P1 Final (Fri) |
+| **Week 5** (Sep 22 & 24) | Types of Media | Transmedia adaptation, P2 kickoff | P1 Reflections & Peer Evals (Fri) |
 
 *Sep 7 is Labor Day. There's no Monday class, but the week 3 study guide shifts to Tuesday.*
+
+*Week 3 has the only Wednesday deadline in the course. Your P1 draft is due the night before the
+class where other teams critique it.*
 
 ---
 
@@ -98,7 +101,7 @@ Thursday class in week 14.*
 
 | Project | Type | Final due | % of grade |
 |---|---|---|---|
-| **P1: App Proposal** | Group | Week 4 | 12% |
+| **P1: Product Proposal** | Group | Week 4 | 12% |
 | **P2: Infographic** | Individual | Week 8 | 13% |
 | **P3: Interactive Prototype** | Group (new teams) | Week 12 | 12% |
 | **P4: Video Advertisement** | Individual | Finals week | 13% |
@@ -117,7 +120,7 @@ it, then sell it.
 ## Quick Links
 
 - **[Syllabus](documents/syllabus.md)**
-- **[Project 1: App Proposal](documents/p1-app-proposal.md)**
+- **[Project 1: Product Proposal](documents/p1-product-proposal.md)**
 - **[Weekly notes](weekly/)** for each class session
 - **[In-class activities](activities/)**
 - **[myCourses](https://mycourses.rit.edu)** for assignments, grades, and deadlines

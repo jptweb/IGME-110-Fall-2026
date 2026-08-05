@@ -48,7 +48,7 @@ In this class, you will have regular required activities, including at-home stud
 |:----------|:-------|
 | Study Guides | 20% |
 | In-Class Activities | 20% |
-| Project 1 - Group App Proposal | 12% |
+| Project 1 - Group Product Proposal | 12% |
 | Project 2 - Individual Infographic | 13% |
 | Project 3 - Group Prototype | 12% |
 | Project 4 - Individual Video | 13% |
@@ -96,7 +96,7 @@ Study guides run most weeks in the first part of the semester, while we're build
 
 Class time will primarily be used for hands-on activities building off of the required readings and videos for that week. There will also be in-class time to work on your projects. If you have to miss a class, you *must* contact your instructor before that class begins to make alternate arrangements.
 
-## Project 1: Group App Proposal Document (12%)
+## Project 1: Group Product Proposal Document (12%)
 
 Your first project will involve creating a proposal document for a technical product: a game, an app, or a website. Your group will need to thoroughly research the topic, and present a compelling case for why an investor would want to support the development of the product.
 

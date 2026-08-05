@@ -1,4 +1,4 @@
-# Project 1: App Proposal
+# Project 1: Product Proposal
 
 **IGME-110 | Fall 2026 | Weeks 2 through 5**
 
@@ -7,10 +7,16 @@ there's a page in myCourses that opens this one at that section.
 
 **Jump to a deliverable:**
 
-- [1. Work Plan](#1-work-plan) (due Friday, September 4)
-- [2. Draft and Critiques](#2-draft-and-critiques) (due Friday, September 11)
-- [3. Final Proposal](#3-final-proposal) (due Friday, September 18)
-- [4. Reflections and Peer Evaluation](#4-reflections-and-peer-evaluation) (due Friday, September 25)
+| | Deliverable | Due | Points |
+|---|---|---|---|
+| 1 | [Work Plan](#1-work-plan) | Fri, September 4 | 25 |
+| 2 | [Draft](#2-draft) | **Wed, September 9** | 5 |
+| 3 | [Critiques](#3-critiques) | Fri, September 11 | 20 |
+| 4 | [Final Proposal](#4-final-proposal) | Fri, September 18 | 100 |
+| 5 | [Reflections and Peer Evaluation](#5-reflections-and-peer-evaluation) | Fri, September 25 | 20 |
+
+> **Note the Wednesday.** Deliverable 2 is the only one that isn't due on a Friday. Your draft has to
+> exist before Thursday's class, because that's the class where two other teams critique it.
 
 **Reference:** [Your four roles](#your-four-roles) · [The documents you need](#the-documents-you-need) ·
 [What the proposal has to contain](#what-the-proposal-has-to-contain) · [Rubric](#rubric)
@@ -57,7 +63,7 @@ class in week 2.
 
 **→ [Team assignments, review pairings, and proposal links](p1-teams.md)**
 
-You'll stay with this team through all four deliverables. The proposal links go up after the Work
+You'll stay with this team through all five deliverables. The proposal links go up after the Work
 Plan is in, and that page is where you'll find the two drafts you're reviewing in week 3.
 
 ---
@@ -217,27 +223,50 @@ the grade. If multiple people submit, I grade the last one turned in on time.
 
 ---
 
-## 2. Draft and Critiques
+## 2. Draft
 
-**Due Friday, September 11, 11:59 PM | Group submission | 25 points**
+**Due Wednesday, September 9, 11:59 PM | Group submission | 5 points**
 
-This deliverable has two halves that submit together: **your draft**, and **the critiques your team
-writes of two other teams' drafts**.
+A real draft, sitting in your proposal doc, the night before the critique class.
 
-### Before class on 3B
+### What "a real draft" means
 
-Have a real draft in your proposal doc. Not finished, but far enough along that another team can
-react to it. A draft with three empty sections wastes your reviewers' time and gets you nothing
-useful back.
+Not finished. Far enough along that another team can react to it. Every section should have
+something in it, even if some of them are rough or short.
 
-**There is no separate draft deadline and no separate dropbox.** Your reviewers open the same doc
-you linked with your Work Plan, so the draft only has to be sitting in that document by class time
-on 3B.
+**On Thursday, two other teams are going to open this document and spend a class period picking it
+apart.** A draft with three empty sections wastes their time and gets you nothing useful back. That
+is the entire cost of skipping this, and it lands on you in week 4 when you're revising for the
+final.
 
-### In class on 3B: the critiques
+### What to submit
 
-Your team critiques **two** other teams' drafts. Assignments are posted with the
+**One submission per team.** Submit the **link to your proposal doc**, the same one you handed in
+with your Work Plan.
+
+Yes, I already have it. Submitting it again is how you and I both confirm the draft is ready, and it
+takes about ten seconds.
+
+### How this is graded
+
+Five points, and it's close to all-or-nothing: is there a real draft in there or not. **Nothing here
+is graded against the rubric.** That happens on the final, after you've had feedback. Write badly
+and fix it later. That's what a draft is for.
+
+---
+
+## 3. Critiques
+
+**Due Friday, September 11, 11:59 PM | Group submission | 20 points**
+
+Your team critiques **two** other teams' drafts. You'll write these in class on 3B.
+
+### Before you come to class
+
+Nothing to prepare. Bring a laptop. Your assigned teams and their proposal links are on the
 [team list](p1-teams.md).
+
+### In class on 3B
 
 **→ [Peer critique questions](https://docs.google.com/document/d/1CAPF8K9el4CezmS6bWnHoLaBGgV3lhGh40rxWIcxGd8/)**
 
@@ -264,25 +293,22 @@ the team you reviewed can start using it right away.
 
 ### What to submit
 
-**One submission per team**, containing three links:
+**One submission per team**, containing two links:
 
-- Your team's draft proposal
 - Your critique of the first team
 - Your critique of the second team
 
+You already posted both in Slack as you finished them. This is the graded copy.
+
 ### How this is graded
 
-Mostly on the critiques. **A generous, specific, slightly uncomfortable critique is worth more than
-a polite one.** "Looks good, maybe add more detail" is not feedback. Telling a team their market
-research doesn't actually support their central claim is feedback, and it's the thing that makes
-their final version better.
-
-Your draft counts for a little, and only for whether it was real enough to review. It is not graded
-against the rubric. That happens on the final.
+**A generous, specific, slightly uncomfortable critique is worth more than a polite one.** "Looks
+good, maybe add more detail" is not feedback. Telling a team their market research doesn't actually
+support their central claim is feedback, and it's the thing that makes their final version better.
 
 ---
 
-## 3. Final Proposal
+## 4. Final Proposal
 
 **Due Friday, September 18, 11:59 PM | Group submission | 100 points**
 
@@ -307,11 +333,11 @@ Turnitin is enabled on this deliverable.
 
 ---
 
-## 4. Reflections and Peer Evaluation
+## 5. Reflections and Peer Evaluation
 
 **Due Friday, September 25, 11:59 PM | Individual submission | 20 points**
 
-> ⚠️ **This one is individual.** The other three deliverables are submitted once per team. This one
+> ⚠️ **This one is individual.** The other four deliverables are submitted once per team. This one
 > you each do yourself, and your answers are your own.
 
 Group work only teaches you anything if somebody eventually says out loud how it went.

@@ -85,7 +85,8 @@
       "thursday": "TBD — placeholder",
       "due": [
         { "item": "Study Guide 3: Critiquing & Defending Ideas", "date": "Sep 8, 2:00 PM (Labor Day shift)", "url": null },
-        { "item": "P1 Draft & Critiques (one submission per team)", "date": "Sep 11", "url": null }
+        { "item": "P1 Draft (one submission per team)", "date": "Sep 9", "url": null },
+        { "item": "P1 Critiques (one submission per team)", "date": "Sep 11", "url": null }
       ],
       "study_guide": {
         "readings": [
