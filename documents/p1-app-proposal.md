@@ -12,6 +12,9 @@ there's a page in myCourses that opens this one at that section.
 - [3. Final Proposal](#3-final-proposal) (due Friday, September 18)
 - [4. Reflections and Peer Evaluation](#4-reflections-and-peer-evaluation) (due Friday, September 25)
 
+**Reference:** [Your four roles](#your-four-roles) · [The documents you need](#the-documents-you-need) ·
+[What the proposal has to contain](#what-the-proposal-has-to-contain) · [Rubric](#rubric)
+
 > Dates here are for planning. **myCourses is the official deadline** for every deliverable.
 
 ---
@@ -59,42 +62,116 @@ Plan is in, and that page is where you'll find the two drafts you're reviewing i
 
 ---
 
-## The proposal template
+## Your four roles
 
-There are exactly two Google Docs you need, and they do different jobs. This trips people up every
-year, so read the difference once:
+Before anything else, your team divides into four roles. Each one owns a part of the proposal.
 
-| Doc | What it's for | What you do with it |
+| Role | What it takes | Owns |
 |---|---|---|
-| **[Proposal Template](https://docs.google.com/document/d/1khRFXrBf5BCrPiw7z9wpl2QXw2PDqvH8JMCC1MXbbSA/copy)** | The empty document your proposal goes in | **Copy it.** One copy per team. |
-| **[Template Instructions](https://docs.google.com/document/d/1AX62N88jqIE92HUXSzVwGizRtOTt2CcmOuSqwnApOEY/)** | Explains what belongs in each section of the template | **Read it.** Do not copy or edit it. |
+| **Summary/Conclusion Writer and Overall Editor** | Concise writing, and holding the whole project in your head | Sections 1 and 5 |
+| **Market Researcher** | Research, and reading data without fooling yourself | Section 2 |
+| **Product Designer** | Technical sense and creativity | Section 3 |
+| **Devil's Advocate and Critic** | Critical thinking, and building a persuasive argument against your own team | Section 4, plus helping wherever it's needed |
 
-One member of your team opens the template link and makes the copy. Then set sharing on that copy:
+**Team of 3?** Everyone takes a share of the Devil's Advocate role.
+**Team of 5?** Two people can share it.
+
+> **Owning a section does not mean writing it alone.** It means you're accountable for it: you
+> drive it, you make sure it's actually good, and if it's weak that's your problem to raise.
+> Everyone still writes, reads, and edits in the shared document. A proposal where six sections
+> were clearly written by six people who never spoke is easy to spot and it grades badly.
+
+The Devil's Advocate is the role people underestimate. Section 4 is where you argue against your own
+product, and it's the section that separates a proposal from a sales pitch. Give it to someone who
+will actually do it.
+
+---
+
+## The documents you need
+
+Two Google Docs, and they do different jobs:
+
+| Doc | When | What you do with it |
+|---|---|---|
+| **[Work Plan Template](https://docs.google.com/document/d/14pgXuFqD0yfLrQZFrJHb1VUgkxgtHeHd5Gu2k9Urji8/copy)** | Week 2 | **Copy it.** One per team. This is deliverable 1. |
+| **[Proposal Template](https://docs.google.com/document/d/1khRFXrBf5BCrPiw7z9wpl2QXw2PDqvH8JMCC1MXbbSA/copy)** | Week 2 through week 4 | **Copy it.** One per team. Your draft and your final both live here. |
+
+Everything about what goes in them is on this page. There is no third document to go read.
+
+One member of your team opens each link and makes the copy. Then set sharing on both copies:
 
 - Your teammates: **Editor**
 - Me: **Commenter**
 - **Anyone at RIT with the link: Commenter**
 
-That last one matters. In week 3 a different team has to open this document and critique it, and if
+That last one matters. In week 3 a different team has to open your proposal and critique it, and if
 it's locked down they can't. Set it now and you never have to think about it again.
 
-Everyone works in that one document, and **its URL never changes**. It's the same link from today
-through your final version. You'll hand that link in with your Work Plan.
+Everyone works in the same two documents. **The proposal doc's URL never changes**, so it's the same
+link from today through your final version. You'll hand that link in with your Work Plan.
 
-### What the proposal has to contain
+---
+
+## What the proposal has to contain
 
 Six sections, in this order. The [rubric](#rubric) at the bottom of this page tells you what full
 credit looks like for each one.
 
-1. **Executive Summary.** Product name, what it is, who it's for, what problem it solves.
-2. **Market Research and Need Analysis.** Evidence the problem is real, and a look at what already
-   exists. This is the section that separates a proposal from a pitch.
-3. **Product Description.** Features, how it works, what using it feels like. Includes at least
-   three mockups or wireframes.
-4. **Issues and Counterarguments.** The objections a skeptical reader would raise, and your honest
-   responses.
-5. **Conclusion and Recommendations.** What happens next, and why it matters.
-6. **Appendix.** Your citations, plus anything supporting.
+### 1. Executive Summary
+
+A high-level overview. Lead with a high concept statement: what the product is **called**, what it
+**does**, and **who it's for**, in about one sentence.
+
+> *LevelUpLife: a social rewards service that helps college students stop doomscrolling.*
+
+Then: what key problem it solves, and what makes it different from what's out there.
+
+### 2. Market Research and Need Analysis
+
+The evidence that the problem is real. This is the section that separates a proposal from a pitch.
+
+- The gap, unmet need, or social problem your product addresses
+- A competitor analysis: what already exists, and where it falls short
+- Statistical or qualitative evidence that demand exists (survey results, industry reports, studies)
+- **At least one chart or graph** that communicates your research visually
+- **Screenshots of competitor apps**
+
+### 3. Product Description
+
+What it is and how it works.
+
+- Core features, each with a short explanation
+- How the UI and UX are designed for your specific audience
+- Anything technically or creatively unusual about it
+- **At least three wireframes or mockups that you created.** Photoshop, Illustrator, Figma, drawn on
+  paper and photographed, or generated with AI are all fine. **If you used AI, say so in the
+  Appendix and name the tool.**
+
+### 4. Possible Issues and Counterarguments
+
+Argue against yourselves, honestly.
+
+- The objections a skeptical reader raises first, including "isn't this already solved?"
+- Technical and financial challenges that would come up in real development
+- How you'd overcome them, or why the product still matters despite them
+
+A section that says "some people might not like the color scheme" is not doing this job. Find the
+objection that actually threatens the product, then answer it.
+
+### 5. Conclusion and Recommendations
+
+- A brief recap of the problem and your solution
+- The impact you expect, whether social, financial, or user benefit
+- A clear call to action: *"We recommend moving forward with development because…"*
+
+### 6. Appendix
+
+Everyone contributes here.
+
+- **Your citations, properly formatted.** You built this skill in the week 2 sources and citations
+  activity.
+- Any supporting data, charts, or research that didn't fit above
+- **AI disclosure**, including who or what created your mockups
 
 ---
 
@@ -108,14 +185,19 @@ Your team's first job is to agree on what you're building and who is doing what.
 
 1. **Meet as a team in class on 2A** and converge on one product idea. You'll each arrive with
    candidates from the week 2 study guide, so start from those.
-2. One person opens the
-   **[Work Plan template](https://docs.google.com/document/d/14pgXuFqD0yfLrQZFrJHb1VUgkxgtHeHd5Gu2k9Urji8/copy)**,
-   makes a copy, and shares it with the team as Editor.
-3. Fill it in together. It asks for your product concept, your intended audience, how you plan to
-   divide the work, and how your team will communicate.
-4. **Make your copy of the [Proposal Template](#the-proposal-template)** and set its sharing, as
-   described above. You won't write in it yet. You just need it to exist, because its link is part
-   of this submission.
+2. One person copies **both documents** from
+   [the section above](#the-documents-you-need) and sets sharing on both.
+3. **Fill in the Work Plan together.** It asks for four things:
+   - Everyone's name
+   - Your product, and what made the idea compelling to your team
+   - **The second and third ideas you considered and rejected, and why you rejected them**
+   - Who is taking which of [the four roles](#your-four-roles)
+4. The proposal doc stays empty for now. You just need it to exist, because its link is part of this
+   submission.
+
+> **Don't skip the rejected ideas.** Naming what you turned down and why is the fastest way to find
+> out whether your team actually agrees on what you're building. Teams that skip it tend to discover
+> in week 3 that two people were picturing different products.
 
 ### What to submit
 
@@ -269,16 +351,16 @@ What a 100% looks like on the final proposal.
 - Strong evidence of research with multiple credible sources
 - Clear competitor analysis with specific examples
 - Statistical data or qualitative evidence included
-- Visual elements present, such as charts or competitor screenshots
+- At least one chart or graph, plus competitor screenshots
 - Sources properly referenced
 
 ### 3. Product Description
 - Comprehensive feature list with clear explanations
 - UI and UX considerations well described
 - Creative or innovative elements highlighted
-- At least three visual mockups or wireframes included
+- At least three visual mockups or wireframes, created by you, with the creator named in the appendix
 
-### 4. Issues and Counterarguments
+### 4. Possible Issues and Counterarguments
 - Thoughtful consideration of multiple potential objections
 - Technical and financial challenges identified
 - Reasonable responses to challenges provided
@@ -293,6 +375,7 @@ What a 100% looks like on the final proposal.
 ### 6. Appendix
 - Properly formatted citations present
 - Additional supporting materials included
+- AI use disclosed, including who or what created the mockups
 
 ---
 
