@@ -1,8 +1,8 @@
-<!-- Source for the myCourses assignment "Getting Started 2: Brainstorming a Product Idea".
+<!-- Source for the myCourses assignment "Activity: Brainstorming a Product Idea".
      That assignment's body is a copy of this page. Edit here, then re-paste. -->
-# Getting Started 2: Brainstorming a Product Idea
+# Activity: Brainstorming a Product Idea
 
-**IGME-110 | Week 1B | In-Class Exercise**
+**IGME-110 | Week 1B | In-Class Activity**
 
 ## What this is for
 
@@ -26,7 +26,7 @@ partner that thinks *with* you and one that hands you something generic.
 
 ## Prefer not to use AI? Read this.
 
-There's a version of this exercise that uses no AI at all, and it earns the same credit.
+There's a version of this activity that uses no AI at all, and it earns the same credit.
 No explanation needed and no penalty. Just tell me you're taking it.
 
 **The partner version:** pair up with a classmate and take turns. One of you asks the

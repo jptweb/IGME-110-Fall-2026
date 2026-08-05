@@ -5,7 +5,7 @@
 ## Welcome
 
 This repository holds most of the course materials: weekly notes, project instructions, and
-in-class exercises. **Use myCourses as the source of truth for deadlines**, and for links to
+in-class activities. **Use myCourses as the source of truth for deadlines**, and for links to
 anything not kept here. GitHub is where the instructions live because it makes them easy to
 maintain, share, and keep under version control.
 
@@ -119,7 +119,7 @@ it, then sell it.
 - **[Syllabus](documents/syllabus.md)**
 - **[Project 1: App Proposal](documents/p1-app-proposal.md)**
 - **[Weekly notes](weekly/)** for each class session
-- **[In-class exercises](exercises/)**
+- **[In-class activities](activities/)**
 - **[myCourses](https://mycourses.rit.edu)** for assignments, grades, and deadlines
 
 ---
@@ -133,7 +133,7 @@ IGME-110-Fall-2026/
 │   ├── 1B.md        # Week 1, Thursday
 │   └── ...
 ├── documents/       # Syllabus and project instructions
-├── exercises/       # In-class activities
+├── activities/      # In-class activities
 └── dashboard/       # Data for the myCourses homepage widget
 ```
 

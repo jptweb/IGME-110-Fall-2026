@@ -1,6 +1,6 @@
-# Getting Started 1: Using Our Slack Workspace
+# Using Our Slack Workspace
 
-**IGME-110 | Week 1B | In-Class Exercise**
+**IGME-110 | Course Resource**
 
 We use Slack for course communication, project coordination, and getting help fast. This is a
 one-time setup, done in class, so nobody is quietly locked out in week six.
@@ -35,7 +35,7 @@ your RIT password.
 
 <!-- SCREENSHOT SLOT: the green "Sign in with RIT login" button on rit.enterprise.slack.com.
      JP said he may add this. Upload to a GitHub issue and paste the URL like the other
-     exercise does. -->
+     activity does. -->
 
 > ⚠️ **You are not creating a Slack account.** There is no Slack username and no Slack
 > password. If a screen is asking you to type an email address or make up a password, you're in

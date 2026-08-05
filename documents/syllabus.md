@@ -40,7 +40,7 @@ By the end of the class, you will be able to:
 
 ## IV. Grading
 
-In this class, you will have regular required activities, including at-home study guides and in-class exercises. There will also be four projects: two done in groups, and two done individually.
+In this class, you will have regular required activities, including at-home study guides and in-class activities. There will also be four projects: two done in groups, and two done individually.
 
 ### Grade Breakdown
 

@@ -9,12 +9,12 @@
       "dates": "Aug 25–27",
       "theme": "Getting Started: What Even Is Interactive Media?",
       "tuesday": "Is This Interactive Media? (opener game), what the course actually is, the four projects, syllabus essentials",
-      "thursday": "Google Docs + RIT account, Slack exercise (graded), brainstorming exercise, P1 preview",
+      "thursday": "Google Docs + RIT account, Slack activity (graded), brainstorming activity, P1 preview",
       "slides_url": null,
       "due": [
         { "item": "Join the course Slack", "date": "Aug 27", "url": null },
-        { "item": "Slack Getting Started exercise", "date": "Aug 31", "url": null },
-        { "item": "Brainstorming a Product Idea (incl. AI transcript, if used)", "date": "Aug 31", "url": null }
+        { "item": "Activity: Using Our Slack Workspace", "date": "Aug 31", "url": null },
+        { "item": "Activity: Brainstorming a Product Idea", "date": "Aug 31", "url": null }
       ],
       "study_guide": {
         "readings": [],
@@ -26,11 +26,11 @@
       "dates": "Sep 1–3",
       "theme": "Finding & Evaluating Information",
       "tuesday": "Real or Fake? (opener), teams meet for the first time, three ideas each and cut to one, what P1 asks and the four roles",
-      "thursday": "Would you cite this? (CRAAP), finding real sources via the library, Finding/Evaluating 1 done in class, work plan studio",
+      "thursday": "Would you cite this? (CRAAP), finding real sources via the library, the sources and citations activity done in class, work plan studio",
       "slides_url": null,
       "due": [
         { "item": "Study Guide 2: Finding & Evaluating Information", "date": "Aug 31", "url": null },
-        { "item": "Finding/Evaluating 1: Sources and Citations (in class)", "date": "Sep 3", "url": null },
+        { "item": "Activity: Sources and Citations (in class)", "date": "Sep 3", "url": null },
         { "item": "P1 Work Plan (one submission per team)", "date": "Sep 4", "url": null }
       ],
       "study_guide": {

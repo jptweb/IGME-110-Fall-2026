@@ -187,7 +187,7 @@ The complete proposal, revised using the critiques you received.
 - Check your work against the [rubric](#rubric) before you submit. It's written as a description of
   a 100%, so you can grade yourselves first.
 - Make sure your citations are in the appendix and formatted consistently. You built this skill in
-  the week 2 sources and citations exercise.
+  the week 2 sources and citations activity.
 
 ### What to submit
 

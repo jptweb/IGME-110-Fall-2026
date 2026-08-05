@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!--
+  week.html — IGME 110 per-week card, built to be iframed into a myCourses module description.
+
+  Same data source as the homepage widget: calendar.json, fetched from ./ (this file's own
+  folder), so it works unchanged whether it is served from GitHub Pages or from
+  people.rit.edu next to the mirrored copy.
+
+  Usage:  week.html?week=2      pinned to a week (what a module description wants)
+          week.html             falls back to today's week, same math as the widget
+
+  The homepage widget answers "what week is it and what's coming." This answers "what does
+  this one week hold." Deliberately no readings block: that lives on the homepage, and it
+  would blow past any sane iframe height.
+
+  If the fetch fails, this renders a neutral line rather than an error. A module description
+  that shows 64 students a red stack trace is worse than one that shows nothing.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IGME-110 Week</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    font-family: 'Open Sans', 'Lato', Arial, sans-serif;
+    color: #333;
+  }
+  body { padding: 2px; box-sizing: border-box; }
+  .wrap {
+    border: 1px solid #e0e0e0;
+    border-top: 3px solid #F76902;
+    border-radius: 4px;
+    background: #fff;
+    padding: 13px 15px;
+    box-sizing: border-box;
+  }
+  .dates {
+    font-size: 0.78em;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #999;
+    margin: 0 0 9px 0;
+  }
+  .cols { display: flex; gap: 20px; flex-wrap: wrap; }
+  .col { flex: 1; min-width: 210px; }
+  h3 {
+    margin: 0 0 7px 0;
+    font-size: 0.74em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .col-class h3 { color: #555; }
+  .col-due h3 { color: #c0392b; }
+  .day { margin: 0 0 5px 0; font-size: 0.9em; line-height: 1.45; }
+  .day b { color: #F76902; margin-right: 5px; }
+  .due { margin: 0 0 5px 0; font-size: 0.9em; line-height: 1.45; }
+  .due .when { color: #888; font-size: 0.88em; }
+  .quiet { color: #888; font-size: 0.9em; margin: 0; }
+  a { color: #F76902; }
+</style>
+</head>
+<body>
+<div class="wrap" id="card">
+  <p class="quiet">Loading…</p>
+</div>
+
+<script>
+(async () => {
+  const CALENDAR_URL = './calendar.json';
+  const card = document.getElementById('card');
+
+  // Quiet fallback. Never show students a fetch error in a module description.
+  const fallback = '<p class="quiet">See the topics in this module for the week\'s materials, and check the Assignments tab for exact due dates.</p>';
+
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+  function pinnedWeek() {
+    const w = parseInt(new URLSearchParams(location.search).get('week'));
+    return isNaN(w) ? null : w;
+  }
+
+  // Same math as the homepage widget, used only when ?week= is absent.
+  function currentWeek(semesterStart, totalWeeks) {
+    const days = Math.floor((new Date() - new Date(semesterStart)) / 86400000);
+    if (days < 0) return 1;
+    if (days >= totalWeeks * 7) return totalWeeks;
+    return Math.floor(days / 7) + 1;
+  }
+
+  try {
+    const res = await fetch(CALENDAR_URL);
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+
+    const n = pinnedWeek() ?? currentWeek(data.semester_start, data.weeks.length);
+    const week = data.weeks.find(w => w.week === n);
+    if (!week) throw new Error('week ' + n + ' not in calendar');
+
+    const days = [
+      week.tuesday ? `<p class="day"><b>Tue</b>${esc(week.tuesday)}</p>` : '',
+      week.thursday ? `<p class="day"><b>Thu</b>${esc(week.thursday)}</p>` : ''
+    ].join('');
+
+    const due = (week.due && week.due.length)
+      ? week.due.map(d => {
+          const label = d.url
+            ? `<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.item)}</a>`
+            : esc(d.item);
+          return `<p class="due">${label} <span class="when">${esc(d.date)}</span></p>`;
+        }).join('')
+      : '<p class="quiet">Nothing due this week.</p>';
+
+    card.innerHTML = `
+      <p class="dates">${esc(week.dates)}</p>
+      <div class="cols">
+        <div class="col col-class"><h3>This week in class</h3>${days || '<p class="quiet">Posted soon.</p>'}</div>
+        <div class="col col-due"><h3>Due this week</h3>${due}</div>
+      </div>`;
+  } catch (err) {
+    card.innerHTML = fallback;
+    console.error('IGME-110 week card:', err);
+  }
+
+  // Harmless if nothing is listening. Here so a future parent page can auto-size
+  // instead of guessing a fixed height. myCourses module descriptions cannot listen.
+  try {
+    parent.postMessage({ igme110WeekHeight: document.body.scrollHeight }, '*');
+  } catch (e) {}
+})();
+</script>
+</body>
+</html>

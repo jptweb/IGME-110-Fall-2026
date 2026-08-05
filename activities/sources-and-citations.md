@@ -1,8 +1,8 @@
-<!-- Source for the myCourses assignment "Finding/Evaluating 1: Sources and Citations".
+<!-- Source for the myCourses assignment "Activity: Sources and Citations".
      That assignment's body is a copy of this page. Edit here, then re-paste. -->
-# Finding/Evaluating 1: Sources and Citations
+# Activity: Sources and Citations
 
-**IGME-110 | Week 2B | In-Class Exercise**
+**IGME-110 | Week 2B | In-Class Activity**
 
 Your proposal has to argue that someone should build your product. An argument needs evidence,
 and evidence needs sources you can point to.
