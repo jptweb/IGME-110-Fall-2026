@@ -1,5 +1,3 @@
-<!-- Source for the myCourses assignment "Activity: Brainstorming a Product Idea".
-     That assignment's body is a copy of this page. Edit here, then re-paste. -->
 # Activity: Brainstorming a Product Idea
 
 **IGME-110 | Week 1B | In-Class Activity**

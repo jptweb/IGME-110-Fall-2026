@@ -1,5 +1,3 @@
-<!-- Source for the myCourses assignment "Activity: Sources and Citations".
-     That assignment's body is a copy of this page. Edit here, then re-paste. -->
 # Activity: Sources and Citations
 
 **IGME-110 | Week 2B | In-Class Activity**
