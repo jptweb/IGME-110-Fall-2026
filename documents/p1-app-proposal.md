@@ -2,8 +2,8 @@
 
 **IGME-110 | Fall 2026 | Weeks 2 through 5**
 
-Everything for Project 1 lives on this page. Each deliverable below has its own section, and the
-myCourses dropbox for that deliverable links straight to it.
+Everything for Project 1 lives on this page. Each deliverable below has its own section, and
+there's a page in myCourses that opens this one at that section.
 
 **Jump to a deliverable:**
 
@@ -52,9 +52,10 @@ research is not.
 Teams are assigned from the kickoff survey you filled out in week 1, and posted before our first
 class in week 2.
 
-**→ [Team assignments and draft links](p1-teams.md)**
+**→ [Team assignments, review pairings, and proposal links](p1-teams.md)**
 
-You'll stay with this team through all four deliverables.
+You'll stay with this team through all four deliverables. The proposal links go up after the Work
+Plan is in, and that page is where you'll find the two drafts you're reviewing in week 3.
 
 ---
 
@@ -68,8 +69,17 @@ year, so read the difference once:
 | **[Proposal Template](https://docs.google.com/document/d/1khRFXrBf5BCrPiw7z9wpl2QXw2PDqvH8JMCC1MXbbSA/copy)** | The empty document your proposal goes in | **Copy it.** One copy per team. |
 | **[Template Instructions](https://docs.google.com/document/d/1AX62N88jqIE92HUXSzVwGizRtOTt2CcmOuSqwnApOEY/)** | Explains what belongs in each section of the template | **Read it.** Do not copy or edit it. |
 
-One member of your team opens the template link, makes the copy, then shares it with the team as
-**Editor** and with me as **Commenter**. Everyone works in that one document.
+One member of your team opens the template link and makes the copy. Then set sharing on that copy:
+
+- Your teammates: **Editor**
+- Me: **Commenter**
+- **Anyone at RIT with the link: Commenter**
+
+That last one matters. In week 3 a different team has to open this document and critique it, and if
+it's locked down they can't. Set it now and you never have to think about it again.
+
+Everyone works in that one document, and **its URL never changes**. It's the same link from today
+through your final version. You'll hand that link in with your Work Plan.
 
 ### What the proposal has to contain
 
@@ -103,14 +113,22 @@ Your team's first job is to agree on what you're building and who is doing what.
    makes a copy, and shares it with the team as Editor.
 3. Fill it in together. It asks for your product concept, your intended audience, how you plan to
    divide the work, and how your team will communicate.
+4. **Make your copy of the [Proposal Template](#the-proposal-template)** and set its sharing, as
+   described above. You won't write in it yet. You just need it to exist, because its link is part
+   of this submission.
 
 ### What to submit
 
-**One submission per team.** myCourses knows your team, so whoever submits is submitting for
-everyone and the whole team gets the grade.
+**One submission per team**, containing two links:
 
-Submit a **link to your Work Plan doc**, shared so I can open it. If multiple people submit, I
-grade the last one turned in on time.
+1. Your completed **Work Plan** doc
+2. Your team's **proposal doc**, the copy you made of the template
+
+The proposal doc will be close to empty at this point. That's expected. I need the link now because
+it goes on the team list, and in week 3 another team uses it to find your draft.
+
+myCourses knows your team, so whoever submits is submitting for everyone and the whole team gets
+the grade. If multiple people submit, I grade the last one turned in on time.
 
 > **Why this exists.** Most group projects that go badly went badly in week one, when nobody said
 > out loud who was doing what. Twenty minutes here saves a bad week later.
@@ -126,11 +144,13 @@ writes of two other teams' drafts**.
 
 ### Before class on 3B
 
-Have a real draft in your proposal template. Not finished, but far enough along that another team
-can react to it. A draft with three empty sections wastes your reviewers' time and gets you nothing
+Have a real draft in your proposal doc. Not finished, but far enough along that another team can
+react to it. A draft with three empty sections wastes your reviewers' time and gets you nothing
 useful back.
 
-**Bring it to class.** You don't submit the draft separately.
+**There is no separate draft deadline and no separate dropbox.** Your reviewers open the same doc
+you linked with your Work Plan, so the draft only has to be sitting in that document by class time
+on 3B.
 
 ### In class on 3B: the critiques
 
@@ -156,6 +176,10 @@ Then, for each question: **read** the relevant part of their proposal, **discuss
 Post each finished critique link in the Slack thread **`Week 3B: P1 Feedback Links`** as you go, so
 the team you reviewed can start using it right away.
 
+> **If a draft you're assigned is empty, or you can't open the doc:** write that at the top of your
+> critique, note when you tried, and move on to the next one. Your grade is not affected by the
+> state of somebody else's draft. Don't spend class time chasing them for it.
+
 ### What to submit
 
 **One submission per team**, containing three links:
@@ -170,6 +194,9 @@ Mostly on the critiques. **A generous, specific, slightly uncomfortable critique
 a polite one.** "Looks good, maybe add more detail" is not feedback. Telling a team their market
 research doesn't actually support their central claim is feedback, and it's the thing that makes
 their final version better.
+
+Your draft counts for a little, and only for whether it was real enough to review. It is not graded
+against the rubric. That happens on the final.
 
 ---
 
