@@ -105,8 +105,8 @@ Thursday class in week 14.*
 
 **Other grading:**
 
-- Study Guides: 25%
-- In-Class Activities: 15%
+- Study Guides: 20%
+- In-Class Activities: 20%
 - Attendance: 10%
 
 They connect: P1 feeds P2 feeds P3 feeds P4. You research a product, explain it visually, prototype

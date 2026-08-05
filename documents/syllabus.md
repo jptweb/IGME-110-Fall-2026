@@ -46,8 +46,8 @@ In this class, you will have regular required activities, including at-home stud
 
 | Component | Weight |
 |:----------|:-------|
-| Study Guides | 25% |
-| In-Class Activities | 15% |
+| Study Guides | 20% |
+| In-Class Activities | 20% |
 | Project 1 - Group App Proposal | 12% |
 | Project 2 - Individual Infographic | 13% |
 | Project 3 - Group Prototype | 12% |
@@ -86,13 +86,13 @@ If you believe you received an incorrect grade on an assignment, you need to let
 
 ---
 
-## Study Guides (25%)
+## Study Guides (20%)
 
 This class will use a "flipped classroom" model in which you'll do readings and watch videos on your own, and then use the class time for activities and project work. Because these materials are critical to helping you build the skills necessary for the activities, you'll be provided with study guides to complete.
 
 Study guides run most weeks in the first part of the semester, while we're building the core concepts. As the semester goes on and your projects take over, they taper off. The later weeks are carried by project work and in-class studio time instead. Check myCourses for exact due dates.
 
-## In-Class Activities (15%)
+## In-Class Activities (20%)
 
 Class time will primarily be used for hands-on activities building off of the required readings and videos for that week. There will also be in-class time to work on your projects. If you have to miss a class, you *must* contact your instructor before that class begins to make alternate arrangements.
 
