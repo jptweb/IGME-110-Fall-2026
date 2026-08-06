@@ -12,9 +12,21 @@
       "thursday": "Google Docs + RIT account, Slack activity (graded), brainstorming activity, P1 preview",
       "slides_url": null,
       "due": [
-        { "item": "Join the course Slack", "date": "Aug 27", "url": null },
-        { "item": "Activity: Using Our Slack Workspace", "date": "Aug 31", "url": null },
-        { "item": "Activity: Brainstorming a Product Idea", "date": "Aug 31", "url": null }
+        {
+          "item": "Join the course Slack",
+          "date": "Aug 27",
+          "url": null
+        },
+        {
+          "item": "Activity: Using Our Slack Workspace",
+          "date": "Aug 31",
+          "url": null
+        },
+        {
+          "item": "Activity: Brainstorming a Product Idea",
+          "date": "Aug 31",
+          "url": null
+        }
       ],
       "study_guide": {
         "readings": [],
@@ -29,9 +41,21 @@
       "thursday": "Would you cite this? (CRAAP), finding real sources via the library, the sources and citations activity done in class, work plan studio",
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 2: Finding & Evaluating Information", "date": "Aug 31", "url": null },
-        { "item": "Activity: Sources and Citations (in class)", "date": "Sep 3", "url": null },
-        { "item": "P1 Work Plan (one submission per team)", "date": "Sep 4", "url": null }
+        {
+          "item": "Study Guide 2: Finding & Evaluating Information",
+          "date": "Aug 31",
+          "url": null
+        },
+        {
+          "item": "Activity: Sources and Citations (in class)",
+          "date": "Sep 3",
+          "url": null
+        },
+        {
+          "item": "P1 Work Plan (one submission per team)",
+          "date": "Sep 4",
+          "url": null
+        }
       ],
       "study_guide": {
         "readings": [
@@ -74,7 +98,7 @@
             "url": "https://www.rit.edu/its/generative-ai"
           }
         ],
-        "questions_url": null
+        "questions_url": "https://docs.google.com/document/d/1wDECfUJ0vOIfQwDLwyfGh6lNDSAkpz16XXAOAUGdJ1A/copy"
       }
     },
     {
@@ -84,9 +108,21 @@
       "tuesday": "TBD — placeholder",
       "thursday": "TBD — placeholder",
       "due": [
-        { "item": "Study Guide 3: Critiquing & Defending Ideas", "date": "Sep 8, 2:00 PM (Labor Day shift)", "url": null },
-        { "item": "P1 Draft (one submission per team)", "date": "Sep 9", "url": null },
-        { "item": "P1 Critiques (one submission per team)", "date": "Sep 11", "url": null }
+        {
+          "item": "Study Guide 3: Critiquing & Defending Ideas",
+          "date": "Sep 8, 2:00 PM (Labor Day shift)",
+          "url": null
+        },
+        {
+          "item": "P1 Draft (one submission per team)",
+          "date": "Sep 9",
+          "url": null
+        },
+        {
+          "item": "P1 Critiques (one submission per team)",
+          "date": "Sep 11",
+          "url": null
+        }
       ],
       "study_guide": {
         "readings": [
@@ -121,7 +157,7 @@
             "url": "https://zenhabits.net/how-to-accept-criticism-with-grace-and-appreciation/"
           }
         ],
-        "questions_url": null
+        "questions_url": "https://docs.google.com/document/d/1gwaRffzNghIxV5N_N92cNNJ95sfOwZBJsvV-6bIQQ0c/copy"
       }
     }
   ]
