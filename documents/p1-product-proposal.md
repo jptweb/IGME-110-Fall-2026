@@ -104,14 +104,22 @@ Two Google Docs, and they do different jobs:
 
 Everything about what goes in them is on this page. There is no third document to go read.
 
-One member of your team opens each link and makes the copy. Then set sharing on both copies:
+One member of your team opens each link and makes the copy. Then set sharing on both copies. Two
+settings, and that's the whole list:
 
-- Your teammates: **Editor**
-- Me: **Commenter**
-- **Anyone at RIT with the link: Commenter**
+- **Your teammates: Editor.** Add them by name, so everyone can write in it.
+- **General access: Anyone at RIT with the link, Viewer.**
 
-That last one matters. In week 3 a different team has to open your proposal and critique it, and if
-it's locked down they can't. Set it now and you never have to think about it again.
+That second one matters. In week 3 a different team has to open your proposal and critique it, and
+if it's locked down they can't. Set it now and you never have to think about it again.
+
+**You do not need to share either doc with me separately.** I'm at RIT, so once general access is
+set, the link you hand in is all I need. That's the step teams forget every year, and this way it
+doesn't exist.
+
+> **Never done this before?**
+> [Here's a short walkthrough of Google Docs sharing.](https://people.rit.edu/~jxtadm/IGME110/guides/sharing-google-docs.php)
+> Worth two minutes now. You'll set sharing on something in this course a dozen more times.
 
 Everyone works in the same two documents. **The proposal doc's URL never changes**, so it's the same
 link from today through your final version. You'll hand that link in with your Work Plan.
@@ -194,10 +202,11 @@ Your team's first job is to agree on what you're building and who is doing what.
 2. One person copies **both documents** from
    [the section above](#the-documents-you-need) and sets sharing on both.
 3. **Fill in the Work Plan together.** It asks for four things:
-   - Everyone's name
+   - Who is taking which of [the four roles](#your-four-roles). That's also your roster, so there's
+     no separate list of names to fill in.
    - Your product, and what made the idea compelling to your team
    - **The second and third ideas you considered and rejected, and why you rejected them**
-   - Who is taking which of [the four roles](#your-four-roles)
+   - How your team is going to reach each other outside of class
 4. The proposal doc stays empty for now. You just need it to exist, because its link is part of this
    submission.
 
@@ -207,13 +216,18 @@ Your team's first job is to agree on what you're building and who is doing what.
 
 ### What to submit
 
-**One submission per team**, containing two links:
+**One submission per team.** This dropbox takes typed text, not a file. Paste **two links** straight
+into the box:
 
 1. Your completed **Work Plan** doc
 2. Your team's **proposal doc**, the copy you made of the template
 
 The proposal doc will be close to empty at this point. That's expected. I need the link now because
 it goes on the team list, and in week 3 another team uses it to find your draft.
+
+> **Test your links before you paste them.** Open each one in a private or incognito window. If it
+> asks you to request access, your sharing isn't set, and neither I nor your week 3 reviewers can
+> get in. Takes fifteen seconds and it's the single most common way this deliverable goes wrong.
 
 myCourses knows your team, so whoever submits is submitting for everyone and the whole team gets
 the grade. If multiple people submit, I grade the last one turned in on time.
@@ -241,8 +255,8 @@ final.
 
 ### What to submit
 
-**One submission per team.** Submit the **link to your proposal doc**, the same one you handed in
-with your Work Plan.
+**One submission per team.** Paste the **link to your proposal doc** into the text box, the same one
+you handed in with your Work Plan.
 
 Yes, I already have it. Submitting it again is how you and I both confirm the draft is ready, and it
 takes about ten seconds.
@@ -273,7 +287,8 @@ Nothing to prepare. Bring a laptop. Your assigned teams and their proposal links
 For each team you review:
 
 1. Create a Google Doc named `Feedback for team [#], from team [#], section [#]`
-2. Share it with all of RIT
+2. Set general access to **Anyone at RIT with the link, Viewer**, the same setting you used on your
+   own proposal. The team you're reviewing has to be able to read it.
 3. Copy the questions from the link above into it
 4. Pick **one scribe** for your team
 
@@ -293,7 +308,7 @@ the team you reviewed can start using it right away.
 
 ### What to submit
 
-**One submission per team**, containing two links:
+**One submission per team.** Paste **two links** into the text box:
 
 - Your critique of the first team
 - Your critique of the second team
@@ -326,8 +341,9 @@ The complete proposal, revised using the critiques you received.
 
 ### What to submit
 
-**One submission per team.** Submit a **PDF export** of your proposal, not a link. The formatting
-you see is the formatting I grade, and a PDF is the only way that's true for both of us.
+**One submission per team.** Upload a **PDF export** of your proposal, not a link. This is the only
+P1 deliverable that takes a file instead of a link, because the formatting you see is the formatting
+I grade, and a PDF is the only way that's true for both of us.
 
 Turnitin is enabled on this deliverable.
 

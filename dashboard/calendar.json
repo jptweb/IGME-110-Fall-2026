@@ -2,7 +2,9 @@
   "course": "IGME-110",
   "semester": "Fall 2026",
   "semester_start": "2026-08-24",
+  "first_class": "Tuesday, August 25",
   "_schema": {
+    "first_class": "Authored prose, shown by the homepage widget as a small badge to anyone who opens the shell before the semester starts. Those students see week 1 as though it were the current week.",
     "status": "'built' means the week has been prepped and its days/activities are final. 'provisional' means days[] and any activity rows in due[] came from Fall-2026-Deadline-Calendar.md and get rewritten when the week is built. Study guides and project deliverables are authoritative in every week. Run tools/check-calendar.py.",
     "study_guide": "null when the week has no guide. doc_url is REQUIRED whenever a guide exists; readings[] may be empty. doc_action 'copy' opens a fill-in copy, 'view' is read-only and answers go in a new document.",
     "shape": "read-and-answer | read-and-do | deliverable | tutorial",
