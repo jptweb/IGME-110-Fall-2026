@@ -2,16 +2,16 @@
 <!--
   week.html — IGME 110 per-week card, built to be iframed into a myCourses module description.
 
-  Same data source as the homepage widget: calendar.json, fetched from ./ (this file's own
-  folder), so it works unchanged whether it is served from GitHub Pages or from
-  people.rit.edu next to the mirrored copy.
+  Same data source as the two homepage widgets: calendar.json, fetched from ./ (this file's
+  own folder), so it works unchanged whether served from GitHub Pages or from people.rit.edu
+  next to the mirrored copy.
 
   Usage:  week.html?week=2      pinned to a week (what a module description wants)
-          week.html             falls back to today's week, same math as the widget
+          week.html             falls back to today's week, same math as the widgets
 
-  The homepage widget answers "what week is it and what's coming." This answers "what does
-  this one week hold." Deliberately no readings block: that lives on the homepage, and it
-  would blow past any sane iframe height.
+  Unlike the homepage, this one is PINNED, so it shows the week's OWN study guide rather
+  than next week's. A student reading week 3's module wants week 3's guide, even though the
+  deadline has probably passed. The "start this now" job belongs to the PREP sidebar.
 
   If the fetch fails, this renders a neutral line rather than an error. A module description
   that shows 64 students a red stack trace is worse than one that shows nothing.
@@ -23,36 +23,23 @@
 <title>IGME-110 Week</title>
 <style>
   html, body {
-    margin: 0;
-    padding: 0;
-    background: transparent;
-    font-family: 'Open Sans', 'Lato', Arial, sans-serif;
-    color: #333;
+    margin: 0; padding: 0; background: transparent;
+    font-family: 'Open Sans', 'Lato', Arial, sans-serif; color: #333;
   }
   body { padding: 2px; box-sizing: border-box; }
   .wrap {
-    border: 1px solid #e0e0e0;
-    border-top: 3px solid #F76902;
-    border-radius: 4px;
-    background: #fff;
-    padding: 13px 15px;
-    box-sizing: border-box;
+    border: 1px solid #e0e0e0; border-top: 3px solid #F76902; border-radius: 4px;
+    background: #fff; padding: 13px 15px; box-sizing: border-box;
   }
   .dates {
-    font-size: 0.78em;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: #999;
-    margin: 0 0 9px 0;
+    font-size: 0.78em; text-transform: uppercase; letter-spacing: 0.06em;
+    color: #999; margin: 0 0 9px 0;
   }
   .cols { display: flex; gap: 20px; flex-wrap: wrap; }
   .col { flex: 1; min-width: 210px; }
   h3 {
-    margin: 0 0 7px 0;
-    font-size: 0.74em;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    margin: 0 0 7px 0; font-size: 0.74em; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.05em;
   }
   .col-class h3 { color: #555; }
   .col-due h3 { color: #c0392b; }
@@ -61,6 +48,12 @@
   .due { margin: 0 0 5px 0; font-size: 0.9em; line-height: 1.45; }
   .due .when { color: #888; font-size: 0.88em; }
   .quiet { color: #888; font-size: 0.9em; margin: 0; }
+  .sg {
+    margin-top: 12px; padding-top: 10px; border-top: 1px solid #eee;
+    font-size: 0.88em; line-height: 1.45;
+  }
+  .sg a { color: #2471a3; font-weight: 600; text-decoration: none; }
+  .sg .effort { color: #888; font-size: 0.9em; }
   a { color: #F76902; }
 </style>
 </head>
@@ -74,6 +67,8 @@
   const CALENDAR_URL = './calendar.json';
   const card = document.getElementById('card');
 
+  const DUE_ICON = { 'study-guide': '📘', activity: '✏️', project: '📦', survey: '📋' };
+
   // Quiet fallback. Never show students a fetch error in a module description.
   const fallback = '<p class="quiet">See the topics in this module for the week\'s materials, and check the Assignments tab for exact due dates.</p>';
 
@@ -84,7 +79,7 @@
     return isNaN(w) ? null : w;
   }
 
-  // Same math as the homepage widget, used only when ?week= is absent.
+  // Same math as the homepage widgets, used only when ?week= is absent.
   function currentWeek(semesterStart, totalWeeks) {
     const days = Math.floor((new Date() - new Date(semesterStart)) / 86400000);
     if (days < 0) return 1;
@@ -101,26 +96,37 @@
     const week = data.weeks.find(w => w.week === n);
     if (!week) throw new Error('week ' + n + ' not in calendar');
 
+    const d = week.days || {};
     const days = [
-      week.tuesday ? `<p class="day"><b>Tue</b>${esc(week.tuesday)}</p>` : '',
-      week.thursday ? `<p class="day"><b>Thu</b>${esc(week.thursday)}</p>` : ''
+      d.tue ? `<p class="day"><b>Tue</b>${esc(d.tue)}</p>` : '',
+      d.thu ? `<p class="day"><b>Thu</b>${esc(d.thu)}</p>` : ''
     ].join('');
 
     const due = (week.due && week.due.length)
-      ? week.due.map(d => {
-          const label = d.url
-            ? `<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.item)}</a>`
-            : esc(d.item);
-          return `<p class="due">${label} <span class="when">${esc(d.date)}</span></p>`;
+      ? week.due.map(x => {
+          const icon = DUE_ICON[x.type] || '•';
+          const label = x.url
+            ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.item)}</a>`
+            : esc(x.item);
+          return `<p class="due">${icon} ${label} <span class="when">${esc(x.date)}</span></p>`;
         }).join('')
       : '<p class="quiet">Nothing due this week.</p>';
+
+    const sg = week.study_guide;
+    const sgBlock = sg ? `
+      <div class="sg">
+        📘 <a href="${esc(sg.doc_url)}" target="_blank" rel="noopener">Study Guide ${sg.number}: ${esc(sg.title)}</a>
+        <span class="when" style="color:#888;">· due ${esc(sg.due)}</span>
+        <div class="effort">${esc(sg.effort || '')}</div>
+      </div>` : '';
 
     card.innerHTML = `
       <p class="dates">${esc(week.dates)}</p>
       <div class="cols">
         <div class="col col-class"><h3>This week in class</h3>${days || '<p class="quiet">Posted soon.</p>'}</div>
         <div class="col col-due"><h3>Due this week</h3>${due}</div>
-      </div>`;
+      </div>
+      ${sgBlock}`;
   } catch (err) {
     card.innerHTML = fallback;
     console.error('IGME-110 week card:', err);
