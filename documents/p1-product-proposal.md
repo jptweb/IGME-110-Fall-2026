@@ -282,7 +282,8 @@ Nothing to prepare. Bring a laptop. Your assigned teams and their proposal links
 
 ### In class on 3B
 
-**→ [Peer critique questions](https://docs.google.com/document/d/1CAPF8K9el4CezmS6bWnHoLaBGgV3lhGh40rxWIcxGd8/)**
+**→ [Peer critique questions](p1-peer-critique-questions.md)**, and the
+[Google Doc to copy the template from](https://docs.google.com/document/d/1CAPF8K9el4CezmS6bWnHoLaBGgV3lhGh40rxWIcxGd8/)
 
 For each team you review:
 
