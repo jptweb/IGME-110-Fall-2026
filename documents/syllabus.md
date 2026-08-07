@@ -161,11 +161,15 @@ If class is canceled, announcements will be posted in myCourses and Slack. We hi
 
 ### VI-d. Use of Generative AI Tools
 
-Generative AI tools (such as ChatGPT, Bing Chat, Midjourney, and others) can be very helpful, but they also pose some risks, not just because they may provide inaccurate responses, but also because they make it very easy for you to avoid learning core concepts that are fundamental building blocks in advanced work.
+Generative AI tools can be genuinely useful, and they carry two real risks. They are confidently wrong often enough that trusting them without checking will cost you marks. And they make it easy to skip past the concepts this course exists to build, which are the foundation for everything you take after it.
 
-This semester, we'll be working with some of those tools so you can see how they can be used most effectively. In general, however, whenever you use an AI tool to create content that you submit in a class, you must explicitly acknowledge that in your submission, including a transcript of the chat showing your prompts and the system responses. Failure to follow this rule will be considered an academic integrity violation.
+We'll use them deliberately in this course, starting in week 1.
 
-***Exception: For assignments that explicitly allow the use of generative AI, it is not necessary to submit a chat transcript.***
+**Every assignment tells you what's allowed.** Look for the **AI Expectations** section on the assignment itself. It states what you may use AI for on that piece of work and what you may not, and it varies: one study guide requires AI, most limit it to support work, and a few rule it out entirely. The assignment always wins over your assumptions.
+
+**When you use AI on something you submit, say so.** A brief acknowledgment is enough: name the tool, and describe in a sentence or two what you used it for. You do not need to paste in a chat transcript.
+
+**Not disclosing it is an academic integrity violation.** That part doesn't vary, and it's the only rule here worth memorizing. Using these tools is not the problem. Hiding it is.
 
 ### VI-e. Final Grades
 
