@@ -9,7 +9,9 @@
     "study_guide": "null when the week has no guide. doc_url is REQUIRED whenever a guide exists; readings[] may be empty. doc_action 'copy' opens a fill-in copy, 'view' is read-only and answers go in a new document.",
     "shape": "read-and-answer | read-and-do | deliverable | tutorial",
     "reading_type": "article | video | paper | guide | reference | tutorial | course",
-    "due_type": "study-guide | activity | project | survey"
+    "due_type": "study-guide | activity | project | survey",
+    "activities": "Complete catalog of activities that RUN in a week, graded or not. Distinct from due[], which lists things with a DEADLINE that students see in the widgets. A graded activity appears in both and check-calendar.py asserts the item strings match. 'file' is the only copy of the instructions and its H1 must equal 'item'. 'dropbox' false means no D2L entity exists and none should. status: ready | stub | unplaced.",
+    "unplaced_activities": "Activities that exist as D2L dropboxes and instruction files but have no week yet. Kept so calendar.json describes everything in the shell. Not read by any widget."
   },
   "weeks": [
     {
@@ -23,10 +25,48 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Join the course Slack", "date": "Thu Aug 27", "type": "activity", "url": null },
-        { "item": "Course Kickoff Survey", "date": "Fri Aug 28", "type": "survey", "url": null },
-        { "item": "Activity: Using Our Slack Workspace", "date": "Mon Aug 31", "type": "activity", "url": null },
-        { "item": "Activity: Brainstorming a Product Idea", "date": "Mon Aug 31", "type": "activity", "url": null }
+        {
+          "item": "Join the course Slack",
+          "date": "Thu Aug 27",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "Course Kickoff Survey",
+          "date": "Fri Aug 28",
+          "type": "survey",
+          "url": null
+        },
+        {
+          "item": "Activity: Using Our Slack Workspace",
+          "date": "Mon Aug 31",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "Activity: Brainstorming a Product Idea",
+          "date": "Mon Aug 31",
+          "type": "activity",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Using Our Slack Workspace",
+          "file": "activities/slack-workspace.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "ready"
+        },
+        {
+          "item": "Activity: Brainstorming a Product Idea",
+          "file": "activities/brainstorming-activity.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "ready"
+        }
       ],
       "study_guide": null
     },
@@ -41,9 +81,34 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 2: Finding & Evaluating Information", "date": "Mon Aug 31", "type": "study-guide", "url": null },
-        { "item": "Activity: Sources and Citations (in class)", "date": "Thu Sep 3", "type": "activity", "url": null },
-        { "item": "P1: Work Plan (one submission per team)", "date": "Fri Sep 4", "type": "project", "url": null }
+        {
+          "item": "Study Guide 2: Finding & Evaluating Information",
+          "date": "Mon Aug 31",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "Activity: Sources and Citations",
+          "date": "Thu Sep 3",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P1: Work Plan (one submission per team)",
+          "date": "Fri Sep 4",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Sources and Citations",
+          "file": "activities/sources-and-citations.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "ready"
+        }
       ],
       "study_guide": {
         "number": 2,
@@ -54,13 +119,45 @@
         "shape": "read-and-do",
         "effort": "7 readings and videos, plus an AI brainstorm. Give it about an hour.",
         "readings": [
-          { "title": "Citing Sources in Business Proposals", "type": "article", "url": "https://pressbooks.pub/profcaravellauconnmktg5115spring2023/chapter/citing-sources-in-business-proposals/" },
-          { "title": "Citations: Why Multiple Styles?", "type": "video", "url": "https://youtu.be/ibtAFfcATlU", "duration": "3 min" },
-          { "title": "The Facts about Fact Checking", "type": "video", "url": "https://www.youtube.com/watch?v=EZsaA0w_0z0", "duration": "14 min", "source": "Crash Course Navigating Digital Information #2" },
-          { "title": "RIT Libraries InfoGuide for Interactive Games and Media", "type": "guide", "url": "https://infoguides.rit.edu/game-design" },
-          { "title": "Using Generative AI for Research and Writing", "type": "article", "url": "https://writingcenter.uagc.edu/using-generative-ai-such-chatgpt-research-writing" },
-          { "title": "The Student Guide to Artificial Intelligence", "type": "article", "url": "https://studentguidetoai.org/ai-how-to-manual/", "source": "the How-To Manual section" },
-          { "title": "Generative AI at RIT (your free Gemini account)", "type": "reference", "url": "https://www.rit.edu/its/generative-ai" }
+          {
+            "title": "Citing Sources in Business Proposals",
+            "type": "article",
+            "url": "https://pressbooks.pub/profcaravellauconnmktg5115spring2023/chapter/citing-sources-in-business-proposals/"
+          },
+          {
+            "title": "Citations: Why Multiple Styles?",
+            "type": "video",
+            "url": "https://youtu.be/ibtAFfcATlU",
+            "duration": "3 min"
+          },
+          {
+            "title": "The Facts about Fact Checking",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=EZsaA0w_0z0",
+            "duration": "14 min",
+            "source": "Crash Course Navigating Digital Information #2"
+          },
+          {
+            "title": "RIT Libraries InfoGuide for Interactive Games and Media",
+            "type": "guide",
+            "url": "https://infoguides.rit.edu/game-design"
+          },
+          {
+            "title": "Using Generative AI for Research and Writing",
+            "type": "article",
+            "url": "https://writingcenter.uagc.edu/using-generative-ai-such-chatgpt-research-writing"
+          },
+          {
+            "title": "The Student Guide to Artificial Intelligence",
+            "type": "article",
+            "url": "https://studentguidetoai.org/ai-how-to-manual/",
+            "source": "the How-To Manual section"
+          },
+          {
+            "title": "Generative AI at RIT (your free Gemini account)",
+            "type": "reference",
+            "url": "https://www.rit.edu/its/generative-ai"
+          }
         ]
       }
     },
@@ -75,9 +172,34 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 3: Critiquing & Defending Ideas", "date": "Tue Sep 8, 2:00 PM", "type": "study-guide", "url": null },
-        { "item": "P1: Draft", "date": "Wed Sep 9", "type": "project", "url": null },
-        { "item": "P1: Critiques", "date": "Fri Sep 11", "type": "project", "url": null }
+        {
+          "item": "Study Guide 3: Critiquing & Defending Ideas",
+          "date": "Tue Sep 8, 2:00 PM",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "P1: Draft",
+          "date": "Wed Sep 9",
+          "type": "project",
+          "url": null
+        },
+        {
+          "item": "P1: Peer Critiques",
+          "date": "Fri Sep 11",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Critique Rehearsal",
+          "file": "activities/critique-rehearsal.md",
+          "day": "tue",
+          "graded": false,
+          "dropbox": false,
+          "status": "ready"
+        }
       ],
       "study_guide": {
         "number": 3,
@@ -89,10 +211,32 @@
         "effort": "4 readings and videos, about 40 minutes",
         "_removed": "'How to Give Kind Criticism, and Avoid Being Critical' (zenhabits) 404s as of 2026-08-05. No SG3 question depended on it. Needs a replacement or the Google Doc's reading list edited to match.",
         "readings": [
-          { "title": "Seven Keys to Effective Feedback", "type": "article", "url": "https://ascd.org/el/articles/seven-keys-to-effective-feedback", "author": "Grant Wiggins" },
-          { "title": "Rhetoric: Essentials of an Argument", "type": "video", "url": "https://www.youtube.com/watch?v=KdE862C9YOI", "duration": "8 min", "source": "Purdue OWL" },
-          { "title": "The Secret to Successfully Pitching an Idea", "type": "video", "url": "https://www.youtube.com/watch?v=l0hVIH3EnlQ", "duration": "10 min", "source": "TED" },
-          { "title": "How to Accept Criticism with Grace and Appreciation", "type": "article", "url": "https://zenhabits.net/how-to-accept-criticism-with-grace-and-appreciation/", "source": "Zen Habits" }
+          {
+            "title": "Seven Keys to Effective Feedback",
+            "type": "article",
+            "url": "https://ascd.org/el/articles/seven-keys-to-effective-feedback",
+            "author": "Grant Wiggins"
+          },
+          {
+            "title": "Rhetoric: Essentials of an Argument",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=KdE862C9YOI",
+            "duration": "8 min",
+            "source": "Purdue OWL"
+          },
+          {
+            "title": "The Secret to Successfully Pitching an Idea",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=l0hVIH3EnlQ",
+            "duration": "10 min",
+            "source": "TED"
+          },
+          {
+            "title": "How to Accept Criticism with Grace and Appreciation",
+            "type": "article",
+            "url": "https://zenhabits.net/how-to-accept-criticism-with-grace-and-appreciation/",
+            "source": "Zen Habits"
+          }
         ]
       }
     },
@@ -107,9 +251,34 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 4: Legal Aspects of Media", "date": "Mon Sep 14", "type": "study-guide", "url": null },
-        { "item": "Activity: Asset Scavenger Hunt (in class)", "date": "Tue Sep 15", "type": "activity", "url": null },
-        { "item": "P1: Final Proposal", "date": "Fri Sep 18", "type": "project", "url": null }
+        {
+          "item": "Study Guide 4: Legal Aspects of Media",
+          "date": "Mon Sep 14",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "Activity: Asset Scavenger Hunt",
+          "date": "Tue Sep 15",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P1: Final Proposal",
+          "date": "Fri Sep 18",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Asset Scavenger Hunt",
+          "file": "activities/asset-scavenger-hunt.md",
+          "day": "tue",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
       ],
       "study_guide": {
         "number": 4,
@@ -120,13 +289,47 @@
         "shape": "read-and-answer",
         "effort": "7 readings and videos, about an hour",
         "readings": [
-          { "title": "Trademark, patent, or copyright?", "type": "article", "url": "https://www.uspto.gov/trademarks/basics/trademark-patent-copyright", "source": "USPTO" },
-          { "title": "Can I use someone else's work? Can someone else use mine?", "type": "article", "url": "https://www.copyright.gov/help/faq/faq-fairuse.html", "source": "US Copyright Office" },
-          { "title": "Wanna Work Together?", "type": "video", "url": "https://www.youtube.com/watch?v=q0VzUigrb_g", "source": "Creative Commons" },
-          { "title": "Finding Public Domain & Creative Commons Media", "type": "guide", "url": "https://guides.library.harvard.edu/law/pd-cc", "source": "Harvard Library" },
-          { "title": "Asteroids and Meteors and Lawyers", "type": "article", "url": "https://prologue.blogs.archives.gov/2022/02/10/asteroids-and-meteors-and-lawyers-how-i-learned-to-stop-worrying-and-love-copyright-law/", "source": "US National Archives" },
-          { "title": "Protecting your intellectual property as a content creator", "type": "article", "url": "https://www.descript.com/blog/article/protecting-your-intellectual-property-as-a-content-creator-tips-from-an-ip-lawyer" },
-          { "title": "Digital Millennium Copyright Act (DMCA)", "type": "reference", "url": "https://www.eff.org/issues/dmca", "source": "EFF" }
+          {
+            "title": "Trademark, patent, or copyright?",
+            "type": "article",
+            "url": "https://www.uspto.gov/trademarks/basics/trademark-patent-copyright",
+            "source": "USPTO"
+          },
+          {
+            "title": "Can I use someone else's work? Can someone else use mine?",
+            "type": "article",
+            "url": "https://www.copyright.gov/help/faq/faq-fairuse.html",
+            "source": "US Copyright Office"
+          },
+          {
+            "title": "Wanna Work Together?",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=q0VzUigrb_g",
+            "source": "Creative Commons"
+          },
+          {
+            "title": "Finding Public Domain & Creative Commons Media",
+            "type": "guide",
+            "url": "https://guides.library.harvard.edu/law/pd-cc",
+            "source": "Harvard Library"
+          },
+          {
+            "title": "Asteroids and Meteors and Lawyers",
+            "type": "article",
+            "url": "https://prologue.blogs.archives.gov/2022/02/10/asteroids-and-meteors-and-lawyers-how-i-learned-to-stop-worrying-and-love-copyright-law/",
+            "source": "US National Archives"
+          },
+          {
+            "title": "Protecting your intellectual property as a content creator",
+            "type": "article",
+            "url": "https://www.descript.com/blog/article/protecting-your-intellectual-property-as-a-content-creator-tips-from-an-ip-lawyer"
+          },
+          {
+            "title": "Digital Millennium Copyright Act (DMCA)",
+            "type": "reference",
+            "url": "https://www.eff.org/issues/dmca",
+            "source": "EFF"
+          }
         ]
       }
     },
@@ -141,9 +344,34 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 5: Types of Media", "date": "Mon Sep 21", "type": "study-guide", "url": null },
-        { "item": "Activity: Transmedia Adaptation (in class)", "date": "Tue Sep 22", "type": "activity", "url": null },
-        { "item": "P1: Reflections and Peer Evaluation", "date": "Fri Sep 25", "type": "project", "url": null }
+        {
+          "item": "Study Guide 5: Types of Media",
+          "date": "Mon Sep 21",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "Activity: Transmedia Adaptation",
+          "date": "Tue Sep 22",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P1: Reflections and Peer Evaluation",
+          "date": "Fri Sep 25",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Transmedia Adaptation",
+          "file": "activities/transmedia-adaptation.md",
+          "day": "tue",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
       ],
       "study_guide": {
         "number": 5,
@@ -154,10 +382,33 @@
         "shape": "read-and-answer",
         "effort": "4 readings, one of them an academic paper. You only need its abstract and conclusion.",
         "readings": [
-          { "title": "Seeing Is Believing: Is Video Modality More Powerful in Spreading Fake News?", "type": "paper", "url": "https://academic.oup.com/jcmc/article/26/6/301/6336055", "author": "Sundar, Molina & Cho", "source": "abstract and conclusion are enough" },
-          { "title": "Writing Style for Print vs. Web", "type": "article", "url": "https://www.nngroup.com/articles/writing-style-for-print-vs-web/", "author": "Jakob Nielsen", "source": "Nielsen Norman Group" },
-          { "title": "Heritage Minutes: Marshall McLuhan", "type": "video", "url": "https://www.youtube.com/watch?v=QNKpK_InQHQ", "duration": "1 min", "source": "Historica Canada" },
-          { "title": "The Medium Is The Message", "type": "article", "url": "https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/", "source": "Smashing Magazine" }
+          {
+            "title": "Seeing Is Believing: Is Video Modality More Powerful in Spreading Fake News?",
+            "type": "paper",
+            "url": "https://academic.oup.com/jcmc/article/26/6/301/6336055",
+            "author": "Sundar, Molina & Cho",
+            "source": "abstract and conclusion are enough"
+          },
+          {
+            "title": "Writing Style for Print vs. Web",
+            "type": "article",
+            "url": "https://www.nngroup.com/articles/writing-style-for-print-vs-web/",
+            "author": "Jakob Nielsen",
+            "source": "Nielsen Norman Group"
+          },
+          {
+            "title": "Heritage Minutes: Marshall McLuhan",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=QNKpK_InQHQ",
+            "duration": "1 min",
+            "source": "Historica Canada"
+          },
+          {
+            "title": "The Medium Is The Message",
+            "type": "article",
+            "url": "https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/",
+            "source": "Smashing Magazine"
+          }
         ]
       }
     },
@@ -172,10 +423,48 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 6: Visual Design & Typography", "date": "Mon Sep 28", "type": "study-guide", "url": null },
-        { "item": "Activity: Mood Board (in class)", "date": "Tue Sep 29", "type": "activity", "url": null },
-        { "item": "Activity: Typography Core Concepts (in class)", "date": "Thu Oct 1", "type": "activity", "url": null },
-        { "item": "P2: Plan", "date": "Fri Oct 2", "type": "project", "url": null }
+        {
+          "item": "Study Guide 6: Visual Design & Typography",
+          "date": "Mon Sep 28",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "Activity: Mood Board",
+          "date": "Tue Sep 29",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "Activity: Typography Core Concepts",
+          "date": "Thu Oct 1",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P2: Plan",
+          "date": "Fri Oct 2",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Mood Board",
+          "file": "activities/mood-board.md",
+          "day": "tue",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        },
+        {
+          "item": "Activity: Typography Core Concepts",
+          "file": "activities/typography-core-concepts.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
       ],
       "study_guide": {
         "number": 6,
@@ -186,10 +475,31 @@
         "shape": "deliverable",
         "effort": "A one-hour video course plus three short reads, then two things to hand in. Don't leave this one to the last night.",
         "readings": [
-          { "title": "Introduction to Graphic Design Concepts", "type": "course", "url": "https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462?u=42272537", "duration": "1 hour", "source": "LinkedIn Learning, sign in with your RIT account first" },
-          { "title": "A checklist for choosing type", "type": "article", "url": "https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type", "source": "Google Fonts Knowledge" },
-          { "title": "The Ultimate Guide to Font Pairing", "type": "article", "url": "https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/", "source": "Canva" },
-          { "title": "Adobe Color", "type": "reference", "url": "https://color.adobe.com/", "source": "a tool to play with, not a reading" }
+          {
+            "title": "Introduction to Graphic Design Concepts",
+            "type": "course",
+            "url": "https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462?u=42272537",
+            "duration": "1 hour",
+            "source": "LinkedIn Learning, sign in with your RIT account first"
+          },
+          {
+            "title": "A checklist for choosing type",
+            "type": "article",
+            "url": "https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type",
+            "source": "Google Fonts Knowledge"
+          },
+          {
+            "title": "The Ultimate Guide to Font Pairing",
+            "type": "article",
+            "url": "https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/",
+            "source": "Canva"
+          },
+          {
+            "title": "Adobe Color",
+            "type": "reference",
+            "url": "https://color.adobe.com/",
+            "source": "a tool to play with, not a reading"
+          }
         ]
       }
     },
@@ -204,9 +514,34 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 7: Visual Communication & Infographics", "date": "Mon Oct 5", "type": "study-guide", "url": null },
-        { "item": "Activity: Infographic Peer Feedback (in class)", "date": "Thu Oct 8", "type": "activity", "url": null },
-        { "item": "P2: Mockup & Critiques", "date": "Fri Oct 9", "type": "project", "url": null }
+        {
+          "item": "Study Guide 7: Visual Communication & Infographics",
+          "date": "Mon Oct 5",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "Activity: Infographic Peer Feedback",
+          "date": "Thu Oct 8",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P2: Mockup & Critiques",
+          "date": "Fri Oct 9",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Infographic Peer Feedback",
+          "file": "activities/infographic-peer-feedback.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
       ],
       "study_guide": {
         "number": 7,
@@ -217,13 +552,47 @@
         "shape": "read-and-do",
         "effort": "4 readings and videos, plus actually trying two infographic tools and reviewing them",
         "readings": [
-          { "title": "What is Visual Communication? How It Works", "type": "video", "url": "https://www.youtube.com/watch?v=F0p_9nQsl_o" },
-          { "title": "How to make an infographic", "type": "video", "url": "https://www.youtube.com/watch?v=36SIUe_mOZU", "source": "Canva" },
-          { "title": "What Makes a Good Infographic?", "type": "article", "url": "https://venngage.com/blog/good-infographic/", "source": "Venngage" },
-          { "title": "The best infographic maker to use", "type": "article", "url": "https://www.creativebloq.com/infographic/tools-2131971", "source": "Creative Bloq, pick your two tools from here" },
-          { "title": "20 of the Best Infographics and What You Can Learn From Them", "type": "reference", "url": "https://piktochart.com/blog/best-infographics/", "source": "examples" },
-          { "title": "42 Infographic Examples That Inspired Us", "type": "reference", "url": "https://piktochart.com/blog/infographic-examples/", "source": "examples" },
-          { "title": "7 Ways to Show Product Value Using Infographics", "type": "reference", "url": "https://venngage.com/blog/product-infographic/", "source": "examples" }
+          {
+            "title": "What is Visual Communication? How It Works",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=F0p_9nQsl_o"
+          },
+          {
+            "title": "How to make an infographic",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=36SIUe_mOZU",
+            "source": "Canva"
+          },
+          {
+            "title": "What Makes a Good Infographic?",
+            "type": "article",
+            "url": "https://venngage.com/blog/good-infographic/",
+            "source": "Venngage"
+          },
+          {
+            "title": "The best infographic maker to use",
+            "type": "article",
+            "url": "https://www.creativebloq.com/infographic/tools-2131971",
+            "source": "Creative Bloq, pick your two tools from here"
+          },
+          {
+            "title": "20 of the Best Infographics and What You Can Learn From Them",
+            "type": "reference",
+            "url": "https://piktochart.com/blog/best-infographics/",
+            "source": "examples"
+          },
+          {
+            "title": "42 Infographic Examples That Inspired Us",
+            "type": "reference",
+            "url": "https://piktochart.com/blog/infographic-examples/",
+            "source": "examples"
+          },
+          {
+            "title": "7 Ways to Show Product Value Using Infographics",
+            "type": "reference",
+            "url": "https://venngage.com/blog/product-infographic/",
+            "source": "examples"
+          }
         ]
       }
     },
@@ -238,7 +607,12 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "P2: Final", "date": "Fri Oct 16", "type": "project", "url": null }
+        {
+          "item": "P2: Final",
+          "date": "Fri Oct 16",
+          "type": "project",
+          "url": null
+        }
       ],
       "study_guide": null
     },
@@ -253,8 +627,18 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 9: Prototyping & Accessibility", "date": "Mon Oct 19", "type": "study-guide", "url": null },
-        { "item": "P3: Work Plan & Personas", "date": "Fri Oct 23", "type": "project", "url": null }
+        {
+          "item": "Study Guide 9: Prototyping & Accessibility",
+          "date": "Mon Oct 19",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "P3: Work Plan & Personas",
+          "date": "Fri Oct 23",
+          "type": "project",
+          "url": null
+        }
       ],
       "study_guide": {
         "number": 9,
@@ -265,8 +649,17 @@
         "shape": "tutorial",
         "effort": "Set up Figma and work through the Hello Figma tutorial. Several things to hand in, so don't start this the night before.",
         "readings": [
-          { "title": "Set up a Figma education account", "type": "reference", "url": "https://www.figma.com/education/", "source": "required before class on 9A" },
-          { "title": "World's shortest Figma course", "type": "video", "url": "https://www.youtube.com/watch?v=1pW_sk-2y40" }
+          {
+            "title": "Set up a Figma education account",
+            "type": "reference",
+            "url": "https://www.figma.com/education/",
+            "source": "required before class on 9A"
+          },
+          {
+            "title": "World's shortest Figma course",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=1pW_sk-2y40"
+          }
         ]
       }
     },
@@ -281,9 +674,34 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 10: Interaction Design & Prototyping", "date": "Mon Oct 26", "type": "study-guide", "url": null },
-        { "item": "Activity: Enhance the Figma Prototype (in class)", "date": "Thu Oct 29", "type": "activity", "url": null },
-        { "item": "P3: Lo-Fi Prototype, User Flows & Testing Script", "date": "Fri Oct 30", "type": "project", "url": null }
+        {
+          "item": "Study Guide 10: Interaction Design & Prototyping",
+          "date": "Mon Oct 26",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "Activity: Enhance the Figma Prototype",
+          "date": "Thu Oct 29",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P3: Lo-Fi Prototype, User Flows & Testing Script",
+          "date": "Fri Oct 30",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Enhance the Figma Prototype",
+          "file": "activities/enhance-the-figma-prototype.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
       ],
       "study_guide": {
         "number": 10,
@@ -294,15 +712,55 @@
         "shape": "read-and-answer",
         "effort": "6 short videos and readings, 3 more optional. The longest list of the semester, but most of it is video.",
         "readings": [
-          { "title": "Interaction Design Basics: 5 Principles", "type": "video", "url": "https://youtu.be/U7rS_2ch_Ps" },
-          { "title": "World's shortest UI/UX design course", "type": "video", "url": "https://www.youtube.com/watch?v=wIuVvCuiJhU" },
-          { "title": "Prototypes vs Wireframes in UX Projects", "type": "video", "url": "https://www.youtube.com/watch?v=miVcrftnhzM" },
-          { "title": "The Goldilocks Principle for Prototyping", "type": "video", "url": "https://www.youtube.com/watch?v=wNh8bl-R5j0" },
-          { "title": "Video Game Design and User Experience", "type": "video", "url": "https://www.youtube.com/watch?v=1mTI1rjQiOE" },
-          { "title": "Prototyping: Paper Versus Digital", "type": "article", "url": "https://www.uxmatters.com/mt/archives/2017/05/prototyping-paper-versus-digital.php", "source": "UXmatters" },
-          { "title": "128 Best Prototype Templates and Examples", "type": "article", "url": "https://www.userinterviews.com/blog/best-prototype-templates-examples", "source": "optional" },
-          { "title": "World's shortest Figma course", "type": "video", "url": "https://www.youtube.com/watch?v=1pW_sk-2y40", "source": "optional" },
-          { "title": "Google Slides = App Prototype", "type": "article", "url": "https://medium.com/@gkulowiec/google-slides-app-prototype-23e5d4b76e92", "source": "optional" }
+          {
+            "title": "Interaction Design Basics: 5 Principles",
+            "type": "video",
+            "url": "https://youtu.be/U7rS_2ch_Ps"
+          },
+          {
+            "title": "World's shortest UI/UX design course",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=wIuVvCuiJhU"
+          },
+          {
+            "title": "Prototypes vs Wireframes in UX Projects",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=miVcrftnhzM"
+          },
+          {
+            "title": "The Goldilocks Principle for Prototyping",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=wNh8bl-R5j0"
+          },
+          {
+            "title": "Video Game Design and User Experience",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=1mTI1rjQiOE"
+          },
+          {
+            "title": "Prototyping: Paper Versus Digital",
+            "type": "article",
+            "url": "https://www.uxmatters.com/mt/archives/2017/05/prototyping-paper-versus-digital.php",
+            "source": "UXmatters"
+          },
+          {
+            "title": "128 Best Prototype Templates and Examples",
+            "type": "article",
+            "url": "https://www.userinterviews.com/blog/best-prototype-templates-examples",
+            "source": "optional"
+          },
+          {
+            "title": "World's shortest Figma course",
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=1pW_sk-2y40",
+            "source": "optional"
+          },
+          {
+            "title": "Google Slides = App Prototype",
+            "type": "article",
+            "url": "https://medium.com/@gkulowiec/google-slides-app-prototype-23e5d4b76e92",
+            "source": "optional"
+          }
         ]
       }
     },
@@ -317,8 +775,18 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Study Guide 11: User Testing", "date": "Mon Nov 2", "type": "study-guide", "url": null },
-        { "item": "P3: Testing Results & Debrief", "date": "Fri Nov 6", "type": "project", "url": null }
+        {
+          "item": "Study Guide 11: User Testing",
+          "date": "Mon Nov 2",
+          "type": "study-guide",
+          "url": null
+        },
+        {
+          "item": "P3: Testing Results & Debrief",
+          "date": "Fri Nov 6",
+          "type": "project",
+          "url": null
+        }
       ],
       "study_guide": {
         "number": 11,
@@ -329,9 +797,24 @@
         "shape": "read-and-answer",
         "effort": "3 short articles, about 30 minutes. The shortest guide of the semester.",
         "readings": [
-          { "title": "Usability (User) Testing 101", "type": "article", "url": "https://www.nngroup.com/articles/usability-testing-101/", "source": "Nielsen Norman Group" },
-          { "title": "You Are Not the User: The False-Consensus Effect", "type": "article", "url": "https://www.nngroup.com/articles/false-consensus/", "source": "Nielsen Norman Group" },
-          { "title": "How to write effective tasks for prototype testing", "type": "article", "url": "https://support.optimalworkshop.com/en/articles/9689728-how-to-write-effective-tasks-for-prototype-testing", "source": "Optimal Workshop" }
+          {
+            "title": "Usability (User) Testing 101",
+            "type": "article",
+            "url": "https://www.nngroup.com/articles/usability-testing-101/",
+            "source": "Nielsen Norman Group"
+          },
+          {
+            "title": "You Are Not the User: The False-Consensus Effect",
+            "type": "article",
+            "url": "https://www.nngroup.com/articles/false-consensus/",
+            "source": "Nielsen Norman Group"
+          },
+          {
+            "title": "How to write effective tasks for prototype testing",
+            "type": "article",
+            "url": "https://support.optimalworkshop.com/en/articles/9689728-how-to-write-effective-tasks-for-prototype-testing",
+            "source": "Optimal Workshop"
+          }
         ]
       }
     },
@@ -346,7 +829,12 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "P3: Hi-Fi Prototype & Presentation", "date": "Thu Nov 12", "type": "project", "url": null }
+        {
+          "item": "P3: Hi-Fi Prototype & Presentation",
+          "date": "Thu Nov 12",
+          "type": "project",
+          "url": null
+        }
       ],
       "study_guide": null
     },
@@ -361,10 +849,48 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Activity: Audio Editing with Audacity (in class)", "date": "Tue Nov 17", "type": "activity", "url": null },
-        { "item": "Activity: Video Production (in class)", "date": "Thu Nov 19", "type": "activity", "url": null },
-        { "item": "P4: Storyboard", "date": "Fri Nov 20", "type": "project", "url": null },
-        { "item": "P3: Peer Eval & Reflection", "date": "Fri Nov 20", "type": "project", "url": null }
+        {
+          "item": "Activity: Audio Editing with Audacity",
+          "date": "Tue Nov 17",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "Activity: Video Production",
+          "date": "Thu Nov 19",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P4: Storyboard",
+          "date": "Fri Nov 20",
+          "type": "project",
+          "url": null
+        },
+        {
+          "item": "P3: Peer Eval & Reflection",
+          "date": "Fri Nov 20",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Audio Editing with Audacity",
+          "file": "activities/audio-editing-with-audacity.md",
+          "day": "tue",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        },
+        {
+          "item": "Activity: Video Production",
+          "file": "activities/video-production.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
       ],
       "study_guide": null
     },
@@ -392,10 +918,59 @@
       },
       "slides_url": null,
       "due": [
-        { "item": "Activity: Best Foot Forward (in class)", "date": "Thu Dec 3", "type": "activity", "url": null },
-        { "item": "P4: Rough Cut", "date": "Fri Dec 4", "type": "project", "url": null }
+        {
+          "item": "Activity: Best Foot Forward",
+          "date": "Thu Dec 3",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P4: Rough Cut",
+          "date": "Fri Dec 4",
+          "type": "project",
+          "url": null
+        }
+      ],
+      "activities": [
+        {
+          "item": "Activity: Best Foot Forward",
+          "file": "activities/best-foot-forward.md",
+          "day": "thu",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
       ],
       "study_guide": null
+    }
+  ],
+  "unplaced_activities": [
+    {
+      "item": "Activity: You're the Critic",
+      "file": "activities/youre-the-critic.md",
+      "graded": true,
+      "dropbox": true,
+      "status": "unplaced",
+      "shape": "take-home",
+      "note": "Displaced from week 3. Week 4 or 5 candidate. See Fall-2026-Open-Decisions.md."
+    },
+    {
+      "item": "Activity: Markdown and GitHub",
+      "file": "activities/markdown-and-github.md",
+      "graded": true,
+      "dropbox": true,
+      "status": "unplaced",
+      "shape": "in-class",
+      "note": "HTML/Markdown/GitHub arc, keep-or-cut open. Build-Log:92. Pairs with GitHub Pages."
+    },
+    {
+      "item": "Activity: GitHub Pages & HTML",
+      "file": "activities/github-pages-and-html.md",
+      "graded": true,
+      "dropbox": true,
+      "status": "unplaced",
+      "shape": "in-class",
+      "note": "Step 2 of the arc. Do not schedule without Markdown and GitHub."
     }
   ]
 }

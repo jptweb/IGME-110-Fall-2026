@@ -1,6 +1,6 @@
-# Using Our Slack Workspace
+# Activity: Using Our Slack Workspace
 
-**IGME-110 | Course Resource**
+**IGME-110 | Week 1B | In-Class Activity**
 
 We use Slack for course communication, project coordination, and getting help fast. This is a
 one-time setup, done in class, so nobody is quietly locked out in week six.
