@@ -1,21 +1,3 @@
-<!--
-STATUS:   stub — description close to final, mechanics need writing
-WEEK:     15B, Thu Dec 3
-DROPBOX:  Activity: Best Foot Forward
-          ⚠️ This dropbox currently has NO grade item attached. It cannot be graded
-          until one is created.
-SOURCE:   JP Fall 2025, 10 pts, due 2025-12-08. Google Doc instructions:
-          https://docs.google.com/document/d/1p41_Cqv-yEOTR7rVBxQBNnDI95jmGc2WdUC_tlHiELg/edit
-FITS:     Pillar 1 (field, path, demands) and the course wrap. Last activity of the term,
-          paired with "where you go next" on the same day.
-OPEN:     - Privacy. Asking first-years to search themselves can surface things they'd
-            rather not discuss, and asking them to submit what they found makes it
-            worse. F25 seems to have submitted the LinkedIn profile plus a reflection.
-            Confirm nothing requires handing in search results.
-          - LinkedIn requires an account. Need an alternative for students who won't
-            make one, and that is a reasonable position to hold.
--->
-
 # Activity: Best Foot Forward
 
 **IGME-110 | Week 15B | In-Class Activity**

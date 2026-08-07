@@ -1,19 +1,3 @@
-<!--
-STATUS:   adapted from Fall 2025, near-complete. Needs a read-through, not a rewrite.
-WEEK:     7B, Thu Oct 8
-DROPBOX:  Activity: Infographic Peer Feedback
-          (grade item currently "Infographic - Informal Peer Feedback Reflection")
-SOURCE:   JP Fall 2025, 10 pts, due 2025-10-17, ran on 8B. Full text recovered from
-          Fall-2025-Assignments-Index.md.
-NOTE:     Fall-2025-InClass-Activities-Map.md calls this "the only in-class activity
-          that's clearly a class-meeting artifact" — the other F25 ones could all have
-          been done alone in a dorm. Worth protecting for that reason.
-OPEN:     - Question 5 in F25 pointed forward to P3 starting "next week". Verify that
-            still lines up: P3 launches week 9 here, so the bridge is two weeks out.
-          - F25's absent-student policy is preserved below. Confirm it matches the
-            course-wide rule once that gets written into the syllabus.
--->
-
 # Activity: Infographic Peer Feedback
 
 **IGME-110 | Week 7B | In-Class Activity**

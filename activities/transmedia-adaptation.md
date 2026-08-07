@@ -1,22 +1,3 @@
-<!--
-STATUS:   stub — not ready to transclude
-WEEK:     5A, Tue Sep 22
-DROPBOX:  Activity: Transmedia Adaptation
-SOURCE:   Tony's, ran Fall 2025 (10 pts, due 2025-09-27). Instructions lived in his
-          weekly note, not a separate exercise file:
-          https://github.com/tonethar/IGME-110-Fall-2025/blob/main/weekly/5B.md#iv-in-class-exercise---transmedia-round-robintelephone-game
-          Local: archives/tony-materials/IGME-110-Spring-2026-main/
-NAME:     F25 called it `Transmedia Adaption Exercise` — misspelled, and "Exercise"
-          is retired in favor of "Activity".
-FORMAT:   Round-robin / telephone game. Groups adapt a story across media, each pass
-          moving it to a new medium, and the drift is the lesson.
-OPEN:     - It ran on 5B in F25, mapped to 5A here. Confirm which day it belongs on.
-          - Group posting: F25 required someone from each group to post to a
-            "Transmedia Assignment Submissions" Slack thread. Keep that? It works well
-            with the Slack workspace already being live.
-          - Needs the actual round-robin instructions lifted out of Tony's 5B note.
--->
-
 # Activity: Transmedia Adaptation
 
 **IGME-110 | Week 5A | In-Class Activity**

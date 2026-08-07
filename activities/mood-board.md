@@ -1,18 +1,3 @@
-<!--
-STATUS:   stub — not ready to transclude
-WEEK:     6A, Tue Sep 29
-DROPBOX:  Activity: Mood Board  (grade item currently reads "Visual Design: Mood Board")
-SOURCE:   JP Fall 2025, 15 pts, due 2025-10-03. Google Doc instructions:
-          https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/edit
-NOTE:     F25 dropbox body said "We work on this in class on Thursday!! This is why the
-          due date is so soon; its designed to be done in class." That intent is now the
-          course-wide rule, so it no longer needs saying per-activity.
-OPEN:     - 15 pts in F25 vs 10 for most others. Keep the higher weight?
-          - Tool. Canva is already in the course stack and does this well.
-          - Week 6 carries TWO activities (this and Typography). Confirm both fit
-            alongside the P2 Plan deadline that Friday.
--->
-
 # Activity: Mood Board
 
 **IGME-110 | Week 6A | In-Class Activity**

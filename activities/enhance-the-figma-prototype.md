@@ -1,21 +1,3 @@
-<!--
-STATUS:   stub with real requirements recovered — needs the class-build context rewritten
-WEEK:     10B, Thu Oct 29
-DROPBOX:  Activity: Enhance the Figma Prototype
-          (grade item currently "Prototype: Enhance the Figma Prototype we made on class"
-          — "on class" typo, fix it)
-SOURCE:   JP Fall 2025, 10 pts, due 2025-10-25, ran off 9A's in-class Figma build.
-          F25 note: https://github.com/jptweb/IGME-110-Fall-2025/blob/main/weekly/9A.md
-DEPENDS:  ⚠️ This activity only works if a prototype gets built together in class first.
-          In F25 that was 9A. In the Fall 2026 map the Figma demo is 10A (Tue Oct 27)
-          and this runs 10B. Confirm 10A actually produces a shared artifact, or this
-          has nothing to enhance.
-OPEN:     - F25 offered "Option A / Option B" and the index only preserved Option A.
-            Find Option B in the 9A note or drop the branching.
-          - F25 pointed absent students at a teaching guide + companion video. Both
-            need to exist for Fall 2026 or the absent path breaks.
--->
-
 # Activity: Enhance the Figma Prototype
 
 **IGME-110 | Week 10B | In-Class Activity**

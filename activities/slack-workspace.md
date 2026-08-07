@@ -33,10 +33,6 @@ Getting to that exact URL is most of the battle. Once you're there, you'll see a
 screen, the same one you see for everything else. Sign in with your username (`abc1234`) and
 your RIT password.
 
-<!-- SCREENSHOT SLOT: the green "Sign in with RIT login" button on rit.enterprise.slack.com.
-     JP said he may add this. Upload to a GitHub issue and paste the URL like the other
-     activity does. -->
-
 > ⚠️ **You are not creating a Slack account.** There is no Slack username and no Slack
 > password. If a screen is asking you to type an email address or make up a password, you're in
 > the wrong place. Go back to the URL above and look for the green button.

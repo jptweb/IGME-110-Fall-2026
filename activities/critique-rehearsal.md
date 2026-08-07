@@ -1,34 +1,3 @@
-<!--
-STATUS:   real content, shape not final
-WEEK:     3A, Tue Sep 8
-DROPBOX:  NONE. This activity is deliberately ungraded and creates no D2L entity.
-WHY:      Week 3 already carries three deadlines (SG3 Tue, P1 Draft Wed, P1 Peer
-          Critiques Fri) against a rhythm designed for two. `P1: Peer Critiques` is a
-          20-point graded critique written in class on 3B, so the week already has its
-          critique assessment. A fourth deadline assessing the same skill four days
-          earlier was the thing we decided against.
-          Full reasoning: 01-Weekly-Topics/Week-03-Critiquing-Defending/Week-03.md
-
-TWO SHAPES THIS COULD TAKE. Not yet chosen; either fits the slot.
-
-  A. Whole-room modeled critique (currently what 3A.md describes, ~18 min)
-     Put an anonymized Fall 2025 draft proposal on screen. Work through one or two
-     sections as a room using the questions below. Push back on every vague answer.
-     Cheap to run, needs one prepared artifact, dies if the room won't engage with a
-     stranger's work.
-     Fallback if it dies: same questions, but each team runs them silently on their
-     OWN draft for ten minutes.
-
-  B. Structured pro/con game (Metagame-style, ~25-35 min)
-     Groups take assigned positions and argue a product for and against. Closer to
-     Eric's Metagame, which is blocked on a card deck JP does not have. `To Buy or
-     Not to Buy` in JP's own rubrics_d2l.xml is the same pedagogy and needs no deck.
-     Costs more minutes than A, and 3A also has to protect draft studio time.
-
-  Worst case this block is skipped entirely and 3A becomes opener + draft studio.
-  Because there is no dropbox, skipping it costs nothing and breaks no grade.
--->
-
 # Activity: Critique Rehearsal
 
 **IGME-110 | Week 3A | In-Class**
