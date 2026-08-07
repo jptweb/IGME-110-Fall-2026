@@ -74,7 +74,7 @@ recommended.)*
 2. For each of the three sources: the title, the link, your search terms, and why you picked it
 3. Your formatted APA bibliography of all three
 
-Submit it to the myCourses dropbox. Google Doc, PDF, or Word all work.
+Hand it in on myCourses. Google Doc, PDF, or Word all work.
 
 **Finish it in class if you can.** That's what the time is for.
 

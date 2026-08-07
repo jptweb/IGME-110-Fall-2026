@@ -102,7 +102,7 @@ Don't impersonate anyone or post anything that violates the RIT Code of Conduct.
 
 ## How to submit
 
-Copy the link to your introduction post and paste it into the myCourses dropbox.
+Copy the link to your introduction post and hand it in on myCourses.
 
 Hover over your message, click the **⋯** menu, choose **Copy link**. That's your submission.
 

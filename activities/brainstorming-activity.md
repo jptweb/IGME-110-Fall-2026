@@ -209,11 +209,11 @@ The work happens in Slack. The submission is two links.
 - Post your idea as a new message in your section's channel
 - Reply in thread to at least one classmate
 
-**2. Then paste both links into the myCourses dropbox:**
+**2. Then hand both links in on myCourses:**
 
 - Hover over your own message in Slack, click the **⋯** menu, choose **Copy link**
 - Do the same for your threaded reply
-- Paste both into the dropbox and submit
+- Submit both
 
 That's the whole submission. Two URLs.
 

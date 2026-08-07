@@ -33,8 +33,8 @@ Write a short reflection, 150 to 200 words, answering these five:
 5. **Forward thinking.** P3 is prototypes. If your infographic's content became an
    interactive app, what would users expect to be able to click on?
 
-**Due the night of class, 11:59 PM.** Submit as text straight into the dropbox, or upload
-a Word doc or PDF. Whichever is easier.
+**Due the night of class, 11:59 PM.** Hand it in on myCourses. Plain text, a Word doc, or a
+PDF all work, whichever is easier.
 
 ## If you were absent
 
