@@ -10,7 +10,7 @@
     "shape": "read-and-answer | read-and-do | deliverable | tutorial",
     "reading_type": "article | video | paper | guide | reference | tutorial | course",
     "due_type": "study-guide | activity | project | survey",
-    "activities": "Complete catalog of activities that RUN in a week, graded or not. Distinct from due[], which lists things with a DEADLINE that students see in the widgets. A graded activity appears in both and check-calendar.py asserts the item strings match. 'file' is the only copy of the instructions and its H1 must equal 'item'. 'dropbox' false means no D2L entity exists and none should. status: ready | stub | unplaced.",
+    "activities": "Complete catalog of activities that RUN in a week, graded or not. Distinct from due[], which lists things with a DEADLINE that students see in the widgets. A graded activity appears in both and check-calendar.py asserts the item strings match. 'item' is the ONE canonical string: it names the submission entity, it must equal the markdown H1, and the instruction topic name is DERIVED from it as 'Activity Instructions: <name>' so the two D2L rows read distinctly without a second stored string. 'file' is the only copy of the instructions. 'dropbox' false means no submission entity exists and none should. status: ready | stub | unplaced.",
     "unplaced_activities": "Activities that exist as D2L dropboxes and instruction files but have no week yet. Kept so calendar.json describes everything in the shell. Not read by any widget."
   },
   "weeks": [
