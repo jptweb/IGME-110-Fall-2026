@@ -244,10 +244,10 @@
       "week": 4,
       "dates": "Sep 14–18",
       "theme": "Legal Aspects of Media",
-      "status": "provisional",
+      "status": "built",
       "days": {
-        "tue": "Asset Scavenger Hunt",
-        "thu": "Markdown and GitHub: write a listicle in markdown and publish it to your own repository, then P1 final studio time"
+        "tue": "The takedown (opener), what you're actually allowed to use, the AI copyright question, then the Asset Scavenger Hunt run in class",
+        "thu": "Your GitHub is a public record (opener), a live markdown demo, then make a repository and publish a listicle, plus a short protected P1 studio"
       },
       "slides_url": null,
       "due": [
@@ -264,15 +264,15 @@
           "url": null
         },
         {
-          "item": "P1: Final Proposal",
-          "date": "Fri Sep 18",
-          "type": "project",
-          "url": null
-        },
-        {
           "item": "Activity: Markdown and GitHub",
           "date": "Thu Sep 17",
           "type": "activity",
+          "url": null
+        },
+        {
+          "item": "P1: Final Proposal",
+          "date": "Fri Sep 18",
+          "type": "project",
           "url": null
         }
       ],
@@ -283,7 +283,7 @@
           "day": "tue",
           "graded": true,
           "dropbox": true,
-          "status": "stub"
+          "status": "ready"
         },
         {
           "item": "Activity: Markdown and GitHub",
@@ -291,7 +291,7 @@
           "day": "thu",
           "graded": true,
           "dropbox": true,
-          "status": "stub"
+          "status": "ready"
         }
       ],
       "study_guide": {
