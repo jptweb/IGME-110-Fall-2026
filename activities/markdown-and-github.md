@@ -1,9 +1,8 @@
 # Activity: Markdown and GitHub
 
-**IGME-110 | Week TBD | In-Class Activity**
+**IGME-110 | Week 4B | In-Class Activity**
 
-> 🚧 **Not scheduled.** Part of a keep-or-cut decision about the HTML and GitHub arc.
-> This may or may not run in Fall 2026.
+> 🚧 **Draft.** Adapted from the Fall 2025 version. Full instructions to come.
 
 Markdown is how you write anything technical: documentation, READMEs, notes, issues,
 half the tools you'll use in the next four years. It takes about twenty minutes to learn

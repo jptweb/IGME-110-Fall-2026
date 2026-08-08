@@ -1,9 +1,9 @@
 # Activity: GitHub Pages & HTML
 
-**IGME-110 | Week TBD | In-Class Activity**
+**IGME-110 | Not running in Fall 2026**
 
-> 🚧 **Not scheduled.** Part of a keep-or-cut decision about the HTML and GitHub arc.
-> This may or may not run in Fall 2026.
+> ⛔ **Cut.** Kept in the repo because the material is good and may come back. You get HTML
+> properly in IGME-235.
 
 You've made a repository and written markdown in it. Now you make it a website.
 

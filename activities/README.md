@@ -15,10 +15,12 @@ done. There is no separate deadline to track.
 | 2 | B (Thu) | [Sources and Citations](sources-and-citations.md) | Thu Sep 3 |
 | 3 | A (Tue) | [Critique Rehearsal](critique-rehearsal.md) | not graded |
 | 4 | A (Tue) | [Asset Scavenger Hunt](asset-scavenger-hunt.md) | Tue Sep 15 |
+| 4 | B (Thu) | [Markdown and GitHub](markdown-and-github.md) | Thu Sep 17 |
 | 5 | A (Tue) | [Transmedia Adaptation](transmedia-adaptation.md) | Tue Sep 22 |
 | 6 | A (Tue) | [Mood Board](mood-board.md) | Tue Sep 29 |
 | 6 | B (Thu) | [Typography Core Concepts](typography-core-concepts.md) | Thu Oct 1 |
 | 7 | B (Thu) | [Infographic Peer Feedback](infographic-peer-feedback.md) | Thu Oct 8 |
+| 9 | A (Tue) | [Paper Prototype of a Digital Game](paper-prototype-of-a-digital-game.md) | Tue Oct 20 |
 | 10 | B (Thu) | [Enhance the Figma Prototype](enhance-the-figma-prototype.md) | Thu Oct 29 |
 | 13 | A (Tue) | [Audio Editing with Audacity](audio-editing-with-audacity.md) | Tue Nov 17 |
 | 13 | B (Thu) | [Video Production](video-production.md) | Thu Nov 19 |

@@ -247,7 +247,7 @@
       "status": "provisional",
       "days": {
         "tue": "Asset Scavenger Hunt",
-        "thu": null
+        "thu": "Markdown and GitHub: write a listicle in markdown and publish it to your own repository, then P1 final studio time"
       },
       "slides_url": null,
       "due": [
@@ -268,6 +268,12 @@
           "date": "Fri Sep 18",
           "type": "project",
           "url": null
+        },
+        {
+          "item": "Activity: Markdown and GitHub",
+          "date": "Thu Sep 17",
+          "type": "activity",
+          "url": null
         }
       ],
       "activities": [
@@ -275,6 +281,14 @@
           "item": "Activity: Asset Scavenger Hunt",
           "file": "activities/asset-scavenger-hunt.md",
           "day": "tue",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        },
+        {
+          "item": "Activity: Markdown and GitHub",
+          "file": "activities/markdown-and-github.md",
+          "day": "thu",
           "graded": true,
           "dropbox": true,
           "status": "stub"
@@ -339,8 +353,8 @@
       "theme": "Types of Media",
       "status": "provisional",
       "days": {
-        "tue": "Transmedia Adaptation, and Project 2 launches",
-        "thu": null
+        "tue": "Transmedia Adaptation: the study guide's medium-is-the-message readings become a round-robin where a story gets adapted across media and you watch what survives",
+        "thu": "Project 2 launches: what an infographic is for, what makes one work, then studio time to pick your topic and start the content outline"
       },
       "slides_url": null,
       "due": [
@@ -623,7 +637,7 @@
       "status": "provisional",
       "days": {
         "tue": "Paper prototypes, and Project 3 launches in new teams",
-        "thu": null
+        "thu": "Project 3 planning studio in your new teams: personas, the work plan, and who is doing what"
       },
       "slides_url": null,
       "due": [
@@ -637,6 +651,12 @@
           "item": "P3: Work Plan & Personas",
           "date": "Fri Oct 23",
           "type": "project",
+          "url": null
+        },
+        {
+          "item": "Activity: Paper Prototype of a Digital Game",
+          "date": "Tue Oct 20",
+          "type": "activity",
           "url": null
         }
       ],
@@ -661,7 +681,17 @@
             "url": "https://www.youtube.com/watch?v=1pW_sk-2y40"
           }
         ]
-      }
+      },
+      "activities": [
+        {
+          "item": "Activity: Paper Prototype of a Digital Game",
+          "file": "activities/paper-prototype-of-a-digital-game.md",
+          "day": "tue",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
+      ]
     },
     {
       "week": 10,
@@ -770,8 +800,8 @@
       "theme": "Testing Your Prototype",
       "status": "provisional",
       "days": {
-        "tue": "Prototype Petting Zoo: real people using your work",
-        "thu": null
+        "tue": "Build the testing materials: seven user flows, your lo-fi screens, and a five-task testing script, then studio time to make them",
+        "thu": "Testing your lo-fi prototypes on each other: paired teams, think-aloud, with Facilitator, Computer and Scribe roles, then a debrief each way"
       },
       "slides_url": null,
       "due": [
@@ -955,22 +985,13 @@
       "note": "Displaced from week 3. Week 4 or 5 candidate. See Fall-2026-Open-Decisions.md."
     },
     {
-      "item": "Activity: Markdown and GitHub",
-      "file": "activities/markdown-and-github.md",
-      "graded": true,
-      "dropbox": true,
-      "status": "unplaced",
-      "shape": "in-class",
-      "note": "HTML/Markdown/GitHub arc, keep-or-cut open. Build-Log:92. Pairs with GitHub Pages."
-    },
-    {
       "item": "Activity: GitHub Pages & HTML",
       "file": "activities/github-pages-and-html.md",
       "graded": true,
       "dropbox": true,
       "status": "unplaced",
       "shape": "in-class",
-      "note": "Step 2 of the arc. Do not schedule without Markdown and GitHub."
+      "note": "CUT 2026-08-07. The arc is one activity now, not two. Markdown transfers everywhere and they get HTML properly in 235; this one had the worse failure rate (F25 needed a mid-activity rescue email). Dependency ran one way, so markdown stands alone. Dropbox can be deleted."
     }
   ]
 }
