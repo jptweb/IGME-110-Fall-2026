@@ -121,7 +121,9 @@
     const sg = week.study_guide;
     const sgBlock = sg ? `
       <div class="sg">
-        📘 <a href="${esc(sg.doc_url)}" target="_blank" rel="noopener">Study Guide ${sg.number}: ${esc(sg.title)}</a>
+        📘 ${sg.doc_url
+              ? `<a href="${esc(sg.doc_url)}" target="_blank" rel="noopener">Study Guide ${sg.number}: ${esc(sg.title)}</a>`
+              : `<strong>Study Guide ${sg.number}: ${esc(sg.title)}</strong>`}
         <span class="when" style="color:#888;">· due ${esc(sg.due)}</span>
         <div class="effort">${esc(sg.effort || '')}</div>
       </div>` : '';

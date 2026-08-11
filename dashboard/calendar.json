@@ -6,7 +6,7 @@
   "_schema": {
     "first_class": "Authored prose, shown by the homepage widget as a small badge to anyone who opens the shell before the semester starts. Those students see week 1 as though it were the current week.",
     "status": "'built' means the week has been prepped and its days/activities are final. 'provisional' means days[] and any activity rows in due[] came from Fall-2026-Deadline-Calendar.md and get rewritten when the week is built. Study guides and project deliverables are authoritative in every week. Run tools/check-calendar.py.",
-    "study_guide": "null when the week has no guide. doc_url is REQUIRED whenever a guide exists; readings[] may be empty. doc_action 'copy' opens a fill-in copy, 'view' is read-only and answers go in a new document.",
+    "study_guide": "null when the week has no guide. doc_url is OPTIONAL: when present it must be the myCourses LTI link for the Google Assignment, never a Google Doc URL; when absent the widgets render the guide as text plus a pointer at Content. readings[] may be empty. doc_action 'copy' opens a fill-in copy, 'view' is read-only and answers go in a new document.",
     "shape": "read-and-answer | read-and-do | deliverable | tutorial",
     "reading_type": "article | video | paper | guide | reference | tutorial | course",
     "due_type": "study-guide | activity | project | survey",
@@ -114,7 +114,6 @@
         "number": 2,
         "title": "Finding & Evaluating Information",
         "due": "Mon Aug 31, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/d/1wDECfUJ0vOIfQwDLwyfGh6lNDSAkpz16XXAOAUGdJ1A/copy",
         "doc_action": "copy",
         "shape": "read-and-do",
         "effort": "7 readings and videos, plus an AI brainstorm. Give it about an hour.",
@@ -205,7 +204,6 @@
         "number": 3,
         "title": "Critiquing & Defending Ideas",
         "due": "Tue Sep 8, 2:00 PM",
-        "doc_url": "https://docs.google.com/document/d/1gwaRffzNghIxV5N_N92cNNJ95sfOwZBJsvV-6bIQQ0c/copy",
         "doc_action": "copy",
         "shape": "read-and-answer",
         "effort": "4 readings and videos, about 40 minutes",
@@ -298,7 +296,6 @@
         "number": 4,
         "title": "Legal Aspects of Media",
         "due": "Mon Sep 14, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/d/1-PL9BcR2Gttw__Qen1rWlIlskkcqgRL4JonzqVn2Bac/copy",
         "doc_action": "copy",
         "shape": "read-and-answer",
         "effort": "7 readings and videos, about an hour",
@@ -359,7 +356,7 @@
       "slides_url": null,
       "due": [
         {
-          "item": "Study Guide 5: Types of Media",
+          "item": "Study Guide 5: More About Media",
           "date": "Mon Sep 21",
           "type": "study-guide",
           "url": null
@@ -389,9 +386,8 @@
       ],
       "study_guide": {
         "number": 5,
-        "title": "Types of Media",
+        "title": "More About Media",
         "due": "Mon Sep 21, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/u/1/d/1tOWF5bkUcpgSNVwjfjuHR47QUroePsl4RDsGdylowiM/copy",
         "doc_action": "copy",
         "shape": "read-and-answer",
         "effort": "4 readings, one of them an academic paper. You only need its abstract and conclusion.",
@@ -484,7 +480,6 @@
         "number": 6,
         "title": "Visual Design & Typography",
         "due": "Mon Sep 28, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/d/14oI7kb8EDRQruHPqxgt4ObKOeYWzOlwY84fpElP_DYY/edit?usp=sharing",
         "doc_action": "view",
         "shape": "deliverable",
         "effort": "A one-hour video course plus three short reads, then two things to hand in. Don't leave this one to the last night.",
@@ -529,7 +524,7 @@
       "slides_url": null,
       "due": [
         {
-          "item": "Study Guide 7: Visual Communication & Infographics",
+          "item": "Study Guide 7: Visual Communication",
           "date": "Mon Oct 5",
           "type": "study-guide",
           "url": null
@@ -559,9 +554,8 @@
       ],
       "study_guide": {
         "number": 7,
-        "title": "Visual Communication & Infographics",
+        "title": "Visual Communication",
         "due": "Mon Oct 5, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/d/11rL3zhWWQJRnQYn40mO3h6DIrnbLLdAFKGtvqA_SSQY/edit?usp=sharing",
         "doc_action": "view",
         "shape": "read-and-do",
         "effort": "4 readings and videos, plus actually trying two infographic tools and reviewing them",
@@ -642,7 +636,7 @@
       "slides_url": null,
       "due": [
         {
-          "item": "Study Guide 9: Prototyping & Accessibility",
+          "item": "Study Guide 9: Intro to Figma",
           "date": "Mon Oct 19",
           "type": "study-guide",
           "url": null
@@ -662,9 +656,8 @@
       ],
       "study_guide": {
         "number": 9,
-        "title": "Prototyping & Accessibility",
+        "title": "Intro to Figma",
         "due": "Mon Oct 19, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/d/1nlwsaJXJozfZu4VocByOHxetIghnsTwGtABZgRNFOCc/edit",
         "doc_action": "view",
         "shape": "tutorial",
         "effort": "Set up Figma and work through the Hello Figma tutorial. Several things to hand in, so don't start this the night before.",
@@ -737,7 +730,6 @@
         "number": 10,
         "title": "Interaction Design & Prototyping",
         "due": "Mon Oct 26, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/d/1cPbyE8xvK747125dENQXC8Kd3jzb7uUhtp40dfyjdNU/edit?usp=sharing",
         "doc_action": "view",
         "shape": "read-and-answer",
         "effort": "6 short videos and readings, 3 more optional. The longest list of the semester, but most of it is video.",
@@ -822,7 +814,6 @@
         "number": 11,
         "title": "User Testing",
         "due": "Mon Nov 2, 11:59 PM",
-        "doc_url": "https://docs.google.com/document/d/1f5h_8OBTGzORzFFOK5QamQqt4XgW4_Xe_ERmpZ9bmU0/edit?usp=sharing",
         "doc_action": "view",
         "shape": "read-and-answer",
         "effort": "3 short articles, about 30 minutes. The shortest guide of the semester.",
