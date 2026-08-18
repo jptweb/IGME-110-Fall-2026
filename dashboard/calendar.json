@@ -116,7 +116,7 @@
         "due": "Mon Aug 31, 11:59 PM",
         "doc_action": "copy",
         "shape": "read-and-do",
-        "effort": "7 readings and videos, plus an AI brainstorm. Give it about an hour.",
+        "effort": "7 readings and videos, plus an AI brainstorm. Plan at least an hour for the readings.",
         "readings": [
           {
             "title": "Citing Sources in Business Proposals",
@@ -206,7 +206,7 @@
         "due": "Tue Sep 8, 2:00 PM",
         "doc_action": "copy",
         "shape": "read-and-answer",
-        "effort": "4 readings and videos, about 40 minutes",
+        "effort": "4 readings and videos. Plan at least 40 minutes for the readings.",
         "_removed": "'How to Give Kind Criticism, and Avoid Being Critical' (zenhabits) 404s as of 2026-08-05. No SG3 question depended on it. Needs a replacement or the Google Doc's reading list edited to match.",
         "readings": [
           {
@@ -298,7 +298,7 @@
         "due": "Mon Sep 14, 11:59 PM",
         "doc_action": "copy",
         "shape": "read-and-answer",
-        "effort": "7 readings and videos, about an hour",
+        "effort": "7 readings and videos. Plan at least an hour for the readings.",
         "readings": [
           {
             "title": "Trademark, patent, or copyright?",
@@ -390,7 +390,7 @@
         "due": "Mon Sep 21, 11:59 PM",
         "doc_action": "copy",
         "shape": "read-and-answer",
-        "effort": "4 readings, one of them an academic paper. You only need its abstract and conclusion.",
+        "effort": "4 readings, one of them an academic paper. You only need its abstract and conclusion. Plan at least 45 minutes.",
         "readings": [
           {
             "title": "Seeing Is Believing: Is Video Modality More Powerful in Spreading Fake News?",
@@ -482,7 +482,7 @@
         "due": "Mon Sep 28, 11:59 PM",
         "doc_action": "view",
         "shape": "deliverable",
-        "effort": "A one-hour video course plus three short reads, then two things to hand in. Don't leave this one to the last night.",
+        "effort": "A one-hour video course plus three short reads, then two things to hand in. Plan at least 90 minutes.",
         "readings": [
           {
             "title": "Introduction to Graphic Design Concepts",
@@ -558,7 +558,7 @@
         "due": "Mon Oct 5, 11:59 PM",
         "doc_action": "view",
         "shape": "read-and-do",
-        "effort": "4 readings and videos, plus actually trying two infographic tools and reviewing them",
+        "effort": "7 readings and videos, plus actually trying two infographic tools and reviewing them. Plan at least an hour for the readings.",
         "readings": [
           {
             "title": "What is Visual Communication? How It Works",
@@ -660,7 +660,7 @@
         "due": "Mon Oct 19, 11:59 PM",
         "doc_action": "view",
         "shape": "tutorial",
-        "effort": "Set up Figma and work through the Hello Figma tutorial. Several things to hand in, so don't start this the night before.",
+        "effort": "Set up Figma and work through the Hello Figma tutorial. Several things to hand in. Plan at least 90 minutes.",
         "readings": [
           {
             "title": "Set up a Figma education account",
@@ -732,7 +732,7 @@
         "due": "Mon Oct 26, 11:59 PM",
         "doc_action": "view",
         "shape": "read-and-answer",
-        "effort": "6 short videos and readings, 3 more optional. The longest list of the semester, but most of it is video.",
+        "effort": "6 short videos and readings, 3 more optional. The longest list of the semester, but most of it is video. Plan at least an hour.",
         "readings": [
           {
             "title": "Interaction Design Basics: 5 Principles",
@@ -816,7 +816,7 @@
         "due": "Mon Nov 2, 11:59 PM",
         "doc_action": "view",
         "shape": "read-and-answer",
-        "effort": "3 short articles, about 30 minutes. The shortest guide of the semester.",
+        "effort": "3 short articles. Plan at least 30 minutes for the readings.",
         "readings": [
           {
             "title": "Usability (User) Testing 101",
