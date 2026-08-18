@@ -92,6 +92,8 @@ This class will use a "flipped classroom" model in which you'll do readings and 
 
 Study guides run most weeks in the first part of the semester, while we're building the core concepts. As the semester goes on and your projects take over, they taper off. The later weeks are carried by project work and in-class studio time instead. Check myCourses for exact due dates.
 
+Study guides are handed in through Google Assignments in myCourses. You open the guide from that week's module, which gives you your own copy to type into, and it saves as you go. When you're finished you return to that page and press Submit. Closing the document does not hand it in. The first time you open one, you'll be asked to link your RIT Google account, which takes a few seconds and only happens once.
+
 ## In-Class Activities (20%)
 
 Class time will primarily be used for hands-on activities building off of the required readings and videos for that week. There will also be in-class time to work on your projects. If you have to miss a class, you *must* contact your instructor before that class begins to make alternate arrangements.
