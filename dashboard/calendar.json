@@ -26,12 +26,6 @@
       "slides_url": null,
       "due": [
         {
-          "item": "Join the course Slack",
-          "date": "Thu Aug 27",
-          "type": "activity",
-          "url": null
-        },
-        {
           "item": "Course Kickoff Survey",
           "date": "Fri Aug 28",
           "type": "survey",
@@ -39,7 +33,7 @@
         },
         {
           "item": "Activity: Using Our Slack Workspace",
-          "date": "Mon Aug 31",
+          "date": "Thu Aug 27",
           "type": "activity",
           "url": null
         },
