@@ -64,6 +64,7 @@ You're added automatically to a few:
 - **#110-general** for questions about any part of the class. The 110 instructors and TAs all
   watch this one, so you'll usually get an answer faster here than by email.
 - **#110-random** for everything else.
+- **#110-inclass-activities** for posting your work when an activity asks you to share it.
 
 Other channels exist that you have to join yourself: **Add Channels** at the bottom of the
 channel list, or **Channels → Manage → Browse Channels**.

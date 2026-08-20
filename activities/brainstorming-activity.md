@@ -1,6 +1,6 @@
 # Activity: Brainstorming a Product Idea
 
-**IGME-110 | Week 1B | In-Class Activity**
+**IGME-110 | Week 1B | In-Class Activity | 10 points**
 
 ## What this is for
 
@@ -163,7 +163,7 @@ Screenshot it if you like the result.
 
 ### Step 8: Post to Slack
 
-Go to the class Slack, into **your section's channel**, and post a **new message** with:
+Go to **[#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8)** in the class Slack and post a **new message** with:
 
 - **Name:** what you called it
 - **Problem:** which one you picked
@@ -206,7 +206,7 @@ The work happens in Slack. The submission is two links.
 
 **1. Do it in Slack, before you leave:**
 
-- Post your idea as a new message in your section's channel
+- Post your idea as a new message in **[#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8)**
 - Reply in thread to at least one classmate
 
 **2. Then hand both links in on myCourses:**

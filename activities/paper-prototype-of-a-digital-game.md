@@ -55,10 +55,10 @@ Photos are fine, you don't need to bring the physical thing back.
 
 ## How to submit
 
-One post per team, before midnight tonight, with:
+One post per team in **[#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8)**, before midnight tonight, with:
 
 1. The names of everyone in your group
 2. **At least two photos** of your game
 3. Your answers to the four questions above
 
-*(Where this gets posted is being finalized. Fall 2025 used a Slack thread.)*
+Then hand the link to your post in on myCourses.
