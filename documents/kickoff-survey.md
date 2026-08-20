@@ -1,18 +1,28 @@
 # Course Kickoff Survey
 
-**IGME-110 | Week 1B**
+**IGME-110 | Week 1**
 
-About four minutes, done in class. It is the only thing I use to build your Project 1 team.
+About four minutes. It is the only thing I use to build your Project 1 team.
 
-## Take the one for your section
+## Check your email
 
-There are two forms. Teams are built inside your own section, so the wrong form puts you on
-nobody's list.
+I sent you a link Tuesday evening, after class. **Use that one.** It goes to the form for your
+section, and your name and RIT email are already filled in, so you can start answering straight
+away.
+
+It closes Friday night. There's no rush on Tuesday: we'll talk more about Project 1 in class on
+Thursday, and you'll have time then to meet a few people.
+
+## If you can't find the email
+
+Both forms are here. Teams are built inside your own section, so the wrong form puts you on
+nobody's list. Take the one that matches when your class meets.
 
 - **Section 01** (Tue/Thu 2:00 to 3:15): [SECTION 01 LINK GOES HERE]
 - **Section 07** (Tue/Thu 3:30 to 4:45): [SECTION 07 LINK GOES HERE]
 
-We'll open it together in class on Thursday. It closes Friday night.
+These two aren't filled in for you, so type your name the way it appears in myCourses. That's
+how I match your answers back to you.
 
 ## Why I'm asking
 
@@ -26,7 +36,8 @@ So the schedule question is the one that matters most. The rest is secondary.
 
 1. Your name and RIT email
 2. When you're free to meet outside class
-3. A few questions about what you've done before and how you like to work
+3. A few questions about how you like to work, and which part of a group project you'd
+   rather own
 4. Whether there's anyone you'd like to work with, or would rather not
 5. Anything you want me to know
 

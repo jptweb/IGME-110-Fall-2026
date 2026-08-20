@@ -108,5 +108,5 @@ closer to the time.
 | **P3: Interactive Prototype** | Group, new teams | Week 12 | 12% |
 | **P4: Video Advertisement** | Individual | Finals week | 13% |
 
-The rest of your grade is study guides (20%), in-class activities (20%), and attendance (10%). The
+The rest of your grade is study guides (20%) and in-class activities (30%). The
 full breakdown is in the [syllabus](syllabus.md).

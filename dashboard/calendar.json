@@ -961,15 +961,6 @@
   ],
   "unplaced_activities": [
     {
-      "item": "Activity: You're the Critic",
-      "file": "activities/youre-the-critic.md",
-      "graded": true,
-      "dropbox": true,
-      "status": "unplaced",
-      "shape": "take-home",
-      "note": "Displaced from week 3. Week 4 or 5 candidate. See Fall-2026-Open-Decisions.md."
-    },
-    {
       "item": "Activity: GitHub Pages & HTML",
       "file": "activities/github-pages-and-html.md",
       "graded": true,

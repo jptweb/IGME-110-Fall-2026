@@ -47,12 +47,11 @@ In this class, you will have regular required activities, including at-home stud
 | Component | Weight |
 |:----------|:-------|
 | Study Guides | 20% |
-| In-Class Activities | 20% |
+| In-Class Activities | 30% |
 | Project 1 - Group Product Proposal | 12% |
 | Project 2 - Individual Infographic | 13% |
 | Project 3 - Group Prototype | 12% |
 | Project 4 - Individual Video | 13% |
-| Attendance | 10% |
 
 ### Grade Scale
 
@@ -66,15 +65,25 @@ In this class, you will have regular required activities, including at-home stud
 
 ### Attendance
 
-Unexcused absences will result in the following grade adjustments:
+Come to class. This course is built around what happens in the room: hands-on activities, group
+work, critiques, and studio time with me there to help. An absence is not a neutral event. You
+lose the thing that class period was for.
 
-- One unexcused absence = no adjustment
-- Two unexcused absences = -20% to attendance grade (i.e. -2% off final course grade)
-- Three unexcused absences = -50% to attendance grade (i.e. -5% off final course grade)
-- Four unexcused absences = -100% to attendance grade (i.e. -10% off final course grade)
-- Five or more unexcused absences = another 5% off of final course grade per absence
+Most class days carry a graded in-class activity, and activities are 30% of your grade. They are
+meant to be done in the room, with your group, using the materials on the table or a conversation
+you were part of. Several of them cannot honestly be reproduced afterward from your room. Turning
+in something that resembles the activity when you were not there is not the same as having done
+it, and it will not be graded as though it were.
 
-***Note: Being late to class is considered ½ of an absence***
+Arriving late is its own problem. Activities get set up at the start of class, and if you miss
+the setup you will be behind for the rest of the period.
+
+If you know you have to miss a class, message me on Slack before that class begins and we will
+work something out. That offer is real and I use it often. Asking after the fact usually gets a no.
+
+I reserve the right to reduce your in-class activity grade for repeated unexcused absences, on
+top of whatever individual activities you missed. If you are absent often enough for that to
+matter, we will have talked about it first.
 
 ### Late Policy
 
@@ -94,9 +103,11 @@ Study guides run most weeks in the first part of the semester, while we're build
 
 Study guides are handed in through Google Assignments in myCourses. You open the guide from that week's module, which gives you your own copy to type into, and it saves as you go. When you're finished you return to that page and press Submit. Closing the document does not hand it in. The first time you open one, you'll be asked to link your RIT Google account, which takes a few seconds and only happens once.
 
-## In-Class Activities (20%)
+## In-Class Activities (30%)
 
 Class time will primarily be used for hands-on activities building off of the required readings and videos for that week. There will also be in-class time to work on your projects. If you have to miss a class, you *must* contact your instructor before that class begins to make alternate arrangements.
+
+These are weighted heavily because they are also how attendance counts. See the Attendance section above.
 
 ## Project 1: Group Product Proposal Document (12%)
 

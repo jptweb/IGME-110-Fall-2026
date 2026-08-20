@@ -60,6 +60,7 @@ when you're viewing everything.
 
 You're added automatically to a few:
 
+- **#110-announcements** for things from me. You can read it, you can't post in it.
 - **#110-general** for questions about any part of the class. The 110 instructors and TAs all
   watch this one, so you'll usually get an answer faster here than by email.
 - **#110-random** for everything else.
@@ -73,7 +74,8 @@ channel list, or **Channels → Manage → Browse Channels**.
 
 ### 1. Read the rules
 
-They're posted in the announcements channel. React with 👍 to confirm you've read them.
+**[→ IGME-110 Slack Ground Rules](../documents/slack-rules.md)**, also pinned in
+**#110-announcements**. React with 👍 on that pinned post to confirm you've read them.
 
 ### 2. Introduce yourself
 
