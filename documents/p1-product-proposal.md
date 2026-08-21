@@ -300,8 +300,13 @@ Then, for each question: **read** the relevant part of their proposal, **discuss
 > the way to an answer. Divide it up and you get six disconnected opinions instead of one useful
 > review. I can tell the difference immediately.
 
-Post each finished critique link in the Slack thread **`Week 3B: P1 Feedback Links`** as you go, so
-the team you reviewed can start using it right away.
+Post each finished critique as a **new message** in [#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8) as you go, so the team you reviewed can
+start using it right away.
+
+Start the message with `Section [01 or 07] · Review of Team [their number]`, then the link, so the
+team you reviewed can find it. **If you are the team being reviewed, reply in that message's
+thread.** Keeping each critique in its own thread means your response sits with the critique it
+answers instead of somewhere in a pile of thirty.
 
 > **If a draft you're assigned is empty, or you can't open the doc:** write that at the top of your
 > critique, note when you tried, and move on to the next one. Your grade is not affected by the

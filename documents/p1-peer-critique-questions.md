@@ -51,8 +51,9 @@ before the deadline in myCourses.
 3. **Copy the template below** into your document.
 4. Then for each question: read it aloud, discuss it, reach consensus, and the scribe types what
    you agreed on.
-5. **When you finish one, post the link in Slack** in the `Week 3B: P1 Feedback Links` thread, so
-   the team you reviewed can start using it tonight.
+5. **When you finish one, post it as a new message** in [#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8), so the team you reviewed can start
+   using it tonight. Start the message with `Section [01 or 07] · Review of Team [their number]`,
+   then the link. **If you are the team being reviewed, reply in that message's thread.**
 
 ---
 

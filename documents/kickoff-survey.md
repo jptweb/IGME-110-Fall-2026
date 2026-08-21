@@ -34,7 +34,6 @@ So the schedule question is the one that matters most. The rest is secondary.
 3. A few questions about how you like to work, and which part of a group project you'd
    rather own
 4. Whether there's anyone you'd like to work with, or would rather not
-5. Anything you want me to know
 
 ## Answer the schedule question honestly
 
@@ -46,7 +45,7 @@ weekends genuinely work, since that's often where the only overlap is.
 
 ## The teammate questions
 
-You can name up to two people you'd like to work with, and up to two you'd rather not. A few
+You can name up to three people you'd like to work with, and up to three you'd rather not. A few
 things worth knowing about how I use them:
 
 - **They're requests, not guarantees.** I try to honor them, and most of the time I can. Schedule
@@ -59,6 +58,9 @@ things worth knowing about how I use them:
 If you meet someone this week you'd want on your team, remember their name. That's the whole prep
 for this question.
 
+If a few of you want to work together, each of you should name the others. Three slots is enough
+for a group of four to all name each other, and that's what makes it work.
+
 ## The AI question
 
 One question asks how you feel about working with teammates who use AI tools. It's there because
@@ -69,13 +71,14 @@ There's no right answer and it isn't a test. I am not building AI-only teams or 
 course AI policy is set per assignment and this doesn't change it: using AI where the assignment
 allows it is fine, hiding it is not.
 
-## The last question is read by a person
+## If something else affects your schedule
 
-I read every answer to the last question myself, and nobody else sees them.
+The survey doesn't ask, so email me. Athletics travel, a job with set shifts, a long commute, an
+accommodation, anything at all. You don't have to explain more than you want to, and it stays
+between us.
 
-If something affects when you can meet or how you work, tell me there. Athletics travel, a job with
-set shifts, a long commute, an accommodation, anything at all. You don't have to explain more than
-you want to.
+Tell me before Friday and I can build it into your team. After teams are posted it's much harder
+to fix.
 
 ## What happens next
 
