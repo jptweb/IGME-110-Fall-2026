@@ -6,23 +6,18 @@ About four minutes. It is the only thing I use to build your Project 1 team.
 
 ## Check your email
 
-I sent you a link Tuesday evening, after class. **Use that one.** It goes to the form for your
-section, and your name and RIT email are already filled in, so you can start answering straight
-away.
+I sent you a link Tuesday evening, after class. It goes to the form for your section, and your
+name and RIT email are already filled in, so you can start answering straight away.
+
+**Open it while you're signed in to your RIT Google account.** The form is limited to RIT, so if
+your browser is signed in to a personal Gmail it will tell you that you need permission. Switching
+accounts fixes it.
+
+There is one form per section and I sent you the right one, so there's nothing to choose. If you
+can't find the email, just email me and I'll resend it.
 
 It closes Friday night. There's no rush on Tuesday: we'll talk more about Project 1 in class on
 Thursday, and you'll have time then to meet a few people.
-
-## If you can't find the email
-
-Both forms are here. Teams are built inside your own section, so the wrong form puts you on
-nobody's list. Take the one that matches when your class meets.
-
-- **Section 01** (Tue/Thu 2:00 to 3:15): [SECTION 01 LINK GOES HERE]
-- **Section 07** (Tue/Thu 3:30 to 4:45): [SECTION 07 LINK GOES HERE]
-
-These two aren't filled in for you, so type your name the way it appears in myCourses. That's
-how I match your answers back to you.
 
 ## Why I'm asking
 
