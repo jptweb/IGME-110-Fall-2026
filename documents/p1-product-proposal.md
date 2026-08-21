@@ -283,7 +283,7 @@ Nothing to prepare. Bring a laptop. Your assigned teams and their proposal links
 ### In class on 3B
 
 **→ [Peer critique questions](p1-peer-critique-questions.md)**, and the
-[Google Doc to copy the template from](https://docs.google.com/document/d/1CAPF8K9el4CezmS6bWnHoLaBGgV3lhGh40rxWIcxGd8/)
+[Google Doc to copy the template from](https://docs.google.com/document/d/1RG1E2jPlseNaTt3XVv8_Wbj7VNCaUiTdTKRZwAJ2amw/)
 
 For each team you review:
 
@@ -382,7 +382,8 @@ in the form.
 
 ## Rubric
 
-What a 100% looks like on the final proposal.
+What a 100% looks like on the final proposal. **Seven criteria**, and the full version with point
+values and every level is attached to the Final Proposal in myCourses.
 
 ### 1. Executive Summary
 - Clear, concise product name and description
@@ -416,9 +417,21 @@ What a 100% looks like on the final proposal.
 - Reinforces main arguments effectively
 
 ### 6. Appendix
-- Properly formatted citations present
+- Properly formatted citations present, all in one consistent style
 - Additional supporting materials included
 - AI use disclosed, including who or what created the mockups
+
+### 7. Overall Presentation and Professionalism
+
+This one is worth as much as the Executive Summary, so it is not an afterthought.
+
+- Headings, subheadings, and lists used well, so the document is easy to navigate
+- A professional layout with a clear visual hierarchy
+- Tone appropriate for the audience you are trying to persuade
+- Grammar, spelling, and mechanics essentially clean
+- Clear, direct language without redundancy, at a reasonable length
+
+The [writing advice](#writing-advice) below is how you get full credit here.
 
 ---
 

@@ -9,7 +9,15 @@
   Same pattern as activities/: markdown is the source, the Doc is regenerated from it, and if
   the two disagree the markdown wins.
 
-  WHEN YOU EDIT THIS FILE, re-paste into the Google Doc:
+  WHEN YOU EDIT THIS FILE, rebuild the paste-ready copy-target and re-paste it into the Doc:
+    artifact -> tools/google-doc-text/p1-peer-critique-template.md
+    Doc      -> https://docs.google.com/document/d/1RG1E2jPlseNaTt3XVv8_Wbj7VNCaUiTdTKRZwAJ2amw/
+
+  The Doc is the copy-target ONLY: the header block, the group work agreement, and the eleven
+  questions. Instructions do not go in it, because they are here and in myCourses. That scope
+  was set 2026-08-21, when the Doc was found still carrying the Fall 2025 26-question version.
+
+  ARCHIVED Fall 2025 Doc, kept as a record, do not edit or link:
   https://docs.google.com/document/d/1CAPF8K9el4CezmS6bWnHoLaBGgV3lhGh40rxWIcxGd8/
 
   PRUNED 2026-08-07, from 26 questions to 11. Fall 2025 ran the full set and it was too long:
