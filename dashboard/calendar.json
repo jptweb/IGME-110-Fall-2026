@@ -11,7 +11,8 @@
     "reading_type": "article | video | paper | guide | reference | tutorial | course",
     "due_type": "study-guide | activity | project | survey",
     "activities": "Complete catalog of activities that RUN in a week, graded or not. Distinct from due[], which lists things with a DEADLINE that students see in the widgets. A graded activity appears in both and check-calendar.py asserts the item strings match. 'item' is the ONE canonical string: it names the submission entity, it must equal the markdown H1, and the instruction topic name is DERIVED from it as 'Activity Instructions: <name>' so the two D2L rows read distinctly without a second stored string. 'file' is the only copy of the instructions. 'dropbox' false means no submission entity exists and none should. status: ready | stub | unplaced.",
-    "unplaced_activities": "Activities that exist as D2L dropboxes and instruction files but have no week yet. Kept so calendar.json describes everything in the shell. Not read by any widget."
+    "unplaced_activities": "Activities that exist as D2L dropboxes and instruction files but have no week yet. Kept so calendar.json describes everything in the shell. Not read by any widget.",
+    "no_class": "true on a week with no teaching days at all, e.g. finals. build-semester-shape.py skips it so it does not report phantom empty class days, and build-weekly-skeletons.py already emits nothing because days.tue/thu are null. The week still carries due[] so the last deadlines of the semester are not homeless."
   },
   "weeks": [
     {
@@ -877,7 +878,7 @@
           "url": null
         },
         {
-          "item": "P4: Storyboard",
+          "item": "P4: Video Work Plan",
           "date": "Fri Nov 20",
           "type": "project",
           "url": null
@@ -954,6 +955,33 @@
           "graded": true,
           "dropbox": true,
           "status": "stub"
+        }
+      ],
+      "study_guide": null
+    },
+    {
+      "week": 16,
+      "dates": "Dec 7–16",
+      "theme": "Finals",
+      "status": "provisional",
+      "no_class": true,
+      "days": {
+        "tue": null,
+        "thu": null
+      },
+      "slides_url": null,
+      "due": [
+        {
+          "item": "P4: Final Video",
+          "date": "Fri Dec 11",
+          "type": "project",
+          "url": null
+        },
+        {
+          "item": "P4: Video Showcase signup (optional)",
+          "date": "Fri Dec 11",
+          "type": "survey",
+          "url": null
         }
       ],
       "study_guide": null

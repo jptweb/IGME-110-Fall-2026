@@ -86,7 +86,7 @@ building all semester.
 
 | Week | Dates | Topic | Project milestone |
 |---|---|---|---|
-| **13** | Nov 17 & 19 | Digital Media | P4 Storyboard, Friday<br>P3 Peer Evals, Friday |
+| **13** | Nov 17 & 19 | Digital Media | P4 Work Plan, Friday<br>P3 Peer Evals, Friday |
 | **14** | Nov 24 only | Digital Video | Work session, nothing due |
 | **15** | Dec 1 & 3 | Looking Ahead | P4 Rough Cut, Friday |
 
@@ -94,8 +94,11 @@ building all semester.
 
 ## Finals Week, Dec 9 to 16
 
-**P4 Final Video is due**, and we hold a viewing party during the finals period. The date gets set
-closer to the time.
+**P4 Final Video is due Friday, December 11.**
+
+There's also an optional video showcase on Zoom during the finals period, worth up to 4 bonus
+points on Project 4. Signing up is how you get in, and the signup closes December 11. Details are
+on the [Project 4 page](p4-video-ad.md#the-video-showcase-optional).
 
 ---
 
@@ -106,7 +109,7 @@ closer to the time.
 | **P1: Product Proposal** | Group | Week 4 | 12% |
 | **P2: Infographic** | Individual | Week 8 | 13% |
 | **P3: Interactive Prototype** | Group, new teams | Week 12 | 12% |
-| **P4: Video Advertisement** | Individual | Finals week | 13% |
+| **P4: Video Advertisement** | Individual | Weeks 13 to finals | 13% |
 
 The rest of your grade is study guides (20%) and in-class activities (30%). The
 full breakdown is in the [syllabus](syllabus.md).
