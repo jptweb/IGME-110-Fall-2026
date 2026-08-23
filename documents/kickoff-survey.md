@@ -35,13 +35,18 @@ So the schedule question is the one that matters most. The rest is secondary.
    rather own
 4. Whether there's anyone you'd like to work with, or would rather not
 
-## Answer the schedule question honestly
+## Be generous with the schedule question
 
-It's a grid: days across, rough time blocks down. Check the blocks when you could realistically
-meet, not every block when you're technically not in class.
+It's a grid: days across, rough time blocks down. Check every block where you could realistically
+make a meeting work, even if it isn't your first choice.
 
-If you check everything, you will end up on a team that meets Sunday at 8 AM. Include weekends if
-weekends genuinely work, since that's often where the only overlap is.
+**This isn't picking your meeting time.** Your team sets that later, together, once you know each
+other. All this grid does is find the hours you have in common, so the more you check, the more
+likely your team has a workable one. Four people who each check only their favorite few hours
+often end up with nothing in common at all.
+
+Skip the blocks you genuinely can't do, and include weekends if weekends really work. Weekends are
+often where the only overlap turns out to be.
 
 ## The teammate questions
 
