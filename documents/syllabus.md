@@ -127,7 +127,7 @@ Your first project will involve creating a proposal document for a technical pro
 
 ## Project 2: Individual Infographic (13%)
 
-For your second project, you will each create an infographic to illustrate key concepts and elements of your proposed product.
+For your second project, you will each create an infographic that explains something about one of the products proposed in Project 1. You choose which one, and it does not have to be your own group's.
 
 ## Project 3: Group Prototype (12%)
 

@@ -531,7 +531,7 @@
           "url": null
         },
         {
-          "item": "P2: Mockup & Critiques",
+          "item": "P2: Mockup",
           "date": "Fri Oct 9",
           "type": "project",
           "url": null
@@ -544,7 +544,7 @@
           "day": "thu",
           "graded": true,
           "dropbox": true,
-          "status": "stub"
+          "status": "ready"
         }
       ],
       "study_guide": {

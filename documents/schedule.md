@@ -57,7 +57,7 @@ glance.
 | Week | Dates | Topic | Project milestone |
 |---|---|---|---|
 | **6** | Sep 29 & Oct 1 | Visual Design & Typography | P2 Plan, Friday |
-| **7** | Oct 6 & 8 | Visual Communication & Infographics | P2 Mockup & Critiques, Friday |
+| **7** | Oct 6 & 8 | Visual Communication & Infographics | P2 Mockup, Friday |
 | **8** | Oct 15 only | Interaction Design | P2 Final, Friday |
 
 ---
