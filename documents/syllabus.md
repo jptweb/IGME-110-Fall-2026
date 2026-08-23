@@ -87,7 +87,19 @@ matter, we will have talked about it first.
 
 ### Late Policy
 
-Except in documented extenuating circumstances, assignments completed or turned in after their due date will not be accepted for credit without PRIOR approval. If you are having problems with an assignment or have an emergency that may make you late in submitting your work, contact your instructor as soon as possible.
+Except in documented extenuating circumstances, assignments completed or turned in after their due date will not be accepted for credit without PRIOR approval.
+
+Things come up. I would rather give you two extra days than have you hand in something you are not happy with, and I approve most requests that reach me in time. **Extensions go through the Slack workflow, and that is the only way I grant one.** It takes about a minute to fill out and it gives us both a record of what we agreed to.
+
+Three ways to find it:
+
+- The support widget in the myCourses sidebar
+- In Slack, search for "Prof Takats Extension Request"
+- In the **#110-extension-request** channel, where I have pinned it
+
+Submit it before the deadline. The workflow asks for at least 12 hours of notice, and if you give me that I will usually say yes. Asking me in the hallway, mentioning it on your way out of class, or sending me a DM does not count as a request, and I will point you back at the workflow. After the deadline has passed the answer is usually no.
+
+If you are filing these regularly, I will ask to talk. That is not a warning. Once someone needs a third or fourth extension there is usually something bigger going on, and there are better things I can do to help than keep moving one due date at a time.
 
 ### Challenging Grades
 

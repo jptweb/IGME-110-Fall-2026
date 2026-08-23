@@ -10,7 +10,7 @@ there's a page in myCourses that opens this one at that section.
 | | Deliverable | Due | Points |
 |---|---|---|---|
 | 1 | [Work Plan](#1-work-plan) | Fri, September 4 | 25 |
-| 2 | [Draft](#2-draft) | **Wed, September 9** | 5 |
+| 2 | [Draft](#2-draft) | **Wed, September 9** | 10 |
 | 3 | [Critiques](#3-critiques) | Fri, September 11 | 20 |
 | 4 | [Final Proposal](#4-final-proposal) | Fri, September 18 | 100 |
 | 5 | [Reflections and Peer Evaluation](#5-reflections-and-peer-evaluation) | Fri, September 25 | 20 |
@@ -239,7 +239,7 @@ the grade. If multiple people submit, I grade the last one turned in on time.
 
 ## 2. Draft
 
-**Due Wednesday, September 9, 11:59 PM | Group submission | 5 points**
+**Due Wednesday, September 9, 11:59 PM | Group submission | 10 points**
 
 A real draft, sitting in your proposal doc, the night before the critique class.
 
@@ -263,7 +263,7 @@ takes about ten seconds.
 
 ### How this is graded
 
-Five points, and it's close to all-or-nothing: is there a real draft in there or not. **Nothing here
+Ten points, and it's close to all-or-nothing: is there a real draft in there or not. **Nothing here
 is graded against the rubric.** That happens on the final, after you've had feedback. Write badly
 and fix it later. That's what a draft is for.
 
