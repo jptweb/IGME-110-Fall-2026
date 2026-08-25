@@ -20,6 +20,9 @@ partner that thinks *with* you and one that hands you something generic.
 - **Brain rot.** Mentally fried from too much screen time.
 - **Group project scheduling.** Five people, five schedules, no meeting time.
 
+*I may adjust this list before Thursday. If I do, I'll say so at the start of class, and this page
+will match what we actually run.*
+
 ---
 
 ## Prefer not to use AI? Read this.
