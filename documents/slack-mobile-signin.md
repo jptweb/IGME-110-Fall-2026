@@ -68,6 +68,13 @@ Once you're through, tap the workspace switcher and you'll see every RIT workspa
 of, our course one included. **If ours isn't in that list, message me and I'll add you.** Don't
 wait until you need something.
 
+## If you already had Slack on your phone
+
+If the app was already installed for another RIT workspace, you don't start over. Swipe right to
+open the channels menu, tap the workspace icon at the top left, then **Add a workspace** followed
+by **Sign in to another workspace**. From there it's the same path: workspace URL,
+`rit-community`, sign in with RIT.
+
 ## If you get stuck
 
 - **A screen is asking you to create a password or make an account.** Wrong path. Force quit the
@@ -76,3 +83,8 @@ wait until you need something.
   lowercase with a hyphen.
 - **You already tapped the Google button and something half-worked.** Sign out completely, then
   start again at step 1.
+
+RIT's own write-up of these steps is
+[in the ITS knowledge base](https://help.rit.edu/sp?id=kb_article&table=kb_knowledge&sysparm_article=KB0043536).
+It's shorter than this page and doesn't have the screenshots, but it's the official version if you
+want to double check me.
