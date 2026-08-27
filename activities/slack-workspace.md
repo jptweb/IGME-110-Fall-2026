@@ -41,6 +41,10 @@ You don't need to type `@rit.edu` or `@g.rit.edu` anywhere, which is the part th
 people. Most Slack sign-in flows start by asking for an email, and ours doesn't work that way.
 Your personal Google or Slack account won't get you in either.
 
+**On a phone the path is different and much less obvious.** Follow
+[Signing In to Slack on Your Phone](../documents/slack-mobile-signin.md) instead of guessing at
+the buttons on the app's sign-in screen.
+
 Once you're through, that page lists every RIT workspace you belong to. Everyone is in RIT
 Community by default, and you should see our course workspace as well.
 
@@ -118,6 +122,9 @@ Hover over your message, click the **⋯** menu, choose **Copy link**. That's yo
 I'm generally not a fan of installing an app for something that already works fine as a
 website. The Slack mobile app is the exception I make. It keeps you signed in, and it's the
 fastest way to reach me or your group when something comes up the night before a deadline.
+
+Signing in on a phone is genuinely fiddly, so there's a screenshot walkthrough for it:
+**[Signing In to Slack on Your Phone](../documents/slack-mobile-signin.md)**.
 
 ### The desktop app: up to you
 
