@@ -16,18 +16,18 @@ The path below is the one that works. Seven taps, once, and then you stay signed
 
 Get **Slack** from the App Store or Google Play, open it, and tap **Get Started**.
 
-<img src="https://raw.githubusercontent.com/jptweb/IGME-110-Fall-2026/main/documents/_images/slack-ios-1.png" alt="Slack welcome screen with the Get Started button" width="280">
+<img src="_images/slack-ios-1.png" alt="Slack welcome screen with the Get Started button" width="280">
 
 ## 2. Skip the email screen
 
 You land on **Enter your email**. Ignore all of it: the email box, the Google button, the Apple
 button. Down near the bottom, tap **Enter a workspace URL**.
 
-<img src="https://raw.githubusercontent.com/jptweb/IGME-110-Fall-2026/main/documents/_images/slack-ios-2.png" alt="Sign in screen, with Enter a workspace URL near the bottom" width="280">
+<img src="_images/slack-ios-2.png" alt="Sign in screen, with Enter a workspace URL near the bottom" width="280">
 
 ## 3. You get an empty workspace field
 
-<img src="https://raw.githubusercontent.com/jptweb/IGME-110-Fall-2026/main/documents/_images/slack-ios-3.png" alt="Empty Enter a workspace URL field" width="280">
+<img src="_images/slack-ios-3.png" alt="Empty Enter a workspace URL field" width="280">
 
 ## 4. Type `rit-community` and tap Continue
 
@@ -36,25 +36,25 @@ Type only `rit-community`. The app fills in `.slack.com` for you.
 **Type that even though it isn't our course workspace.** This is the one that hands you off to RIT
 authentication. Our workspace name here won't get you signed in.
 
-<img src="https://raw.githubusercontent.com/jptweb/IGME-110-Fall-2026/main/documents/_images/slack-ios-4.png" alt="rit-community typed into the workspace URL field" width="280">
+<img src="_images/slack-ios-4.png" alt="rit-community typed into the workspace URL field" width="280">
 
 ## 5. Tap Sign In with RIT Login
 
 Now the app knows you're at RIT and shows the tiger.
 
-<img src="https://raw.githubusercontent.com/jptweb/IGME-110-Fall-2026/main/documents/_images/slack-ios-5.png" alt="Sign in to Rochester Institute of Technology with the RIT Login button" width="280">
+<img src="_images/slack-ios-5.png" alt="Sign in to Rochester Institute of Technology with the RIT Login button" width="280">
 
 ## 6. Sign in the normal RIT way
 
 Username (`abc1234`) and your RIT password. Leave **Stay logged in** checked.
 
-<img src="https://raw.githubusercontent.com/jptweb/IGME-110-Fall-2026/main/documents/_images/slack-ios-6.png" alt="RIT Login page asking for username and password" width="280">
+<img src="_images/slack-ios-6.png" alt="RIT Login page asking for username and password" width="280">
 
 ## 7. Approve the Duo prompt
 
 Same Duo push you get for everything else. When it says Success, you're in.
 
-<img src="https://raw.githubusercontent.com/jptweb/IGME-110-Fall-2026/main/documents/_images/slack-ios-7.png" alt="Duo success screen" width="280">
+<img src="_images/slack-ios-7.png" alt="Duo success screen" width="280">
 
 ---
 
