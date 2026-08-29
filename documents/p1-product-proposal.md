@@ -73,12 +73,12 @@ Plan is in, and that page is where you'll find the two drafts you're reviewing i
 Before anything else, your team divides into four roles. **These are jobs, not chapters.** Each
 one runs for the whole three weeks, and none of them means writing a section by yourself.
 
-| Role | Owns |
-|---|---|
-| **Coordinator** | The schedule and the check-ins. Who is doing what by when, and noticing when it slips. Runs the "what's weakest" pass. |
-| **Editor** | How it reads. One voice, clean structure, and the final pass before you submit. Starts in week 3, not the night before it's due. |
-| **Evidence Lead** | Every claim in the document has something behind it. Runs the research and keeps the citations straight. |
-| **Product Lead** | What the thing actually is. The features, the audience, and keeping the concept from drifting while four people write about it. |
+| Role              | Owns                                                                                                                             |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Coordinator**   | The schedule and the check-ins. Who is doing what by when, and noticing when it slips. Runs the "what's weakest" pass.           |
+| **Editor**        | How it reads. One voice, clean structure, and the final pass before you submit. Starts in week 3, not the night before it's due. |
+| **Evidence Lead** | Every claim in the document has something behind it. Runs the research and keeps the citations straight.                         |
+| **Product Lead**  | What the thing actually is. The features, the audience, and keeping the concept from drifting while four people write about it.  |
 
 **Team of 3?** Coordinator and Editor fold together.
 **Team of 5?** Add a second Evidence Lead. Research is the one job that genuinely scales.

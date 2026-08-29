@@ -2,99 +2,143 @@
 
 **IGME-110 | Week 2B | In-Class Activity**
 
-Your proposal has to argue that someone should build your product. An argument needs evidence,
-and evidence needs sources you can point to.
+Your proposal has to convince a skeptical reader that someone should build your product. That
+happens in **Section 2, Market Research and Need Analysis**, and it is the section that decides
+whether you wrote a proposal or a sales pitch.
 
-**Section 2 of your proposal, Market Research and Need Analysis, is where that evidence goes.**
-It has to show the problem is real and that people outside your team care about it. Today you go
-find the proof, and format it properly.
+Today your team builds the evidence for it.
 
-> **This is an individual assignment**, even though everyone on your team is researching the
-> same product idea. Your three sources will not be identical to your teammates'.
-
-> **Team still deciding?** Pick your frontrunner and research that one. If your team changes
-> direction later, these sources still count. You're graded on how you searched, not on which
-> idea you landed on.
+> **Your draft is due Wednesday.** By the end of class Section 2 should have a shape and real
+> sources under it, which is most of the hard part done six days early.
 
 ---
 
-## Part 1: Find three sources, one of each type
+## The standard, before you start
 
-Deliberately different kinds, because they're good at different things:
+Section 2 fails in exactly one way. It says true things that nobody has to believe.
 
-| Type | Where | Good for |
+| Weak | Strong |
+|---|---|
+| "Students are stressed about group scheduling" | "A 2024 survey of 1,200 undergrads found 68% missed at least one group meeting a month over scheduling conflicts" |
+| "The apps out there aren't very good" | "When2meet sends no notifications, and three of the five people in this thread said they simply forgot to fill it in" |
+| "People want to stop doomscrolling" | "r/nosurf has 400,000 members, and this month's top post is someone describing losing four hours they meant to spend studying" |
+
+**If you can't point to a source, it isn't evidence.** That is the whole standard, and it's the
+difference between a section that runs two lines and one that does its job.
+
+---
+
+## Part 1: What does your Section 2 have to prove? (team, 5 minutes)
+
+Your Coordinator runs this. As a team, write down the claims your proposal needs a reader to
+accept. Almost every product needs these four:
+
+1. **The problem is real.** Documented somewhere, not just annoying to your team.
+2. **Actual people have it.** In their own words.
+3. **Something already exists.** Whatever people use today, even if it's a spreadsheet.
+4. **It falls short.** Specifically, not "it's kind of bad."
+
+Adjust the wording to your product. Then **each person takes one claim.** Four people, four claims.
+Team of three, drop number 3 into number 4. Team of five, split number 4 in two.
+
+> **Write these into your proposal doc now**, as four subheadings under Section 2. That is your
+> outline, and it took five minutes.
+
+---
+
+## Part 2: Go prove your claim (individual, about 20 minutes)
+
+You are now the person responsible for one claim. Find **three sources** for it, deliberately of
+three different kinds, because they're good at different things:
+
+| Type | Where | What it's good for |
 |---|---|---|
 | **A major US newspaper article** | Start at the RIT Library so you get past paywalls | Current, readable, shows the problem is real to normal people |
-| **A conference or journal paper from the ACM Digital Library** | RIT Library database finder, so you have full text | Rigorous, specific, the kind of thing that makes a claim hard to dismiss |
+| **A conference or journal paper from the ACM Digital Library** | RIT Library database finder, so you have full text | Rigorous and specific. The kind of thing that's hard to wave away |
 | **A Reddit post** | Reddit | Actual humans describing the problem in their own words |
 
-**Yes, Reddit counts.** Not as proof of anything, but as evidence that real people have this
-problem and how they talk about it. Knowing what a source is good for is the entire skill here.
+**Yes, Reddit counts.** Not as proof, but as evidence that real people have this and how they talk
+about it. Knowing what a source is *good for* is the whole skill here.
 
 Start from the **[RIT Libraries IGM InfoGuide](https://infoguides.rit.edu/game-design)** rather
-than a plain web search. You can also use [Google Scholar signed in through
-RIT](https://infoguides.rit.edu/googlescholar) so it knows what we have access to.
+than a plain web search. [Google Scholar signed in through
+RIT](https://infoguides.rit.edu/googlescholar) is worth setting up once while you're here.
 
-> **You must be able to open the full text.** If you can only see an abstract, you can't
-> evaluate whether it says what you think it says, so it doesn't count. Ask me or your
-> teammates if you're stuck getting to something.
+> **You must be able to open the full text.** If all you can see is an abstract, you can't check
+> whether it says what you think it says, so it doesn't count.
 
 **For each source, write down:**
 
 - The title and a link
-- **The search terms you used to find it**, and where you searched
-- **One sentence on what claim in your proposal this backs up.** Not "it's about my topic."
-  Something closer to "this is evidence that students actually have this problem." 
+- **The search terms you used**, and where you searched
+- **One sentence on how it supports your claim.** Not "it's about my topic." Something closer to
+  "this is where the 68% number comes from."
 
-That middle one is the part people skip and the part that matters. If you found nothing useful,
-the problem is almost always your search terms, not the absence of information.
+That middle one is the part people skip and the part that matters. If you're finding nothing, the
+problem is almost always your search terms, not the absence of information.
+
+> **If one of the three types genuinely doesn't exist for your claim**, say so in your submission
+> and list the searches you tried. A documented dead end is a real result and it earns full credit.
+> Silently skipping one does not.
 
 ---
 
-## Part 2: Format them with ZoteroBib
+## Part 3: Format them with ZoteroBib (individual)
 
-RIT gives you access to full citation managers like Zotero and EndNote. They're powerful and
-they have a real learning curve. For a three-item bibliography, there's a faster option.
+RIT gives you full citation managers like Zotero and EndNote. They're powerful and they have a
+real learning curve. For three sources, there's a faster option.
 
-**Go to [zbib.org](https://zbib.org)**, paste in each URL, and set the style to **APA**.
+**Go to [zbib.org](https://zbib.org)**, paste in each URL, set the style to **APA**.
 
-**Then check the output.** ZoteroBib is good, not perfect. On web pages especially, it often
-can't work out who the author is or when something was published. Look for:
+**Then check the output.** ZoteroBib is good, not perfect. On web pages especially it often can't
+work out the author or the date. Look for:
 
 - A missing or wrong author
 - A missing date
 - A title that's actually the site name
 
 The [Purdue OWL APA guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
-has examples for nearly every source type if you need to fix something by hand.
+has examples for nearly every source type if you need to fix one by hand.
 
-*(Prefer a different tool, like BibGuru? Fine. Formatting by hand is allowed and not
-recommended.)*
+*(Prefer BibGuru or something else? Fine. By hand is allowed and not recommended.)*
+
+---
+
+## Part 4: Load Section 2 (team, 5 minutes)
+
+Before you leave, everyone drops their three sources into the proposal doc, under the claim
+subheading they belong to.
+
+**That's it. That's Section 2's raw material**, outlined into four claims with a dozen cited
+sources under them, and your Evidence Lead now has something to build from instead of a blank
+page on Sunday night.
+
+> **Your appendix lists what you actually cite**, so not everything here makes the final. That's
+> normal. You gather more than you use.
 
 ---
 
 ## How to submit
 
-**One document** containing:
+**Individual, even though the topic is your team's.** One document containing:
 
 1. Your team's product idea, in a sentence
-2. For each of the three sources: the title, the link, your search terms, and the claim it backs up
-3. Your formatted APA bibliography of all three
+2. **The claim you took**
+3. For each of the three sources: the title, the link, your search terms, and how it supports
+   your claim
+4. Your formatted APA bibliography of all three
 
-Hand it in on myCourses. Google Doc, PDF, or Word all work.
-
-**Finish it in class if you can.** That's what the time is for.
+Hand it in on myCourses. Google Doc, PDF, or Word all work. **Finish it in class if you can.**
+That's what the time is for.
 
 ---
 
-## Why this one matters
+## Two things worth knowing
 
-Every claim in your proposal is either something you can support or something you're hoping
-nobody asks about. This is the week you find out which is which.
+**Team still deciding on an idea?** Pick your frontrunner and research that. Today is a good day
+to settle it, because everything from here builds on it.
 
-And the check runs both directions: a source that exists but doesn't actually say what you're
-citing it for is worth exactly nothing, which we'll come back to.
-
-**Hang onto these.** Your appendix lists what you actually cite, so not everything you find here
-makes it into the final. But between everyone on your team that's a dozen pieces of evidence to
-argue Section 2 from, and you have them a week before the draft is due.
+**And if your research kills the idea, that is the activity working.** Finding out on Thursday
+that the problem isn't real, or that three companies already solved it well, is a cheap and
+extremely useful thing to learn. Your work plan isn't due until Friday, which is exactly the
+runway for changing course. Come tell me and we'll sort it out.
