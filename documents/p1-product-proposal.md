@@ -70,26 +70,34 @@ Plan is in, and that page is where you'll find the two drafts you're reviewing i
 
 ## Your four roles
 
-Before anything else, your team divides into four roles. Each one owns a part of the proposal.
+Before anything else, your team divides into four roles. **These are jobs, not chapters.** Each
+one runs for the whole three weeks, and none of them means writing a section by yourself.
 
-| Role | What it takes | Owns |
-|---|---|---|
-| **Summary/Conclusion Writer and Overall Editor** | Concise writing, and holding the whole project in your head | Sections 1 and 5 |
-| **Market Researcher** | Research, and reading data without fooling yourself | Section 2 |
-| **Product Designer** | Technical sense and creativity | Section 3 |
-| **Devil's Advocate and Critic** | Critical thinking, and building a persuasive argument against your own team | Section 4, plus helping wherever it's needed |
+| Role | Owns |
+|---|---|
+| **Coordinator** | The schedule and the check-ins. Who is doing what by when, and noticing when it slips. Runs the "what's weakest" pass. |
+| **Editor** | How it reads. One voice, clean structure, and the final pass before you submit. Starts in week 3, not the night before it's due. |
+| **Evidence Lead** | Every claim in the document has something behind it. Runs the research and keeps the citations straight. |
+| **Product Lead** | What the thing actually is. The features, the audience, and keeping the concept from drifting while four people write about it. |
 
-**Team of 3?** Everyone takes a share of the Devil's Advocate role.
-**Team of 5?** Two people can share it.
+**Team of 3?** Coordinator and Editor fold together.
+**Team of 5?** Add a second Evidence Lead. Research is the one job that genuinely scales.
 
-> **Owning a section does not mean writing it alone.** It means you're accountable for it: you
-> drive it, you make sure it's actually good, and if it's weak that's your problem to raise.
-> Everyone still writes, reads, and edits in the shared document. A proposal where six sections
-> were clearly written by six people who never spoke is easy to spot and it grades badly.
+> **Two rules on top of the roles, and they apply to everybody:**
+>
+> **Everyone writes.** Sections get handed out week by week in your work plan, separately from
+> these roles. Nobody's role is "write section 3."
+>
+> **Everyone makes at least one mockup.** Section 3 needs three and there are four of you.
 
-The Devil's Advocate is the role people underestimate. Section 4 is where you argue against your own
-product, and it's the section that separates a proposal from a sales pitch. Give it to someone who
-will actually do it.
+### The "what's weakest" pass
+
+Five minutes at the end of every team meeting, run by the Coordinator: *what is the weakest thing
+in here right now?* Somebody writes the answers down.
+
+That is where Section 4 comes from. Nobody is assigned to be a pain for three weeks. You are all
+being honest for five minutes at a time, and those notes turn into the section that separates a
+proposal from a sales pitch.
 
 ---
 
@@ -158,12 +166,14 @@ What it is and how it works.
 - How the UI and UX are designed for your specific audience
 - Anything technically or creatively unusual about it
 - **At least three wireframes or mockups that you created.** Photoshop, Illustrator, Figma, drawn on
-  paper and photographed, or generated with AI are all fine. **If you used AI, say so in the
-  Appendix and name the tool.**
+  paper and photographed, or generated with AI are all fine. **Split these across the team, one
+  each.** This is an interactive media course and everybody should draw something. **If you used
+  AI, say so in the Appendix and name the tool.**
 
 ### 4. Possible Issues and Counterarguments
 
-Argue against yourselves, honestly.
+Argue against yourselves, honestly. This section gets written out of the notes from your
+"what's weakest" pass, so it should not be a scramble the night before.
 
 - The objections a skeptical reader raises first, including "isn't this already solved?"
 - Technical and financial challenges that would come up in real development
@@ -204,6 +214,8 @@ Your team's first job is to agree on what you're building and who is doing what.
 3. **Fill in the Work Plan together.** It asks for four things:
    - Who is taking which of [the four roles](#your-four-roles). That's also your roster, so there's
      no separate list of names to fill in.
+   - **Who is drafting which sections, and by when.** This is a separate question from the roles.
+     Nobody's role is "write section 3."
    - Your product, and what made the idea compelling to your team
    - **The second and third ideas you considered and rejected, and why you rejected them**
    - How your team is going to reach each other outside of class
@@ -242,6 +254,12 @@ the grade. If multiple people submit, I grade the last one turned in on time.
 **Due Wednesday, September 9, 11:59 PM | Group submission | 10 points**
 
 A real draft, sitting in your proposal doc, the night before the critique class.
+
+### Where it lives
+
+The same **Proposal Template** copy your team made in week 2, from
+[the documents section above](#the-documents-you-need). There is no new document to go get. Your
+draft and your final are the same file, and its link never changes.
 
 ### What "a real draft" means
 

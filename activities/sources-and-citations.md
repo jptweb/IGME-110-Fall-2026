@@ -5,10 +5,16 @@
 Your proposal has to argue that someone should build your product. An argument needs evidence,
 and evidence needs sources you can point to.
 
-Today you'll find three, and format them properly.
+**Section 2 of your proposal, Market Research and Need Analysis, is where that evidence goes.**
+It has to show the problem is real and that people outside your team care about it. Today you go
+find the proof, and format it properly.
 
 > **This is an individual assignment**, even though everyone on your team is researching the
 > same product idea. Your three sources will not be identical to your teammates'.
+
+> **Team still deciding?** Pick your frontrunner and research that one. If your team changes
+> direction later, these sources still count. You're graded on how you searched, not on which
+> idea you landed on.
 
 ---
 
@@ -37,7 +43,8 @@ RIT](https://infoguides.rit.edu/googlescholar) so it knows what we have access t
 
 - The title and a link
 - **The search terms you used to find it**, and where you searched
-- One sentence on why you picked it
+- **One sentence on what claim in your proposal this backs up.** Not "it's about my topic."
+  Something closer to "this is evidence that students actually have this problem." 
 
 That middle one is the part people skip and the part that matters. If you found nothing useful,
 the problem is almost always your search terms, not the absence of information.
@@ -71,7 +78,7 @@ recommended.)*
 **One document** containing:
 
 1. Your team's product idea, in a sentence
-2. For each of the three sources: the title, the link, your search terms, and why you picked it
+2. For each of the three sources: the title, the link, your search terms, and the claim it backs up
 3. Your formatted APA bibliography of all three
 
 Hand it in on myCourses. Google Doc, PDF, or Word all work.
@@ -87,3 +94,7 @@ nobody asks about. This is the week you find out which is which.
 
 And the check runs both directions: a source that exists but doesn't actually say what you're
 citing it for is worth exactly nothing, which we'll come back to.
+
+**Hang onto these.** Your appendix lists what you actually cite, so not everything you find here
+makes it into the final. But between everyone on your team that's a dozen pieces of evidence to
+argue Section 2 from, and you have them a week before the draft is due.
