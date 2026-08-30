@@ -8,8 +8,8 @@ whether you wrote a proposal or a sales pitch.
 
 Today your team builds the evidence for it.
 
-> **Your draft is due Wednesday.** By the end of class Section 2 should have a shape and real
-> sources under it, which is most of the hard part done six days early.
+> **Your draft is due Wednesday, September 9 at 11:59 PM.** By the end of class Section 2 should
+> have a shape and real sources under it, which is most of the hard part done six days early.
 
 ---
 
@@ -106,6 +106,11 @@ has examples for nearly every source type if you need to fix one by hand.
 
 ## Part 4: Load Section 2 (team, 5 minutes)
 
+> **You need your team's proposal doc for this.** You copied it and set sharing on Tuesday. If
+> your team didn't, do it now before you go further: the template link is in
+> [the Project 1 instructions](../documents/p1-product-proposal.md#the-documents-you-need) and it
+> takes two minutes.
+
 Before you leave, everyone drops their three sources into the proposal doc, under the claim
 subheading they belong to.
 
@@ -140,5 +145,7 @@ to settle it, because everything from here builds on it.
 
 **And if your research kills the idea, that is the activity working.** Finding out on Thursday
 that the problem isn't real, or that three companies already solved it well, is a cheap and
-extremely useful thing to learn. Your work plan isn't due until Friday, which is exactly the
-runway for changing course. Come tell me and we'll sort it out.
+extremely useful thing to learn. Your work plan isn't due until Friday, September 4, which is
+exactly the runway for changing course. Come tell me and we'll sort it out.
+
+*Dates here are for planning. myCourses is the official deadline.*

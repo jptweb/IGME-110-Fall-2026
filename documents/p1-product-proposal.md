@@ -209,8 +209,11 @@ Your team's first job is to agree on what you're building and who is doing what.
 
 1. **Meet as a team in class on 2A** and converge on one product idea. You'll each arrive with
    candidates from the week 2 study guide, so start from those.
-2. One person copies **both documents** from
-   [the section above](#the-documents-you-need) and sets sharing on both.
+2. **In class on 2A**, one person copies **both documents** from
+   [the section above](#the-documents-you-need) and sets sharing on both. Then **everyone else
+   opens the proposal doc once before leaving the room.** That proves the sharing actually works
+   and puts the doc in everyone's Recent list. Thursday's activity ends with your team loading
+   research into it, so it has to exist and all of you have to be able to find it.
 3. **Fill in the Work Plan together.** It asks for four things:
    - Who is taking which of [the four roles](#your-four-roles). That's also your roster, so there's
      no separate list of names to fill in.
