@@ -19,7 +19,8 @@ there's a page in myCourses that opens this one at that section.
 > exist before Thursday's class, because that's the class where two other teams critique it.
 
 **Reference:** [Your four roles](#your-four-roles) · [The documents you need](#the-documents-you-need) ·
-[What the proposal has to contain](#what-the-proposal-has-to-contain) · [Rubric](#rubric)
+[What the proposal has to contain](#what-the-proposal-has-to-contain) ·
+[What full credit looks like](#what-full-credit-looks-like)
 
 > Dates here are for planning. **myCourses is the official deadline** for every deliverable.
 
@@ -136,66 +137,20 @@ link from today through your final version. You'll hand that link in with your W
 
 ## What the proposal has to contain
 
-Six sections, in this order. The [rubric](#rubric) at the bottom of this page tells you what full
-credit looks like for each one.
+Six sections, in this order.
 
-### 1. Executive Summary
+| | Section | The job |
+|---|---|---|
+| 1 | Executive Summary | What it's called, what it does, who it's for |
+| 2 | Market Research and Need Analysis | Proof the problem is real |
+| 3 | Product Description | What it is and how it works, plus mockups |
+| 4 | Possible Issues and Counterarguments | The objections, answered honestly |
+| 5 | Conclusion and Recommendations | Why someone should say yes |
+| 6 | Appendix | Citations, extra data, AI disclosure |
 
-A high-level overview. Lead with a high concept statement: what the product is **called**, what it
-**does**, and **who it's for**, in about one sentence.
-
-> *LevelUpLife: a social rewards service that helps college students stop doomscrolling.*
-
-Then: what key problem it solves, and what makes it different from what's out there.
-
-### 2. Market Research and Need Analysis
-
-The evidence that the problem is real. This is the section that separates a proposal from a pitch.
-
-- The gap, unmet need, or social problem your product addresses
-- A competitor analysis: what already exists, and where it falls short
-- Statistical or qualitative evidence that demand exists (survey results, industry reports, studies)
-- **At least one chart or graph** that communicates your research visually
-- **Screenshots of competitor apps**
-
-### 3. Product Description
-
-What it is and how it works.
-
-- Core features, each with a short explanation
-- How the UI and UX are designed for your specific audience
-- Anything technically or creatively unusual about it
-- **At least three wireframes or mockups that you created.** Photoshop, Illustrator, Figma, drawn on
-  paper and photographed, or generated with AI are all fine. **Split these across the team, one
-  each.** This is an interactive media course and everybody should draw something. **If you used
-  AI, say so in the Appendix and name the tool.**
-
-### 4. Possible Issues and Counterarguments
-
-Argue against yourselves, honestly. This section gets written out of the notes from your
-"what's weakest" pass, so it should not be a scramble the night before.
-
-- The objections a skeptical reader raises first, including "isn't this already solved?"
-- Technical and financial challenges that would come up in real development
-- How you'd overcome them, or why the product still matters despite them
-
-A section that says "some people might not like the color scheme" is not doing this job. Find the
-objection that actually threatens the product, then answer it.
-
-### 5. Conclusion and Recommendations
-
-- A brief recap of the problem and your solution
-- The impact you expect, whether social, financial, or user benefit
-- A clear call to action: *"We recommend moving forward with development because…"*
-
-### 6. Appendix
-
-Everyone contributes here.
-
-- **Your citations, properly formatted.** You built this skill in the week 2 sources and citations
-  activity.
-- Any supporting data, charts, or research that didn't fit above
-- **AI disclosure**, including who or what created your mockups
+**[What full credit looks like](#what-full-credit-looks-like)**, at the bottom of this page, spells
+each one out: how many of a thing, and what separates a section that does its job from one that runs
+two sentences. Read it before you start writing, not after.
 
 ---
 
@@ -361,8 +316,8 @@ The complete proposal, revised using the critiques you received.
 - Work through the feedback from both reviewing teams. **You do not have to accept all of it.**
   Where you disagree, the right move is usually to strengthen the section so the objection stops
   landing, rather than ignoring it.
-- Check your work against the [rubric](#rubric) before you submit. It's written as a description of
-  a 100%, so you can grade yourselves first.
+- Check your work against [what full credit looks like](#what-full-credit-looks-like) before you
+  submit. It's written as a description of a 100%, so you can grade yourselves first.
 - Make sure your citations are in the appendix and formatted consistently. You built this skill in
   the week 2 sources and citations activity.
 
@@ -406,50 +361,136 @@ in the form.
 
 ---
 
-## Rubric
+## What full credit looks like
 
-What a 100% looks like on the final proposal. **Seven criteria**, and the full version with point
-values and every level is attached to the Final Proposal in myCourses.
+This is the standard for the **final proposal**, due September 18. It's here from day one on
+purpose. Your draft will not be at this level and is not supposed to be, but you should know where
+this is going before you start writing rather than finding out in week 4.
+
+The scored version, with point values and every level, is attached to the Final Proposal in
+myCourses. Same requirements, in grading form.
+
+**One rule runs through all six sections.** If you can't point to a source, it isn't evidence. That
+is most of what separates the proposals that do well from the ones that don't.
 
 ### 1. Executive Summary
-- Clear, concise product name and description
-- Target audience is well defined and specific
-- Key problem and unique features are clearly articulated
-- Professional writing quality
+
+A high-level overview, written so that someone who reads only this section understands the product.
+
+**It needs:**
+
+- **A high concept sentence, first.** One sentence: what it's called, what it does, who it's for.
+- The key problem it solves
+- What makes it different from what already exists
+
+**The test:** a reader who has never heard of your product can say back who it's for.
+
+| Weak | Strong |
+|---|---|
+| "Welcome to our app proposal. Our revolutionary product will change the way students manage their time." | "StudySplit is a scheduling app that helps first-year students find time to study together between classes." |
+
+The second one tells you what it is, who it's for, and why it exists, in one sentence. The first
+one is talking about the document instead of the product.
 
 ### 2. Market Research and Need Analysis
-- Strong evidence of research with multiple credible sources
-- Clear competitor analysis with specific examples
-- Statistical data or qualitative evidence included
-- At least one chart or graph, plus competitor screenshots
-- Sources properly referenced
+
+The evidence that the problem is real. This is the section that separates a proposal from a sales
+pitch, and it's the one that most often decides the grade.
+
+**Four things it has to establish, each with a source behind it:**
+
+1. **The problem is real.** Documented somewhere, not just annoying to your team.
+2. **Actual people have it**, in their own words.
+3. **Something already exists.** Two competitors, named.
+4. **It falls short.** For each one, the specific thing it does badly.
+
+**Plus:** at least one chart or graph, and a screenshot of each competitor. The chart can be one you
+made from your research or one from a source, and **if it came from a source, credit the source
+under the figure.**
+
+**The test:** the gap is not "not many apps do this." The gap is what's missing from the two that
+already do.
+
+| Weak | Strong |
+|---|---|
+| "Students are stressed about group scheduling" | "A 2024 survey of 1,200 undergrads found 68% missed at least one group meeting a month over scheduling conflicts" |
+| "The apps out there aren't very good" | "When2meet sends no notifications, so three of the five people in this thread said they simply forgot to fill it in" |
+
+⚠️ **Numbers without a citation are the most common way this section fails.** A paragraph of
+confident percentages with nothing behind them is weaker than one honest sentence you can back up.
 
 ### 3. Product Description
-- Comprehensive feature list with clear explanations
-- UI and UX considerations well described
-- Creative or innovative elements highlighted
-- At least three visual mockups or wireframes, created by you, with the creator named in the appendix
+
+What it is and how it works.
+
+**It needs:**
+
+- **Three core features**, each with a short explanation
+- For each feature, **why this audience needs it that way**. This is the part people skip.
+- Anything technically or creatively unusual about it
+- **Three wireframes or mockups that you made, one per person.** Photoshop, Illustrator, Figma,
+  drawn on paper and photographed, or generated with AI are all fine. This is an interactive media
+  course and everybody should draw something. If you used AI, say so in the Appendix and name the
+  tool.
+
+**The test:** every feature is tied to something you established in Section 2.
+
+| Weak | Strong |
+|---|---|
+| "The app will have a clean, easy to use interface." | "The home screen shows one number, today's streak, because our users check it walking between classes and have about four seconds." |
 
 ### 4. Possible Issues and Counterarguments
-- Thoughtful consideration of multiple potential objections
-- Technical and financial challenges identified
-- Reasonable responses to challenges provided
-- Critical thinking evident
+
+Argue against yourselves, honestly. This section gets written out of the notes from your "what's
+weakest" pass, so it should not be a scramble the night before.
+
+**It needs:**
+
+- **Two objections**, including the one you least want to answer
+- The technical or financial challenge that would come up in real development
+- How you'd overcome each, or why the product still matters anyway
+
+**The test:** would this objection actually stop someone funding it? If not, it isn't a
+counterargument, it's a disclaimer.
+
+| Weak | Strong |
+|---|---|
+| "Some people might not like the color scheme." | "AirTag already does the tracking half of this and it's cheap. Ours is still worth building because AirTag only works inside Apple's ecosystem, and half the students we surveyed are on Android." |
+
+This is the section that most often reads as an afterthought, and it's the one a skeptical reader
+turns to first.
 
 ### 5. Conclusion and Recommendations
-- Strong summary of key points
-- Clear articulation of potential impact
-- Compelling call to action
-- Reinforces main arguments effectively
+
+**It needs:**
+
+- A brief recap of the problem and your solution
+- The impact you expect, whether social, financial, or user benefit
+- **One call to action that names what you're actually asking for**
+
+**The test:** it says what happens next, not that the idea was good.
+
+| Weak | Strong |
+|---|---|
+| "In conclusion, we think this app would be really useful." | "We recommend funding a six month build of the tracking feature first, holding the social features for version two." |
 
 ### 6. Appendix
-- Properly formatted citations present, all in one consistent style
-- Additional supporting materials included
-- AI use disclosed, including who or what created the mockups
 
-### 7. Overall Presentation and Professionalism
+Everyone contributes here.
 
-This one is worth as much as the Executive Summary, so it is not an afterthought.
+**It needs:**
+
+- **Every source you cited**, all in one consistent style. You built this skill in the week 2
+  sources and citations activity.
+- Any supporting data, charts, or research that didn't fit above
+- **AI disclosure**, naming the tool and who made which mockup
+
+**The test:** a reader can find the source behind any number in Section 2 without asking you.
+
+### The seventh thing, and it isn't a section
+
+**Overall Presentation and Professionalism** is graded across the whole document, and it's worth as
+much as the Executive Summary. It is not an afterthought.
 
 - Headings, subheadings, and lists used well, so the document is easy to navigate
 - A professional layout with a clear visual hierarchy
