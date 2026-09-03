@@ -380,6 +380,8 @@ A high-level overview, written so that someone who reads only this section under
 **It needs:**
 
 - **A high concept sentence, first.** One sentence: what it's called, what it does, who it's for.
+- **An audience specific enough to design against.** "College students" is a campus, not an
+  audience. Narrow it until it changes what you'd build.
 - The key problem it solves
 - What makes it different from what already exists
 
@@ -400,13 +402,20 @@ pitch, and it's the one that most often decides the grade.
 **Four things it has to establish, each with a source behind it:**
 
 1. **The problem is real.** Documented somewhere, not just annoying to your team.
-2. **Actual people have it**, in their own words.
-3. **Something already exists.** Two competitors, named.
-4. **It falls short.** For each one, the specific thing it does badly.
+2. **Actual people have it**, in their own words. This is also where the audience you named in
+   Section 1 gets proved rather than asserted.
+3. **Something already exists.** Two competitors, and for each one: **its name, a screenshot, and
+   what it actually offers.** "Bob's Doors is a competitor" tells a reader nothing.
+4. **It falls short.** For each competitor, the specific thing it does badly or doesn't do at all,
+   and where that leaves room for you.
 
-**Plus:** at least one chart or graph, and a screenshot of each competitor. The chart can be one you
-made from your research or one from a source, and **if it came from a source, credit the source
-under the figure.**
+> **How you organize the competitors is up to you.** A table, a paragraph each, grouped by type.
+> Sorting them into groups is often where you notice the gap nobody is filling, so it's worth doing
+> rather than listing them in the order you found them. What can't be missing is those things for
+> each competitor.
+
+**Plus:** at least one chart or graph. It can be one you made from your research or one from a
+source, and **if it came from a source, credit the source under the figure.**
 
 **The test:** the gap is not "not many apps do this." The gap is what's missing from the two that
 already do.
@@ -418,6 +427,20 @@ already do.
 
 ⚠️ **Numbers without a citation are the most common way this section fails.** A paragraph of
 confident percentages with nothing behind them is weaker than one honest sentence you can back up.
+
+**One exception, and it's an important one.** Claims about *the world* have to be sourced. Claims
+about *your own product* can't be, because it doesn't exist yet. No study says your app improves
+sleep by 50%, and nobody expects one to.
+
+**Those numbers are allowed. Label them.** Real proposals do this constantly: the market data is
+cited, the projections are modeled and marked as projections.
+
+| Has to be sourced | A projection, and says so |
+|---|---|
+| "68% of undergrads miss a group meeting a month over scheduling conflicts" | "Projected: 50% faster sleep onset for consistent users" |
+
+**The rule is that a reader can always tell which one they're looking at.** An unlabeled projection
+reads as a made-up statistic, and that costs you more than the projection was ever worth.
 
 ### 3. Product Description
 

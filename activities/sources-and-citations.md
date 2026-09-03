@@ -38,6 +38,11 @@ accept. Almost every product needs these four:
 3. **Something already exists.** Whatever people use today, even if it's a spreadsheet.
 4. **It falls short.** Specifically, not "it's kind of bad."
 
+> **Claims 3 and 4 need more than a source when you write them up.** Each competitor also needs a
+> screenshot and a line on what it actually offers. Today is about finding the evidence; the full
+> list is under
+> [what full credit looks like](../documents/p1-product-proposal.md#what-full-credit-looks-like).
+
 Adjust the wording to your product. Then **each person takes one claim.** Four people, four claims.
 Team of three, drop number 3 into number 4. Team of five, split number 4 in two.
 
