@@ -30,24 +30,39 @@ difference between a section that runs two lines and one that does its job.
 
 ## Part 1: What does your Section 2 have to prove? (team, 5 minutes)
 
-Your Coordinator runs this. As a team, write down the claims your proposal needs a reader to
-accept. Almost every product needs these four:
+Your Coordinator runs this.
 
-1. **The problem is real.** Documented somewhere, not just annoying to your team.
-2. **Actual people have it.** In their own words.
-3. **Something already exists.** Whatever people use today, even if it's a spreadsheet.
-4. **It falls short.** Specifically, not "it's kind of bad."
+Section 2 answers four questions about **your** product. The list below is the four questions. It
+is not four claims, and you are not going looking for a source that proves "something already
+exists." **Your claims are the four sentences your team writes**, about your own idea, in your own
+words.
 
-> **Claims 3 and 4 need more than a source when you write them up.** Each competitor also needs a
-> screenshot and a line on what it actually offers. Today is about finding the evidence; the full
-> list is under
+Here is one team working through all four for a dorm laundry app:
+
+| The question | The claim they wrote |
+|---|---|
+| **1. Is the problem real?** | "Students waste time walking to the laundry room only to find every machine full." |
+| **2. Do actual people have it, in their own words?** | "Students describe that wasted trip on r/RIT constantly, and they describe it the same way every time." |
+| **3. What do people use for this today?** | "People use the CSC GO app, or they text somebody on their floor, or they walk down and look." |
+| **4. Where does that fall short?** | "CSC GO shows which machines are busy but never tells you when one opens, so you end up checking it over and over." |
+
+Those four sentences are the claims. Every one of them is something a reader could refuse to
+believe until you show them evidence, which is exactly what makes it worth writing. Going and
+finding that evidence is Part 2.
+
+**Change the questions if your product needs it.** Something nobody has attempted before might
+spend two claims on question 1. A crowded market might spend two on question 4.
+
+Then **each person takes one claim.** Four people, four claims. Team of three, fold 3 and 4
+together. Team of five, split the biggest one.
+
+> **Write your four claims into the proposal doc now**, as four subheadings under Section 2. That
+> is your outline, and it took five minutes.
+
+> **Questions 3 and 4 need more than a source when you write up the real section.** Each competitor
+> also needs its name, a screenshot, and a line on what it actually offers. Today is only about
+> finding evidence. The full list is under
 > [what full credit looks like](../documents/p1-product-proposal.md#what-full-credit-looks-like).
-
-Adjust the wording to your product. Then **each person takes one claim.** Four people, four claims.
-Team of three, drop number 3 into number 4. Team of five, split number 4 in two.
-
-> **Write these into your proposal doc now**, as four subheadings under Section 2. That is your
-> outline, and it took five minutes.
 
 ---
 
