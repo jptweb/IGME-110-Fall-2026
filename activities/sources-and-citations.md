@@ -124,22 +124,27 @@ has examples for nearly every source type if you need to fix one by hand.
 
 ---
 
-## Part 4: Load Section 2 (team, 5 minutes)
+## Part 4: Park your sources in the appendix (team, 5 minutes)
 
 > **You need your team's proposal doc for this.** You copied it and set sharing on Tuesday. If
 > your team didn't, do it now before you go further: the template link is in
 > [the Project 1 instructions](../documents/p1-product-proposal.md#the-documents-you-need) and it
 > takes two minutes.
 
-Before you leave, everyone drops their three sources into the proposal doc, under the claim
-subheading they belong to.
+Before you leave, everyone drops their three sources into the proposal doc's **appendix**, grouped
+under the claim they belong to.
+
+**Not into Section 2 itself.** Section 2 is prose you haven't written yet, and a stack of links
+under a heading is not that prose. The appendix is where sources live in a finished proposal, so
+put them where they are going to end up anyway. Section 2 keeps the four claim subheadings from
+Part 1, sitting empty for now. That's your outline, and you write into it next week.
 
 **That's it. That's Section 2's raw material**, outlined into four claims with a dozen cited
-sources under them, and your Evidence Lead now has something to build from instead of a blank
+sources parked behind them, and whoever writes it has something to build from instead of a blank
 page on Sunday night.
 
-> **Your appendix lists what you actually cite**, so not everything here makes the final. That's
-> normal. You gather more than you use.
+> **You'll trim this later.** The appendix in your final lists what you actually cite, and you will
+> not end up using all twelve. Gathering more than you use is normal.
 
 ---
 
