@@ -120,7 +120,22 @@ work out the author or the date. Look for:
 The [Purdue OWL APA guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
 has examples for nearly every source type if you need to fix one by hand.
 
-*(Prefer BibGuru or something else? Fine. By hand is allowed and not recommended.)*
+### The Reddit one is going to fight you
+
+Expect ZoteroBib to do a poor job on the Reddit post, or to fail on it completely. It may give you
+the subreddit instead of the post, or no author, or no date.
+
+**That's fine, and it's the part of this worth learning.** APA has a rule for social media posts.
+ZoteroBib just doesn't always know it. When the tool can't answer, go find out what the answer is:
+
+- Search **"how to cite a Reddit post in APA"** and read an actual style guide
+- Or try a different generator, like BibGuru, and see whether it handles it better
+- Then fix it by hand, and you'll know the shape of it next time
+
+A citation generator is a shortcut, not an authority. The day it fails on you is the day you need
+to already know what a correct citation looks like.
+
+*(Prefer BibGuru or something else? Fine. By hand is always allowed.)*
 
 ---
 
