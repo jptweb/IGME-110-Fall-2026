@@ -18,6 +18,9 @@ That last part is the whole reason we're playing.
 **Purple cards are questions.** "Which is most magical?" "Which will outlive us all?" "The
 thing that everyone loves to hate."
 
+**A few purple cards are blank, and that's on purpose.** If one turns up when you're setting up,
+your Judge writes the question. Anything works as long as people can argue about it.
+
 ## How to play
 
 The full rules are on the sheet at your table. The short version:
