@@ -13,7 +13,7 @@ done. There is no separate deadline to track.
 | 1 | B (Thu) | [Using Our Slack Workspace](slack-workspace.md) | Fri Aug 28 |
 | 1 | B (Thu) | [Brainstorming a Product Idea](brainstorming-activity.md) | Fri Aug 28 |
 | 2 | B (Thu) | [Sources and Citations](sources-and-citations.md) | Thu Sep 3 |
-| 3 | A (Tue) | [Critique Rehearsal](critique-rehearsal.md) | not graded |
+| 3 | A (Tue) | [The Metagame](metagame.md) | not graded |
 | 4 | A (Tue) | [Asset Scavenger Hunt](asset-scavenger-hunt.md) | Tue Sep 15 |
 | 4 | B (Thu) | [Markdown and GitHub](markdown-and-github.md) | Thu Sep 17 |
 | 5 | A (Tue) | [Transmedia Adaptation](transmedia-adaptation.md) | Tue Sep 22 |

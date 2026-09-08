@@ -161,7 +161,7 @@
       "theme": "Critiquing & Defending Ideas",
       "status": "built",
       "days": {
-        "tue": "Useful feedback or just venting? (opener), what makes a critique actionable, the room critiques a real proposal from last year, then draft studio",
+        "tue": "Useful feedback or just venting? (opener), what makes a critique actionable, then teams can play the Metagame or start on the draft, then draft studio",
         "thu": "The pitch that got laughed at (opener), then the period is writing critiques of two other teams' drafts"
       },
       "slides_url": null,
@@ -187,8 +187,8 @@
       ],
       "activities": [
         {
-          "item": "Activity: Critique Rehearsal",
-          "file": "activities/critique-rehearsal.md",
+          "item": "Activity: The Metagame",
+          "file": "activities/metagame.md",
           "day": "tue",
           "graded": false,
           "dropbox": false,
@@ -996,6 +996,15 @@
       "status": "unplaced",
       "shape": "in-class",
       "note": "CUT 2026-08-07. The arc is one activity now, not two. Markdown transfers everywhere and they get HTML properly in 235; this one had the worse failure rate (F25 needed a mid-activity rescue email). Dependency ran one way, so markdown stands alone. Dropbox can be deleted."
+    },
+    {
+      "item": "Activity: Critique Rehearsal",
+      "file": "activities/critique-rehearsal.md",
+      "graded": false,
+      "dropbox": false,
+      "status": "unplaced",
+      "shape": "in-class",
+      "note": "DISPLACED 2026-09-07 by Activity: The Metagame, after Eric's card deck turned up in tools/metagame/. Kept, not deleted: it is the rain-check if the printing does not happen, and it needs no edits to run. Its five questions also live in documents/p1-peer-critique-questions.md, which 3B uses."
     }
   ]
 }
