@@ -387,9 +387,10 @@ A high-level overview, written so that someone who reads only this section under
 
 **The test:** a reader who has never heard of your product can say back who it's for.
 
-| Weak | Strong |
-|---|---|
+| Weak                                                                                                     | Strong                                                                                                       |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | "Welcome to our app proposal. Our revolutionary product will change the way students manage their time." | "StudySplit is a scheduling app that helps first-year students find time to study together between classes." |
+|                                                                                                          |                                                                                                              |
 
 The second one tells you what it is, who it's for, and why it exists, in one sentence. The first
 one is talking about the document instead of the product.
