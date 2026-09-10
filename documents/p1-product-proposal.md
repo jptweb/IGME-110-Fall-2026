@@ -258,15 +258,15 @@ Nothing to prepare. Bring a laptop. Your assigned teams and their proposal links
 
 ### In class on 3B
 
-**→ [Peer critique questions](p1-peer-critique-questions.md)**, and the
-[Google Doc to copy the template from](https://docs.google.com/document/d/1RG1E2jPlseNaTt3XVv8_Wbj7VNCaUiTdTKRZwAJ2amw/)
+**→ [Peer critique questions](p1-peer-critique-questions.md)**, and
+**[make your copy of the template](https://docs.google.com/document/d/1RG1E2jPlseNaTt3XVv8_Wbj7VNCaUiTdTKRZwAJ2amw/copy)**
 
 For each team you review:
 
-1. Create a Google Doc named `Feedback for team [#], from team [#], section [#]`
-2. Set general access to **Anyone at RIT with the link, Viewer**, the same setting you used on your
+1. Open the template link and choose **Make a copy**. That's your working document.
+2. Rename it to `Feedback for team [#], from team [#], section [#]`
+3. Set general access to **Anyone at RIT with the link, Viewer**, the same setting you used on your
    own proposal. The team you're reviewing has to be able to read it.
-3. Copy the questions from the link above into it
 4. Pick **one scribe** for your team
 
 Then, for each question: **read** the relevant part of their proposal, **discuss** it as a group,
@@ -276,13 +276,12 @@ Then, for each question: **read** the relevant part of their proposal, **discuss
 > the way to an answer. Divide it up and you get six disconnected opinions instead of one useful
 > review. I can tell the difference immediately.
 
-Post each finished critique as a **new message** in [#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8) as you go, so the team you reviewed can
-start using it right away.
+Post each finished critique as a **reply in your section's thread** in [#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8) as you go, so the team
+you reviewed can start using it right away. There's one pinned thread per section. Everything goes
+in there rather than as a new channel message, so the channel stays readable.
 
-Start the message with `Section [01 or 07] · Review of Team [their number]`, then the link, so the
-team you reviewed can find it. **If you are the team being reviewed, reply in that message's
-thread.** Keeping each critique in its own thread means your response sits with the critique it
-answers instead of somewhere in a pile of thirty.
+Start your reply with `Section [01 or 07] · Review of Team [their number]`, then the link. That
+first line is how a team finds the review of its own proposal.
 
 > **If a draft you're assigned is empty, or you can't open the doc:** write that at the top of your
 > critique, note when you tried, and move on to the next one. Your grade is not affected by the

@@ -47,19 +47,23 @@ before the deadline in myCourses.
 ## Ready, set, go
 
 1. **Elect a scribe.** They type. They do not decide.
-2. **Create a new Google Doc** and share it with all of RIT.
-3. **Copy the template below** into your document.
+2. **[Open the template](https://docs.google.com/document/d/1RG1E2jPlseNaTt3XVv8_Wbj7VNCaUiTdTKRZwAJ2amw/copy)** and click **Make a copy**. You get your own document. You do not
+   need to create one or paste anything in.
+3. **Rename your copy** to `Feedback for team [#], from team [#], section [#]`, then set
+   **Share > General access** to **Anyone at RIT with the link, Viewer**. If they can't open it,
+   it didn't happen.
 4. Then for each question: read it aloud, discuss it, reach consensus, and the scribe types what
    you agreed on.
-5. **When you finish one, post it as a new message** in [#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8), so the team you reviewed can start
-   using it tonight. Start the message with `Section [01 or 07] · Review of Team [their number]`,
-   then the link. **If you are the team being reviewed, reply in that message's thread.**
+5. **When you finish one, post the link as a reply** in your section's thread in
+   [#110-inclass-activities](https://rit.enterprise.slack.com/messages/C0BRPBGM7H8), so the team you reviewed can start using it tonight. Start your
+   reply with `Section [01 or 07] · Review of Team [their number]`, then the link. That first line
+   is how a team finds the review of its own proposal.
 
 ---
 
-## The template
+## The questions
 
-Copy everything from here down.
+Your copy already has all of this in it. It's here so you can read ahead or follow along.
 
 > **Review of** *[the other team's product name]*
 >

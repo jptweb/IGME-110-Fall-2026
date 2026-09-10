@@ -9,10 +9,12 @@
     - Delete the "not posted yet" banner below
     - Post by MON AUG 31, before 2A on Tue Sep 1
 
-  STAGE 2: weekend of Sat Sep 5, after the Work Plan comes in Fri Sep 4.
-    - Product names and proposal doc URLs, harvested from the Work Plan submissions
-      (that dropbox asks for two links: the work plan, and the proposal doc)
-    - Delete the "links go up after the Work Plan" note in each section
+  STAGE 2: DONE 2026-09-10, morning of the in-class critique.
+    - Product names and proposal doc URLs are in.
+    - Source was the P1 Proposal (Rough Draft) group dropbox export, NOT the Work Plan.
+      All 16 teams pasted their doc URL into the dropbox comment field, so the draft
+      dropbox alone was enough. Next year: harvest from there and skip the Work Plan step.
+    - Product names came from the first line of each proposal doc, not from any form field.
 
   Nothing here is blocked on drafts. Reviewers need a URL, not a submission, and the
   proposal doc URL never changes. See 00-Course-Overview/P1-myCourses-Setup.md.
@@ -54,68 +56,78 @@ If you're wondering how these were put together, there's an explanation further 
 
 You stay with this team through all five P1 deliverables.
 
-**Proposal links appear after the Work Plan is due**, since that's the deliverable where each team
-hands in the link to its proposal doc.
-
 ---
 
 ## Section 01 (Tue/Thu 2:00 to 3:15 PM)
 
 *Teams posted Monday, August 31.*
 
-<!-- STAGE 2: add the product name to each heading (### Team N: *Product Name*) and a
-     **Proposal doc:** <url> line under it, harvested from the Work Plan submissions. -->
+### Team 1: *LaundryTemp*
 
-### Team 1
+**Proposal doc:** [LaundryTemp](https://docs.google.com/document/d/1C2VBxw49K6VmbtY_Sxb8AcI2GS-ThNYJKlTUj_0rsQk/edit)
 
 - Gavin B.
 - Jake G.
 - Adam P.
 - Liam P.
 
-### Team 2
+### Team 2: *LostNowFound*
+
+**Proposal doc:** [LostNowFound](https://docs.google.com/document/d/1aSO85DHGlc1Yf0DGVzfrUG2BzVeQ6z56jrfUd8K2s7E/edit)
 
 - Gavin D.
 - Rook P.
 - Austin S.
 - Saturn T.
 
-### Team 3
+### Team 3: *Reading Wizard*
+
+**Proposal doc:** [Reading Wizard](https://docs.google.com/document/d/12DNxuqd8GEt_7Vs6punBsdhGIV4sI7K2ogeK0iMobUY/edit)
 
 - Joshua B.
 - Kevyn C.
 - Savannah C.
 - Phoenix I.
 
-### Team 4
+### Team 4: *ChronoTransit*
+
+**Proposal doc:** [ChronoTransit](https://docs.google.com/document/d/1eqE5h4Q7bvCHJNQT_bWC5ADrrzgh6jgvjVIor1mfT6A/edit)
 
 - Maax D.
 - Camilla F.
 - Moyu W.
 - Kevin Y.
 
-### Team 5
+### Team 5: *Pantry Pal*
+
+**Proposal doc:** [Pantry Pal](https://docs.google.com/document/d/1MrgEBGXhSopF2u5fMVVQBdr_KoOYm0lkkAvGyNv4Nfo/edit)
 
 - Jonas A.
 - Massen H.
 - Logan H.
 - Charlie R.
 
-### Team 6
+### Team 6: *Brain Cleaner*
+
+**Proposal doc:** [Brain Cleaner](https://docs.google.com/document/d/1T7vQHKPTmzj-FmmHfvyU9K9P-zjq14KqNx8CUs0tC5g/edit)
 
 - Alex H.
 - Wren M.
 - Alexa M.
 - Antonio O.
 
-### Team 7
+### Team 7: *CrapMap*
+
+**Proposal doc:** [CrapMap](https://docs.google.com/document/d/1NgTaejWqIPJBzMvMwuNHDbp0Ej9FRqc-tR5-7eUWSFs/edit)
 
 - Liam L.
 - Ayden N.
 - Amalia R.
 - Kumar W.
 
-### Team 8
+### Team 8: *Ritchie Reviews*
+
+**Proposal doc:** [Ritchie Reviews](https://docs.google.com/document/d/1gHiLfw7yecyjW_JCGzSOjtoDnuKcbVPOVV5zyrftrxY/edit)
 
 - Madison C.
 - Delia C.
@@ -141,57 +153,71 @@ hands in the link to its proposal doc.
 
 *Teams posted Monday, August 31.*
 
-<!-- STAGE 2: add the product name to each heading and a **Proposal doc:** <url> line. -->
+### Team 1: *Hitbox*
 
-### Team 1
+**Proposal doc:** [Hitbox](https://docs.google.com/document/d/1fIEbresDlnni25R-lWD37zaFWv5qmaDKzRKrYnTHBfo/edit)
 
 - Keon D.
 - Kai E.
 - Jaxon E.
 - Ari K.
 
-### Team 2
+### Team 2: *My Dailys*
+
+**Proposal doc:** [My Dailys](https://docs.google.com/document/d/1n3uCXKxrYfiljkx8k_Miz9ZCAPcHTnmF3PLwI2fkzps/edit)
 
 - Andres C.
 - Joshua M.
 - James T.
 - Adrianna Z.
 
-### Team 3
+### Team 3: *ClimateCompare*
+
+**Proposal doc:** [ClimateCompare](https://docs.google.com/document/d/1m720FZERdEC1VLl1IgkIrdpn24Xgdbm_53YduIuJhfc/edit)
 
 - Owen H.
 - Xander K.
 - Roark O.
 - Andrew P.
 
-### Team 4
+### Team 4: *Backgaming Roulette*
+
+**Proposal doc:** [Backgaming Roulette](https://docs.google.com/document/d/1tv9ztE4SDI3veSAjIlsX8VjAglZURYWWSVypE9PEZOc/edit)
 
 - Evan J.
 - Shea K.
 - Evan L.
 - Zee S.
 
-### Team 5
+### Team 5: *Frindr*
+
+**Proposal doc:** [Frindr](https://docs.google.com/document/d/1W5Jbg1mPdHZoEk7M25NxuFR4svimraE6scssbYh1KTY/edit)
 
 - Kacey P.
 - Izaiah R.
 - Benjamin R.
 - Matthew S.
 
-### Team 6
+### Team 6: *Smart Laundry Monitor*
+
+**Proposal doc:** [Smart Laundry Monitor](https://docs.google.com/document/d/1TIsLmO9Ew6PbIg_dlU84l9_HkrVWM1sZ1dBXCYvcJGk/edit)
 
 - Charlie H.
 - Isaac J.
 - Declan M.
 - Sage V.
 
-### Team 7
+### Team 7: *Deafen*
+
+**Proposal doc:** [Deafen](https://docs.google.com/document/d/11MJFOzk6Ze-e6to7CNEEcxwM3_7j5I_wHpZwLY-s6kU/edit)
 
 - Angela C.
 - Vivi C.
 - Zhe W.
 
-### Team 8
+### Team 8: *PartyUp*
+
+**Proposal doc:** [PartyUp](https://docs.google.com/document/d/14ycORjksI9seXy887UIHSVDkTf8foLyuemTnJ_qKjUU/edit)
 
 - Roger F.
 - Ryan W.
