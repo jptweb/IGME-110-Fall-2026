@@ -81,7 +81,7 @@ Your copy already has all of this in it. It's here so you can read ahead or foll
 
 ### 0. Mechanics
 
-Yes or no for each:
+Yes or no for each. If anything is a no, say specifically what needs fixing.
 
 | | Yes / No |
 |---|---|
@@ -90,91 +90,162 @@ Yes or no for each:
 | All template boilerplate and instructions have been deleted | |
 | Formatted like a document: headings, subheadings, no walls of text | |
 
-**If you answered no to any of them, say specifically what needs fixing.**
+**What needs fixing:**
+
+*[type your answer here]*
 
 ---
 
 ### 1. Executive Summary
 
-**The Shark Tank first impression.** You're a panel with thirty seconds to decide whether to back
-this. Discuss until you agree.
+**The Shark Tank first impression**
 
-> **Write:** IN or OUT, and the one missing piece that would change your collective mind.
+**Talk about:** You're a panel with thirty seconds to decide whether to back this. Would you put
+money in? Argue it out until the whole team lands on the same answer.
 
-**One-line wonder.** Each person writes a single sentence capturing what this product is and why it
-matters. Then combine the best parts into one you all support.
+**Your answer needs:** IN or OUT, and the one missing piece that would change your collective mind.
 
-> **Write:** Your team's one-line description. Hand it to them. They can use it.
+**Our answer:**
+
+*[type your answer here]*
+
+**One-line wonder**
+
+**Talk about:** One at a time, each person says their own one-sentence version of what this
+product is and why it matters. Pull the best parts together into one sentence you all agree on.
+
+**Your answer needs:** Your team's one-line description. Hand it to them. They can use it.
+
+**Our answer:**
+
+*[type your answer here]*
 
 ---
 
 ### 2. Market Research and Need Analysis
 
-**Reality check.** Go around the group. Does anyone actually know someone with this problem? How real does this need feel, or is it a solution looking for a problem?
+**Reality check**
 
-> **Write:** How many of you know someone with this problem (X out of Y), and a rating from 1 to 10
-> where 1 is a totally manufactured need and 10 is a desperate real one.
+**Talk about:** Go around the group. Does anyone actually know someone with this problem? How real
+does this need feel, or is it a solution looking for a problem?
 
-**The missing piece.** Is there specific evidence behind every claim in this section? Agree on the
-biggest gap.
+**Your answer needs:** How many of you know someone with this problem (X out of Y), and a rating from 1
+to 10 where 1 is a totally manufactured need and 10 is a desperate real one.
 
-> **Write:** At least one statistic or source that's missing, and be specific. Not "more data."
-> Something like "survey data showing what percentage of college students actually do this."
+**Our answer:**
+
+*[type your answer here]*
+
+**The missing piece**
+
+**Talk about:** Does every claim in this section actually have evidence behind it? Find the claim
+with the weakest support and agree on it.
+
+**Your answer needs:** Name that claim, then name one specific source or statistic that would fix it. Be
+specific. Not "more data." Something like "survey data showing what percentage of college students
+actually do this."
+
+**Our answer:**
+
+*[type your answer here]*
 
 ---
 
 ### 3. Product Description
 
-**The feature graveyard.** Which feature is unnecessary or overcomplicated? What obvious feature is missing?
+**The feature graveyard**
 
-> **Write:** One feature to kill and why, and one missing feature that seems obvious.
+**Talk about:** Which feature is unnecessary or overcomplicated? What obvious feature is missing?
 
-**Would you use it?** Go around the group. Who would actually download or buy this? For everyone
-who said no, agree on the one change that would convert the most skeptics.
+**Your answer needs:** One feature to kill and why, and one missing feature that seems obvious.
 
-> **Write:** How many of you would use it (X out of Y), the one change that would win over the
-> no's, and what you think it's worth.
+**Our answer:**
+
+*[type your answer here]*
+
+**Would you use it?**
+
+**Talk about:** Go around the group. Who would actually download or buy this? For everyone who
+said no, agree on the one change that would convert the most skeptics. Then agree on what it would
+be worth paying, if anything.
+
+**Your answer needs:** How many of you would use it (X out of Y), the one change that would win over the
+no's, and what you think it's worth.
+
+**Our answer:**
+
+*[type your answer here]*
 
 ---
 
 ### 4. Problems and Counterarguments
 
-**The elephant hunter.** What obvious major issue are they avoiding? Agree on the biggest one.
+**The elephant hunter**
 
-> **Write:** The elephant in the room they aren't talking about.
+**Talk about:** What obvious major issue are they avoiding? Agree on the biggest one.
 
-**The ethics check.** Brainstorm potential ethical problems: privacy, addiction, discrimination,
-manipulation, who gets left out.
+**Your answer needs:** The elephant in the room they aren't talking about.
 
-> **Write:** One ethical concern they haven't considered, and why it matters.
+**Our answer:**
+
+*[type your answer here]*
+
+**The ethics check**
+
+**Talk about:** Brainstorm ethical problems this product could create: privacy, addiction,
+discrimination, manipulation, who gets left out. Then agree on the most serious one.
+
+**Your answer needs:** That one ethical concern, and why it matters.
+
+**Our answer:**
+
+*[type your answer here]*
 
 ---
 
 ### 5. Conclusion and Recommendations
 
-**The memorable moment.** What's the one thing from their conclusion you'll all still remember
-tomorrow?
+**The memorable moment**
 
-> **Write:** The most memorable point, and whether it should have been their opening instead.
+**Talk about:** What is the one thing from their conclusion you will all still remember tomorrow?
+Then decide: was it buried at the end when it should have opened the whole proposal?
+
+**Your answer needs:** The most memorable point, and whether it should have been their opening instead.
+
+**Our answer:**
+
+*[type your answer here]*
 
 ---
 
 ### 6. Appendix
 
-**The evidence test.** Look at their sources as a group. Which is the strongest, and which is the
+**The evidence test**
+
+**Talk about:** Look at their sources as a group. Which is the strongest, and which is the
 sketchiest?
 
-> **Write:** The most convincing source and why, and the least convincing or least relevant source
-> and why.
+**Your answer needs:** The most convincing source and why, and the least convincing or least relevant
+source and why.
+
+**Our answer:**
+
+*[type your answer here]*
 
 ---
 
 ### 7. Overall
 
-**The one thing.** If they could change one thing to dramatically improve this proposal, what
-should it be? You have to reach consensus.
+**The one thing**
 
-> **Write:** The single most important change they need to make.
+**Talk about:** If they could change one thing to dramatically improve this proposal, what should
+it be? You have to reach consensus.
+
+**Your answer needs:** The single most important change they need to make.
+
+**Our answer:**
+
+*[type your answer here]*
 
 ---
 
