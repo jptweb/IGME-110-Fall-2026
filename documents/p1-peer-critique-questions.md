@@ -85,8 +85,8 @@ Yes or no for each. If anything is a no, say specifically what needs fixing.
 
 | | Yes / No |
 |---|---|
-| Document title includes their team number and product name | |
-| The title at the top of the document does too | |
+| The first line of the document is their product name, not "Title of your proposal" | |
+| The file is named something real in Google Drive, not "Copy of P1 Product Proposal Template" | |
 | All template boilerplate and instructions have been deleted | |
 | Formatted like a document: headings, subheadings, no walls of text | |
 
