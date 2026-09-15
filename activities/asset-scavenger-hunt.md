@@ -43,6 +43,15 @@ Find one asset for each of the six items below. For each one, record four things
 
 The attribution line is the one people skip, and it's the one worth the most.
 
+**Writing the attribution line.** Some sites will write a credit for you (Wikimedia Commons and
+Openverse both do). Many won't, and then it's on you. Either way, check your line against Creative
+Commons' [recommended practices for attribution](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#Attributing_an_image),
+which shows good and bad examples side by side. A ready-made credit is a starting point, not proof
+that it's complete.
+
+If you can't find a license anywhere on the page, don't leave the field blank. It means you can't
+use that asset, so go find a different one.
+
 ### The six
 
 1. **A photo using roughly equal amounts of [RIT's official orange](https://www.rit.edu/brandportal/colors) and white.**
