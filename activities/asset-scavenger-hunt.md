@@ -42,7 +42,8 @@ Make a Google Doc titled `Asset Scavenger Hunt: [your name]`.
 
 Find one asset for each of the six items below. For each one, record four things:
 
-1. **The asset itself.** Paste the image in. For the audio item, paste the link.
+1. **The asset itself.** Paste the image in. You can't paste a music file into a doc, so for the
+   music item write the track title and artist, and paste a link to where it can be played.
 2. **The source URL.** Where you got it, not where it appears on a search page.
 3. **A link to the license**, showing it is free to use. Not a description of the license, a
    link to it.
