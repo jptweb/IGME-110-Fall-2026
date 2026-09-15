@@ -41,7 +41,7 @@ Find one asset for each of the six items below. For each one, record four things
 4. **The attribution line** you would put in your project, written out. If the license does not
    require attribution, say which license and say that it doesn't.
 
-Item 4 is the one people skip, and it's the one worth the most.
+The attribution line is the one people skip, and it's the one worth the most.
 
 ### The six
 
