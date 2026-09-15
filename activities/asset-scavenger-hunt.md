@@ -5,10 +5,18 @@
 A picture is worth a thousand words. The wrong picture is worth several thousand more, and
 those ones come from a lawyer.
 
-You are about to need images, audio, and textures for Projects 2, 3, and 4. Most of what you
-would grab off a search results page you are not allowed to use, and "I found it on Google" is
-not a license. This is the hunt: find six real, usable, correctly attributed assets, and be
-able to prove for each one why you are allowed to use it.
+**The scenario.** You've just been hired by a small studio. They're building a website and a
+game, and they need images, textures, and music for both. Your job is to find them. The studio
+has one rule: **don't get us sued.** Every asset you bring back has to be something they're
+allowed to use, and you have to be able to show them why.
+
+The six items below are their list. Some of the requests are a little strange. Clients are like
+that.
+
+This isn't only pretend. You are about to need images, audio, and textures for Projects 2, 3,
+and 4, and most of what you would grab off a search results page you are not allowed to use. "I
+found it on Google" is not a license. This is the hunt: find six real, usable, correctly
+attributed assets, and be able to prove for each one why you are allowed to use it.
 
 **We do this in class. It closes tonight.**
 
