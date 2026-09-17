@@ -61,6 +61,11 @@ Things to get working before you move on:
 - A link to RIT's home page
 - The same link again, but with the word **RIT** as the clickable text
 - An image, using a URL from the web
+  - **Quick option:** [Lorem Picsum](https://picsum.photos/) gives you a random photo.
+    `https://picsum.photos/400/300` is 400 pixels wide by 300 tall.
+  - **Finding a real one:** open a Wikipedia page, right-click a picture, and choose **Open image
+    in new tab**. The address bar now holds the image's URL, usually ending in `.jpg` or `.png`.
+    Copy that.
 - Bold and italic text
 
 Click **Commit changes** when you want to save. Every commit is a save point you can go back
@@ -91,8 +96,16 @@ while and a bored list is obvious.
 - A level 1 heading and at least one level 2 heading
 - A list of at least **five clickable links**
 - Some bold text
-- At least **two images**
+- At least **two images** that go with your theme
 - At least **five emoji** ([reference list](https://gist.github.com/rxaviers/7360908))
+
+**Finding an image's address.** Same trick as Part B: right-click a picture, choose **Open image
+in new tab**, and copy the address bar. That goes inside the parentheses of `![ ]( )`. Skip Google
+Images results and click through to the real site first.
+
+**Using a picture from your computer.** You can paste an image straight into the GitHub editor.
+GitHub uploads it and writes an `<img>` tag for you. That's HTML, and it works fine in a markdown
+file. Change the `alt` text so it describes the picture.
 
 Commit it when you're done.
 
