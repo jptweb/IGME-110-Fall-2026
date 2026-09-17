@@ -13,8 +13,8 @@ assumption is true.
 
 > ⚠️ **Read this before you panic.** Some of you have shipped a website. Some of you have never
 > made a GitHub account. Both are completely normal in a first year course and neither one is a
-> problem. **I am looking for honest effort, not perfection.** Spend the period on it, hand in
-> whatever you have at the end, and ask me questions while I'm standing right there.
+> problem. **I am looking for honest effort, not perfection.** We start it together in class, you
+> finish it tonight, and you can ask me questions while I'm standing right there.
 
 ## Before class on Thursday
 
