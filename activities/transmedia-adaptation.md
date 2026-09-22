@@ -124,8 +124,9 @@ final story. As a team, talk through:
 prompt.
 
 **One write-up per person.** Write a paragraph or two on how your story changed. You can summarize
-what your team said or give your own take. Hand it in on myCourses before the end of the day.
-Everyone hands one in, even though the Slack post is shared.
+what your team said or give your own take. Put the link to your team's Slack post at the top
+(hover over the post, then **⋯ → Copy link**), and hand it in on myCourses before the end of the
+day. Everyone hands one in, even though the Slack post is shared.
 
 ## AI Expectations
 
