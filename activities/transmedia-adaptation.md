@@ -119,18 +119,22 @@ final story. As a team, talk through:
 
 ## What to hand in
 
-**One write-up per person, and that's the whole handin.** Write a paragraph or two on how your
-story changed. You can summarize what your team said when the envelope came home, or give your
-own take. Hand it in on myCourses before the end of the day. Everyone writes their own, even
-though you worked as a team.
+**One write-up per person, on myCourses. That's the whole handin.** A paragraph or two on how
+your story changed: what survived the trip, what got invented along the way, and which step
+changed it most. You can summarize what your team said when the envelope came home or give your
+own take. It's due before the end of the day, and everyone writes their own even though you
+worked as a team.
 
-📸 **Photograph your five sheets before you leave.** I collect the envelopes at the end of class,
-so the photos are what you'll be writing from tonight. They're for you, and you don't hand them
-in.
+**Keep it short and keep it honest.** I'm reading for whether you noticed what happened to your
+story, not for polished writing.
 
-**Optional: post them.** If you want to show your team's work off, reply in your section's thread
-in **#110-inclass-activities** on Slack with your team number and your original prompt. It isn't
-graded and it isn't required. It's just fun to see how far eight stories drifted.
+📸 **Photograph your sheets before you leave.** I collect the envelopes at the end of class, so
+your photos are what you'll be writing from tonight. They're for you and you don't hand them in.
+
+**Optional: post the sequence.** If you want to show your team's work off, reply in your section's
+thread in **#110-inclass-activities** on Slack with the four versions in order, your team number,
+and the prompt you started from. Not required and not graded. It's just the best way to see how
+far eight different stories drifted in forty minutes.
 
 ## AI Expectations
 
