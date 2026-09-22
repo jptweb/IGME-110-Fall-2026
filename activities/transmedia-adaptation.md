@@ -119,14 +119,18 @@ final story. As a team, talk through:
 
 ## What to hand in
 
-**One post per team.** Photograph all five sheets and reply in your section's thread in
-**#110-inclass-activities** on Slack. Include your team number, your names, and your original
-prompt.
+**One write-up per person, and that's the whole handin.** Write a paragraph or two on how your
+story changed. You can summarize what your team said when the envelope came home, or give your
+own take. Hand it in on myCourses before the end of the day. Everyone writes their own, even
+though you worked as a team.
 
-**One write-up per person.** Write a paragraph or two on how your story changed. You can summarize
-what your team said or give your own take. Put the link to your team's Slack post at the top
-(hover over the post, then **⋯ → Copy link**), and hand it in on myCourses before the end of the
-day. Everyone hands one in, even though the Slack post is shared.
+📸 **Photograph your five sheets before you leave.** I collect the envelopes at the end of class,
+so the photos are what you'll be writing from tonight. They're for you, and you don't hand them
+in.
+
+**Optional: post them.** If you want to show your team's work off, reply in your section's thread
+in **#110-inclass-activities** on Slack with your team number and your original prompt. It isn't
+graded and it isn't required. It's just fun to see how far eight stories drifted.
 
 ## AI Expectations
 
