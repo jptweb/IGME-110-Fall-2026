@@ -120,7 +120,7 @@ You stay with this team through all five P1 deliverables.
 
 **Proposal doc:** [CrapMap](https://docs.google.com/document/d/1NgTaejWqIPJBzMvMwuNHDbp0Ej9FRqc-tR5-7eUWSFs/edit)
 
-- Liam L.
+- Camie L.
 - Ayden N.
 - Amalia R.
 - Kumar W.
