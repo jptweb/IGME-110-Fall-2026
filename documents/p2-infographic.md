@@ -39,8 +39,8 @@ Three deliverables. You plan it, you draft it and get it critiqued, then you fin
 
 ## Picking a proposal
 
-Every team's product and proposal document is listed on the [Project 1 teams page](p1-teams.md).
-Pick one.
+Every team's product and proposal document is listed on the [Project 1 teams page](p1-teams.md),
+both sections. Pick one.
 
 **It does not have to be your own team's**, and most people pick somebody else's. Read a few before
 you decide. You're looking for one with enough substance behind it that you have something to

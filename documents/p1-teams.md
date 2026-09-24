@@ -53,6 +53,7 @@ If you're wondering how these were put together, there's an explanation further 
 | **2** | Find your team and your teammates' names |
 | **3** | Find the two teams you're reviewing, and open their proposal docs |
 | **3 to 5** | Nothing. You'll be working in your own team's document. |
+| **5 onward** | **Project 2:** pick any team's proposal below, from either section, for your infographic. [Picking a proposal](p2-infographic.md#picking-a-proposal) |
 
 You stay with this team through all five P1 deliverables.
 
