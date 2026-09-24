@@ -46,6 +46,9 @@ both sections. Pick one.
 you decide. You're looking for one with enough substance behind it that you have something to
 visualize.
 
+Stuck between a few? The [Project Roulette Wheel](https://people.rit.edu/~jxtadm/110picker/) will
+pick for you. It's a joke, but it works. Read whatever it lands on before you commit to it.
+
 **You are not summarizing the whole proposal.** Pick an angle. Using the product's name as your
 title is not enough on its own, because it doesn't tell anyone what they're about to look at. Some
 angles that work:
