@@ -423,7 +423,7 @@
       "theme": "Visual Design & Typography",
       "status": "provisional",
       "days": {
-        "tue": "Visual design and type, then build a mood board",
+        "tue": "Mood boards: a logo everyone hated, four design rules that haven't changed in twenty years, then you start the mood board for your Project 2 infographic and hand in however far you got",
         "thu": "Typography Core Concepts"
       },
       "slides_url": null,
@@ -460,7 +460,7 @@
           "day": "tue",
           "graded": true,
           "dropbox": true,
-          "status": "stub"
+          "status": "ready"
         },
         {
           "item": "Activity: Typography Core Concepts",

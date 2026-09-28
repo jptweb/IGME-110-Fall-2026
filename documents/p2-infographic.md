@@ -183,7 +183,8 @@ Write a document with four sections.
    statistics, timelines, feature comparisons, process flows, market research, user demographics.
 4. **Mood Board.** Your design direction, built out from the one you made in class on 6A. Include
    typography, a color palette, images and icons in the style you're going for, and a couple of
-   reference infographics that influenced you.
+   reference infographics that influenced you. The 6A board was a first version, so this one is
+   expected to look different.
 
 ### What to submit
 
