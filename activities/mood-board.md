@@ -9,9 +9,10 @@ friendly" means something different to everyone until you can point at it.
 
 Today you start the one for your Project 2 infographic.
 
-Want to read more? [Mood Boards in UX: How and Why to Use Them](https://www.nngroup.com/articles/mood-boards/)
-from Nielsen Norman Group covers the same process: pick a few mood words, collect visuals, then
-arrange them.
+> 📖 **Read this if you've never made a mood board:**
+> **[Mood Boards in UX: How and Why to Use Them](https://www.nngroup.com/articles/mood-boards/)**
+> from the Nielsen Norman Group. It's short, it's free, and it walks through the same steps we
+> use today: pick a few mood words, collect visuals, then arrange them.
 
 **The short version:** start a mood board for the proposal you picked, and hand in however far you
 got. It doesn't need to be finished.
@@ -48,6 +49,10 @@ How should your infographic feel to that person? *Playful, bright, friendly* mak
 board from *calm, trustworthy, clean*. Every other choice you make today gets checked against these
 words, so spend a couple of minutes on them.
 
+**You pick these yourself.** Talking them over with a neighbor is fine if you're stuck, but they're
+your words. Write them down somewhere **off the board** (a note, the text box you hand in with). You'll
+need them for the hand-in and for the guessing game at the end of class.
+
 ### 3. Build a color palette
 
 Four to six colors, with the hex code for each one. [Adobe Color](https://color.adobe.com/),
@@ -78,15 +83,18 @@ filter that's handy here, and the font-pairing reading from Study Guide 6 applie
 Don't just dump everything on a page. How the board is laid out says something too. This is where
 CRAP comes in:
 
-- **Contrast:** make the important things stand out, like your adjectives and your palette.
+- **Contrast:** make the important things stand out, like your palette and your headline type.
 - **Repetition:** reuse your own colors and fonts for the board's labels and headings.
 - **Alignment:** line things up on a grid instead of scattering them.
 - **Proximity:** keep related things together, so colors sit with colors and type samples sit with
   type samples.
 
-Put your proposal, your audience, and your adjectives on the board itself. If you've already saved
-an infographic or two that you like, drop them in as well. They're optional today and required in
-the Plan.
+Put your proposal and your audience on the board. If you've already saved an infographic or two
+that you like, drop them in as well. They're optional today and required in the Plan.
+
+**Don't write your adjectives on the board.** The board should *show* the feeling, not say it. If
+you're going for fun, the word "fun" shouldn't appear anywhere on it: the colors, the type, and the
+images should make someone say "fun" without being told.
 
 ## Tools
 
@@ -101,9 +109,17 @@ Use whatever you're fastest in.
 
 ## Guess my adjectives
 
-In the last few minutes of class, swap with someone next to you. Look at their board for 30
-seconds, without them telling you anything, and write down the three adjectives you think it's
-going for. Then compare.
+**Stay until at least the last 15 minutes of class.** That's when we do this, and once it's done
+you're free to go.
+
+Swap with someone next to you and look at their board for 30 seconds, without them telling you
+anything. Write down three adjectives you think it's going for. Then compare with the words they
+picked.
+
+**Not much on your board yet? Swap anyway.** A palette and one typeface are already enough for
+someone to guess a feeling, and hearing their guess now is more useful than finding out on Friday.
+
+That's why the adjectives stay off the board. If "fun" is written on it, there's nothing to guess.
 
 If they got close, your board is working. If they didn't, that's the first thing to fix before
 Friday.
