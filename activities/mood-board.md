@@ -9,6 +9,10 @@ friendly" means something different to everyone until you can point at it.
 
 Today you start the one for your Project 2 infographic.
 
+Want to read more? [Mood Boards in UX: How and Why to Use Them](https://www.nngroup.com/articles/mood-boards/)
+from Nielsen Norman Group covers the same process: pick a few mood words, collect visuals, then
+arrange them.
+
 **The short version:** start a mood board for the proposal you picked, and hand in however far you
 got. It doesn't need to be finished.
 

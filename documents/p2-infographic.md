@@ -181,10 +181,16 @@ Write a document with four sections.
 3. **Data Requirements.** What data you need to make your point. How much of it is already in the
    proposal, and what you'll have to go find. Data takes more forms than you might expect:
    statistics, timelines, feature comparisons, process flows, market research, user demographics.
-4. **Mood Board.** Your design direction, built out from the one you made in class on 6A. Include
-   typography, a color palette, images and icons in the style you're going for, and a couple of
-   reference infographics that influenced you. The 6A board was a first version, so this one is
-   expected to look different.
+4. **Mood Board.** Your design direction, built out from
+   [the one you made in class on 6A](../activities/mood-board.md). Include typography, a color
+   palette, images and icons in the style you're going for, and a couple of reference infographics
+   that influenced you. The 6A board was a first version, so this one is expected to look
+   different.
+
+   Need a refresher? The [6A activity](../activities/mood-board.md#how-to-build-it) walks through
+   building one step by step. For more depth, read
+   [Mood Boards in UX: How and Why to Use Them](https://www.nngroup.com/articles/mood-boards/)
+   from Nielsen Norman Group.
 
 ### What to submit
 
