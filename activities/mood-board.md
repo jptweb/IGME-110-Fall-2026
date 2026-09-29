@@ -95,6 +95,8 @@ Use whatever you're fastest in.
 - **Canva** is the easiest. Search the templates for "mood board," then replace everything in it
   with your own stuff.
 - **Adobe Express** works the same way.
+- **PowerPoint** works better than you'd think. Make one slide your board. Everything is easy to
+  drag around, which makes it a good place to try out CRAP. Google Slides works too.
 - **Figma** and **Photoshop** are both on the machines in GOL 2000.
 
 ## Guess my adjectives
