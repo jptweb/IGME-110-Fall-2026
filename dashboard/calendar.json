@@ -421,10 +421,10 @@
       "week": 6,
       "dates": "Sep 28–Oct 2",
       "theme": "Visual Design & Typography",
-      "status": "provisional",
+      "status": "built",
       "days": {
         "tue": "Mood boards: a logo everyone hated, four design rules that haven't changed in twenty years, then you start the mood board for your Project 2 infographic and hand in however far you got",
-        "thu": "Typography Core Concepts"
+        "thu": "Typography on your own: the parts of a letter, why some fonts are missing letters, and anti-aliasing in Photoshop, while each Project 1 team gets a few minutes with me"
       },
       "slides_url": null,
       "due": [
@@ -468,7 +468,7 @@
           "day": "thu",
           "graded": true,
           "dropbox": true,
-          "status": "stub"
+          "status": "ready"
         }
       ],
       "study_guide": {
