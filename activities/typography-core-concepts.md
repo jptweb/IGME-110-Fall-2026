@@ -95,11 +95,16 @@ and open it in Photoshop.
    they probably look smooth.
 2. Zoom in (**View → Zoom In**) until you can see the gray pixels that soften the edge between the
    black letters and the white background.
-3. Select the text layer in the Layers panel, and pick the Type tool. The options bar across the
-   top now shows type settings, including one marked with two small "a" letters. That's
-   anti-aliasing. Cycle through the options (None, Sharp, Crisp, Strong, Smooth) and watch the
-   edges change. Then choose **View → Fit on Screen** and cycle through them again. At normal size
-   the differences are much harder to see.
+3. Select the text layer in the Layers panel, and pick the Type tool. Now find the anti-aliasing
+   setting. It's in three places, so use whichever you spot first:
+   - In the menu bar: **Type → Anti-Alias**
+   - Right-click the text and choose **Text Anti-aliasing**
+   - In the options bar across the top of the window: a small menu right after the font size that
+     starts out set to **Sharp**. Its icon is two small "a" letters.
+
+   Cycle through the options (None, Sharp, Crisp, Strong, Smooth) and watch the edges change. You
+   can skip the Mac or Windows ones at the bottom of the list. Then choose **View → Fit on Screen**
+   and cycle through them again. At normal size the differences are much harder to see.
 4. Set anti-aliasing to **Sharp**. Select the text and change its size from 128 pt to 512 pt, then
    zoom in on an edge again. It should look about the same as it did in step 2. That's because the
    text is still a vector, so Photoshop just redraws it at the new size.
