@@ -7,10 +7,16 @@ isn't you.
 
 ## In class
 
-Get into groups of 2 or 3. Pull up your infographics. Talk about them.
+Get into groups of 3 or 4, so at least two other people see yours. If you end up in a pair, find
+another pair.
+
+Take turns. Pull up your infographic, say who it's for and the one thing it should leave them
+with, then let the others react.
 
 What to cover for each one:
 
+- **Count the elements.** Are there at least five, each with a label and an image? See
+  [how I count an element](../documents/p2-infographic.md#what-the-infographic-must-contain).
 - What works well?
 - What's confusing?
 - Any obvious mistakes: spelling, readability, things too small to read
@@ -21,11 +27,14 @@ What to cover for each one:
   - **Proximity:** are related things grouped together?
 - Would this actually persuade the audience it's aimed at?
 
+Not sure whether yours has five elements? Raise your hand, or send me a quick Slack message
+("come look at mine") and I'll come to you.
+
 ## Then, individually
 
 Write a short reflection, 150 to 200 words, answering these five:
 
-1. **Collaboration.** Who did you work with today? List 2 or 3 names.
+1. **Collaboration.** Who looked at your infographic today? List the 2 or 3 names.
 2. **Feedback received.** What was the key feedback on your infographic? Two or three
    sentences.
 3. **Action plan.** What is ONE specific change you're going to make because of it?
@@ -38,6 +47,6 @@ PDF all work, whichever is easier.
 
 ## If you were absent
 
-You still have to do this. Reach out to one or two classmates on Slack, ask if they'll
+You still have to do this. Reach out to two classmates on Slack, ask if they'll
 swap infographics with you and exchange feedback over Slack or a call, then write the
 same reflection. The onus is on you to arrange it, and soon, not the night it's due.

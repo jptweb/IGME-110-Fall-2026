@@ -511,10 +511,10 @@
       "week": 7,
       "dates": "Oct 5–9",
       "theme": "Visual Communication & Infographics",
-      "status": "provisional",
+      "status": "built",
       "days": {
         "tue": "A chart that fooled a lot of people, three questions to ask of any design, then work time to get your mockup whole",
-        "thu": "Mockup critiques"
+        "thu": "What counts as an element, then peer feedback on your mockup in groups of 3 or 4"
       },
       "slides_url": null,
       "due": [

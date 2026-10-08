@@ -92,6 +92,12 @@ Same requirements for the mockup and the final. The difference is how finished t
 **2. At least five elements.** Each one labeled clearly enough that a reader scanning the
 infographic gets the point without reading closely.
 
+> **How I count an element.** It's a judgment call, but here's what I look for: one piece of
+> content a reader could take away on its own (a number, a comparison, a step, a feature), a label
+> that says something specific, and an image that shows it. The title, section headers, source
+> lines, and decorative photos don't count. An icon with one word under it usually doesn't either.
+> Not sure about yours? Ask me.
+
 **3. An image for every element.** The images have to look like they belong together, and they have
 to be recognizable at a glance. Photographs are usually the wrong choice here. You want clean, simple
 graphics. [The Noun Project](https://thenounproject.com/) and [Font Awesome](https://fontawesome.com)
