@@ -300,7 +300,7 @@ The full rubrics are attached to each assignment in myCourses. This is what they
 **1. Plan (25).** Five things, weighted evenly: proposal choice, the goal, the audience, data
 requirements, and the mood board.
 
-**2. Mockup (50).** Presence and completeness. Is it an infographic, does the title relate to the
+**2. Mockup (50).** Presence and completeness. Is it a PDF, is it an infographic, does the title relate to the
 product, are all five elements there with a description and an image, is the documentation complete,
 are the sources cited. Elements that still carry template placeholder content score as partial.
 
