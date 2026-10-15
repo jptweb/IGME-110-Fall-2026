@@ -705,7 +705,7 @@
           "url": null
         },
         {
-          "item": "P3: Lo-Fi Prototype, User Flows & Testing Script",
+          "item": "P3: Lo-Fi Prototype & Test Script",
           "date": "Fri Oct 30",
           "type": "project",
           "url": null
@@ -787,7 +787,7 @@
       "theme": "Testing Your Prototype",
       "status": "provisional",
       "days": {
-        "tue": "Build the testing materials: seven user flows, your lo-fi screens, and a five-task testing script, then studio time to make them",
+        "tue": "Rehearsal: run your test script once inside your team, fix whatever breaks, and get your screens ready for Thursday",
         "thu": "Testing your lo-fi prototypes on each other: paired teams, think-aloud, with Facilitator, Computer and Scribe roles, then a debrief each way"
       },
       "slides_url": null,
