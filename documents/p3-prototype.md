@@ -30,7 +30,7 @@ Each deliverable says how it's graded. The full rubric is attached to its assign
 
 ## Overview
 
-In a new team of about three, you'll design an app for one of the products the class proposed in
+In a team of about three, you'll design an app for one of the products the class proposed in
 Project 1. You'll sketch a rough version, put it in front of people who have never seen it, and then
 build a clickable version that fixes what they ran into.
 
@@ -59,8 +59,9 @@ How the four weeks run:
 
 ## Teams
 
-Teams come from the survey you filled out in week 8. They're new on purpose, and they go up Monday
-night before week 9.
+Teams go up Monday night before week 9. If you used the optional form in week 8 to name people you
+wanted to work with, I built the teams around that where I could, and Project 1 teammates were fine to
+pick. Everyone else I placed, which is a good way to meet people you'll be in classes with for years.
 
 **→ [Project 3 teams](p3-teams.md)**
 
