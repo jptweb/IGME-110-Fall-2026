@@ -603,10 +603,10 @@
       "week": 8,
       "dates": "Oct 12–16",
       "theme": "Interaction Design",
-      "status": "provisional",
+      "status": "built",
       "days": {
         "tue": null,
-        "thu": "How interfaces communicate, and rapid prototyping"
+        "thu": "A few doors and some games, where the course goes next, then work time on your Project 2 Final"
       },
       "slides_url": null,
       "due": [
