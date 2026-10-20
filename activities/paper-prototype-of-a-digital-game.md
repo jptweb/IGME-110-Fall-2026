@@ -9,7 +9,8 @@ whole point.
 ## What you'll do
 
 1. **Get into groups of about four.** Your P1 team, your P3 team, or whoever is sitting near you.
-2. **Spin for a game.** You get one assigned instead of picking a favorite.
+2. **Pick a video game.** Ideally one everyone in your group knows, so nobody has to learn it first.
+   Can't agree? Spin the [wheel of games](https://wheelofnames.com/tr5-h7j).
 3. **Pick the core experience.** The one thing a player is actually there for, not every mechanic.
 4. **Build it** with the paper, cards, dice, and odds and ends on the back table.
 
