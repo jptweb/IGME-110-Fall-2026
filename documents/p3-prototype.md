@@ -9,7 +9,7 @@ there's a page in myCourses that opens this one at that section.
 
 | | Deliverable | Due |
 |---|---|---|
-| 1 | [Work Plan and Personas](#1-work-plan-and-personas) | Fri, October 23 |
+| 1 | [Work Plan and Personas](#1-work-plan-and-personas) | **Sun, October 25** |
 | 2 | [Lo-Fi Prototype and Test Script](#2-lo-fi-prototype-and-test-script) | Fri, October 30 |
 | 3 | [Testing Results](#3-testing-results) | Fri, November 6 |
 | 4 | [Hi-Fi Prototype and Presentation](#4-hi-fi-prototype-and-presentation) | **Thu, November 12, in class** |
@@ -49,7 +49,7 @@ How the four weeks run:
 
 | Week | In class | What you hand in that Friday |
 |---|---|---|
-| **9** | Paper prototypes Tuesday, planning studio Thursday | Work Plan and Personas |
+| **9** | Paper prototypes Tuesday, planning studio Thursday | Work Plan and Personas (Sunday this time) |
 | **10** | Figma Tuesday, build day Thursday | Lo-Fi Prototype and Test Script |
 | **11** | Rehearsal Tuesday, **test day** Thursday | Testing Results |
 | **12** | Build day Tuesday, **presentations** Thursday | (due Thursday, in class) |
@@ -178,7 +178,7 @@ transcript needed.
 
 ## 1. Work Plan and Personas
 
-**Due Friday, October 23, 11:59 PM | One submission per team**
+**Due Sunday, October 25, 11:59 PM | One submission per team**
 
 Pick your product, decide who it's for, and decide how your team is going to work. Thursday's
 planning studio is for this.
