@@ -27,9 +27,10 @@ brainstorm is fine if you say so. Expect to end up with something simpler than w
 before midnight tonight, with:
 
 1. Your section (01 or 07)
-2. The game you got
+2. The game you picked
 3. The names of everyone in your group
 4. A photo of your prototype
+5. Your rules, so someone else could play it: a photo of them, or typed right into the post
 
 That post is the whole deliverable. You don't upload anything to myCourses; your grade shows up
 there once I've seen the post. Everyone named in it gets credit, so make sure your name is on it.
