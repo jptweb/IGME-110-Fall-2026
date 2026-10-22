@@ -189,8 +189,9 @@ Make one document with five parts:
 
 1. **The product.** Which Project 1 proposal you picked, with a link, and why. Then the core problem
    in a sentence or two: what is somebody trying to do that's hard right now?
-2. **Features.** Three to five things the app does. Mark the ones your prototype will show. You
-   won't build all of them, and that's expected.
+2. **Features.** Three to five things the app does. Mark the ones your personas would use most,
+   because those are what your prototype will show. You only build enough to run one test task per
+   persona, which usually comes to four to six screens.
 3. **Audience.** Who the product is for, in a short paragraph, drawn from the proposal's research.
 4. **Three personas,** one per teammate, with the owner's name on each. Start with your main user,
    then add two others who would use the product differently. A power user and a casual user is the

@@ -2,8 +2,8 @@
 
 # In-Class Activities
 
-Most class periods have something to do in them. Activities are worth **20% of your
-grade**, the same as study guides.
+Most class periods have something to do in them. Activities are worth **30% of your
+grade**.
 
 **An activity closes the night it runs.** If you were in class and you finished, you are
 done. There is no separate deadline to track.
