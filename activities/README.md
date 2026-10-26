@@ -21,7 +21,7 @@ done. There is no separate deadline to track.
 | 6 | B (Thu) | [Typography Core Concepts](typography-core-concepts.md) | Thu Oct 1 |
 | 7 | B (Thu) | [Infographic Peer Feedback](infographic-peer-feedback.md) | Thu Oct 8 |
 | 9 | A (Tue) | [Paper Prototype of a Digital Game](paper-prototype-of-a-digital-game.md) | Tue Oct 20 |
-| 10 | B (Thu) | [Enhance the Figma Prototype](enhance-the-figma-prototype.md) | Thu Oct 29 |
+| 10 | A (Tue) | [Enhance the Figma Prototype](enhance-the-figma-prototype.md) | Thu Oct 29 |
 | 13 | A (Tue) | [Audio Editing with Audacity](audio-editing-with-audacity.md) | Tue Nov 17 |
 | 13 | B (Thu) | [Video Production](video-production.md) | Thu Nov 19 |
 | 15 | B (Thu) | [Best Foot Forward](best-foot-forward.md) | Thu Dec 3 |

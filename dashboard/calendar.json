@@ -623,7 +623,7 @@
       "week": 9,
       "dates": "Oct 19–23",
       "theme": "Prototyping & Accessibility",
-      "status": "provisional",
+      "status": "built",
       "days": {
         "tue": "Paper prototypes, and Project 3 launches in new teams",
         "thu": "Project 3 planning studio in your new teams: personas, the work plan, and who is doing what"
@@ -685,10 +685,10 @@
       "week": 10,
       "dates": "Oct 26–30",
       "theme": "Prototyping Tools",
-      "status": "provisional",
+      "status": "built",
       "days": {
-        "tue": "Figma demo",
-        "thu": "Build time"
+        "tue": "A few things to know before Figma (a house with no blueprint, designs that trick people, three accessibility checks), then we build a prototype together in Figma",
+        "thu": "Rough on purpose: how to write a test task and an expected path, then studio time with your team on the lo-fi screens and test script"
       },
       "slides_url": null,
       "due": [
@@ -715,10 +715,10 @@
         {
           "item": "Activity: Enhance the Figma Prototype",
           "file": "activities/enhance-the-figma-prototype.md",
-          "day": "thu",
+          "day": "tue",
           "graded": true,
           "dropbox": true,
-          "status": "stub"
+          "status": "ready"
         }
       ],
       "study_guide": {
@@ -1004,7 +1004,7 @@
       "dropbox": false,
       "status": "unplaced",
       "shape": "in-class",
-      "note": "DISPLACED 2026-09-07 by Activity: The Metagame, after Eric's card deck turned up in tools/metagame/. Kept, not deleted: it is the rain-check if the printing does not happen, and it needs no edits to run. Its five questions also live in documents/p1-peer-critique-questions.md, which 3B uses."
+      "note": "DISPLACED 2026-09-07 by Activity: The Metagame, once the printable card deck turned up in tools/metagame/. Kept, not deleted: it is the rain-check if the printing does not happen, and it needs no edits to run. Its five questions also live in documents/p1-peer-critique-questions.md, which 3B uses."
     }
   ]
 }
