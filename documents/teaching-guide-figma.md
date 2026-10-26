@@ -1,552 +1,285 @@
-# Figma Prototyping Teaching Guide
+# Figma Prototyping Guide: TazerBed
 
-## Overview
-- **What's Covered:** Creating interactive Figma prototypes with vertical/horizontal scrolling, page navigation, and modal overlays
-- **Estimated Time:** 45-60 minutes for demonstration and practice
-- **Prerequisites:** Basic Figma familiarity (creating frames, shapes, and text)
-- **Setup Needed:** Figma account, mobile device with Figma app (optional but recommended)
-  
-![figma_demo3](_images/figma-demo3.png)
+This is the build we do together in class on Tuesday of week 10, step by step. It covers the same
+four things as [this YouTube tutorial](https://www.youtube.com/watch?v=v1UKB-0EUhQ): vertical
+scrolling, horizontal scrolling, moving between pages, and a pop-up. She builds a generic app; we
+build TazerBed, a made-up app for an alarm bed that shocks you awake.
 
+Missed class or fell behind? Follow this guide or the video, whichever you like. Then do the
+[Enhance the Figma Prototype](../activities/enhance-the-figma-prototype.md) activity.
 
----
+**Time:** 45 to 60 minutes the first time. Once you know it, about five.
 
-## Step-by-Step Guide
+**What you need:** Figma open in the browser, signed in with your RIT account. You don't need the
+education account for this one (your Project 3 team file does).
 
-### STEP 1: Create a New Prototype File
-**Action:** Set up the initial workspace and mobile frame
+## What you'll build
 
-1. Create new Figma "Design" file
-2. Name it "Prototype Practice"
-3. Press `F` to create a frame
-4. Select mobile phone frame size (iPhone or Android based on your device)
+A clickable phone prototype that scrolls up and down, has a row of cards that scrolls sideways, moves
+between two pages, and opens a pop-up.
 
-**Key Point:** Choosing the right frame size from the start ensures accurate mobile preview
-**Common Issues:** Using desktop frame sizes by mistake - always match your target device
+![Finished prototype](_images/figma-demo3.png)
 
 ---
 
-### STEP 2: Build Basic Wireframe Header
-**Action:** Create the app header with contrast and text
+## Part 1: The basic screen
 
-1. Press `R` to create a rectangle at the top
-2. Change fill color to dark gray for contrast
-3. Press `T` to add text box
-4. Type "Header" as placeholder text
-5. Adjust font and position
+### Step 1: Create a file and a phone frame
 
-**Code Example (Design Properties):**
-```
-Rectangle:
-- Fill: #333333 (dark gray)
-- Height: ~60px
+1. Create a new Figma **Design** file and name it "Prototype Practice."
+2. Press `F` to make a frame.
+3. In the right panel, pick a phone size that matches your phone (iPhone 16 Pro, Pixel 8, and so on).
 
-Text:
-- Font: Medium/Semibold
-- Size: 18-20px
-- Color: White
-- Alignment: Center
-```
+Picking your real phone size now means the preview will match your screen later.
 
-**Key Point:** Dark backgrounds with light text create clear visual hierarchy
-**Common Issues:** Forgetting to change text color to white on dark backgrounds
+### Step 2: Build the header
 
----
+1. Press `R` and draw a rectangle across the top of the frame.
+2. Change its fill to a dark gray (something like `#333333`).
+3. Press `T` and add text on top of it: "Tazer Bed" or whatever you like.
+4. Make the text white and center it.
 
-### STEP 3: Create Bottom Tab Bar
-**Action:** Build navigation footer with icon placeholders
+This is a wireframe, so don't spend long on styling.
 
-1. Copy header rectangle (`Cmd/Ctrl + C`)
-2. Paste (`Cmd/Ctrl + V`)
-3. Move to bottom of screen
-4. Press `R` multiple times to create 3 rectangles as icon placeholders
-5. Space them evenly across the tab bar
+### Step 3: Build the tab bar
 
-**Key Point:** Tab bars are fixed navigation - users expect them to stay visible while scrolling
-**Common Issues:** Making tab bar too tall (should be ~60-80px)
+1. Copy the header rectangle (`Cmd/Ctrl + C`, then `Cmd/Ctrl + V`) and move it to the bottom of the
+   frame.
+2. Press `R` and draw 3 small rectangles on it. These stand in for icons.
+3. Space them evenly.
 
----
+Keep the tab bar about 60 to 80 pixels tall.
 
-### STEP 4: Add Content Cards
-**Action:** Create scrollable content area
+### Step 4: Add content cards
 
-1. Press `R` to create a card rectangle
-2. Position between header and footer
-3. Copy and paste (`Cmd/Ctrl + C/V`) to create 3 cards
-4. Space them vertically
+1. Press `R` and draw a card between the header and the tab bar.
+2. Copy and paste it so you have 3 cards, stacked with a little space between them (about 16 to 20
+   pixels).
 
-**Key Point:** Leave space between cards for visual breathing room
-**Common Issues:** Cards touching edges - add ~16-20px margins
+### Step 5: Play it, and get a link
+
+1. Click the **Prototype** tab at the top of the right panel.
+2. Set the device to your phone.
+3. Select the frame and click the **Play** button (the triangle, top right).
+4. Click **Share prototype** to get a link anyone can open.
+
+It doesn't do anything yet, but it's a real prototype.
+
+### ✅ Checkpoint: the basic screen
+
+A phone frame with a dark header, 3 cards, and a tab bar with 3 icon placeholders.
+
+![Basic wireframe checkpoint](_images/prototype-checkpoint-1.png)
 
 ---
 
-### STEP 5: Generate Prototype Link
-**Action:** Create shareable interactive preview
+## Part 2: Scrolling
 
-1. Click **"Prototype"** tab in top right
-2. Set device to your mobile phone type
-3. Select the entire frame
-4. Click **play icon** (▶️) in top right
-5. Click **"Share Prototype"** button
+### Step 6: Make the page scroll
 
-**Result:** You now have a shareable URL that others can view and interact with
+1. Zoom out a bit and select the frame.
+2. Drag the **bottom edge** of the frame down to make it taller than the phone.
+3. Drag the tab bar down to the new bottom.
+4. Copy a card and paste more of them to fill the extra space.
 
-**Key Point:** Anyone with the link can view your prototype without a Figma account
-**Common Issues:** Forgetting to set correct device type - preview won't match actual size
+Play it: the page should scroll now. You'll notice the header and tab bar scroll away with
+everything else. The next two steps fix that.
 
----
+**Doesn't scroll?** Select the frame, then **Prototype** tab → **Scroll behavior** → **Overflow** →
+**Vertical**.
 
-## Code Checkpoint - Basic Wireframe Complete
+### Step 7: Keep the header in place
 
-At this point you should have:
-- Mobile frame with header (dark gray, centered text)
-- Three content cards in the middle
-- Bottom tab bar with 3 icon placeholders
-- A working prototype link (not yet interactive)
-<img width="243" height="472" alt="prototype-checkpoint-1" src="_images/prototype-checkpoint-1.png" />
+1. Select the header rectangle and its text, then group them (`Cmd/Ctrl + G`).
+2. With the group selected, go to the **Prototype** tab → **Scroll behavior** → **Position** and
+   choose **Fixed (stay in place)**.
 
----
+![Position set to Fixed in the Prototype tab](_images/prototype-fixed-header.png)
 
-### STEP 6: Enable Page-Level Vertical Scroll
-**Action:** Make the entire page scrollable while keeping header/footer fixed
+The header now stays at the top while the cards scroll under it.
 
-1. **Zoom out** and select the frame
-2. **Extend frame length** by dragging bottom edge down
-3. Select the toolbar and **drag to new bottom**
-4. Copy one card and **paste multiple times** to fill screen
-5. Adjust frame length so it's completely filled
+**Can't find Position?** Check that the page frame scrolls (step 6). And check you're not in **Draw
+mode**: if the right panel looks empty or strange, switch back to **Design** mode at the bottom right
+of the toolbar.
 
-**Result:** Page now scrolls vertically
+### Step 8: Keep the tab bar in place
 
-**WARNING:** Header and footer currently scroll with content - we'll fix this next
+1. Select the tab bar and its icons, and group them.
+2. In the **Design** tab, find **Constraints** under Position and set the vertical one to **Bottom**.
+3. Then, same as the header: **Prototype** tab → **Scroll behavior** → **Position** → **Fixed (stay
+   in place)**.
 
-**Key Point:** Frame height must be taller than device viewport for scrolling to work
+![Constraints set to Bottom in the Design tab](_images/prototype-footer-constraint-bottom.png)
 
----
+The bottom constraint is the step people miss. Without it, the tab bar stays fixed in the wrong spot.
 
-### STEP 7: Fix Header to Top (Sticky Positioning)
-**Action:** Make header stay visible during scroll
+### ✅ Checkpoint: scrolling
 
-<img width="633" height="556" alt="prototype-fixed-header" src="_images/prototype-fixed-header.png" />
+Play it. The page scrolls, the header stays at the top, the tab bar stays at the bottom, and the
+cards scroll between them.
 
-1. Select **all header elements** (rectangle + text)
-2. Hold `Ctrl` to ensure you're selecting everything
-3. Right-click → **"Group Selection"** (or `Cmd/Ctrl + G`)
-> You probably don't have to do step 4 and 5, as TOP is already constraint by default.
-4. In right panel under **Constraint**
-5. Keep top constraint active
-> DO THIS Atleast (see screenshot):
-6. Check **"Fixed position when scrolling"** box
+### Step 9: Make a row of cards for sideways scrolling
 
-**Code Example (Properties):**
-```
-Header Group:
-- Constraint: Top
-- Fixed position: ✓ Checked
-```
+1. Make the first card narrower, about 60 to 70 percent of the frame's width.
+2. Copy and paste it into a row of several cards, **side by side**.
+3. Select the whole row and drag it **out of the phone frame** for now.
 
-**Result:** Header now stays at top while content scrolls beneath it
+![Cards pulled out of the frame](_images/prototype-horizontal-create-boxes.png)
 
-**Common Issues:** Forgetting to group elements first - fixed position won't work on ungrouped items
+They need their own frame before they can scroll, and that's easier to set up outside the phone.
 
----
+### Step 10: Put the row in its own frame
 
-### STEP 8: Fix Footer to Bottom (Sticky Positioning)
-**Action:** Make tab bar stay visible during scroll
+1. With the cards selected, right-click → **Frame selection**.
+2. Drag that new frame back into the phone frame, where you want the row.
 
-1. Select **all footer elements** (rectangle + icons)
-2. Right-click → **"Group Selection"** (or `Cmd/Ctrl + G`)
-** Step 3 This step seems to have changed in newer figma??** 
-> For steps 3 and 4 next... Figma made this harder to find. GOTO the design tab when group is selected. There is a thing you can click to make it fixed / sticky to the bottom of the page. So follow steps 3 and 4 the best you can; not sure if I can provide verbal steps here as its hard to spot!
-3. In right panel under **Constraint** (I think? just figure out how to do this; its no longer labeled "Constraint" but the setting is there)
-4. Click **bottom line** to change constraint to bottom
-5. Check **"Fixed position when scrolling"** box
-<img width="252" height="556" alt="prototype-footer-constraint-bottom" src="_images/prototype-footer-constraint-bottom.png" />
+![Frame selection around the cards](_images/prototype-horizontal-frame-selection.png)
 
+### Step 11: Turn on sideways scrolling
 
+1. Select the **cards frame** (the container, not one card).
+2. Make it the width of the phone, so the cards run off the right edge.
+3. In the **Design** tab, check **Clip content** so the extra cards are hidden.
+4. In the **Prototype** tab → **Scroll behavior** → **Overflow**, choose **Horizontal**.
 
-**Code Example (Properties):**
-```
-Footer Group:
-- Constraint: Bottom (not top!)
-- Fixed position: ✓ Checked
-```
+![Overflow set to Horizontal](_images/prototype-horizontal-enabled.png)
 
-**Result:** Footer now stays at bottom while content scrolls
+The frame has to be narrower than the row of cards. If everything fits, there's nothing to scroll.
 
-**Key Point:** Must change constraint to "Bottom" for footer - different from header!
+### ✅ Checkpoint: sideways scrolling
+
+Play it. The page still scrolls up and down with the header and tab bar fixed, and the row of cards
+scrolls sideways.
+
+### Step 11.5: Make the header and tab bar into components (recommended)
+
+Do this before you copy the page in the next step.
+
+1. Select the header group, then right-click → **Create component**.
+2. Do the same for the tab bar group.
+
+![Creating components from the header and tab bar](_images/prototype-step-11-5.png)
+
+Now when you copy the page, the header and tab bar come along as **instances** of those components.
+Change the original once and every copy updates. Anything that repeats across screens should be a
+component; it's a habit worth building now.
 
 ---
 
-## Scrolling Checkpoint
+## Part 3: A second page
 
-**Test your prototype now:**
-- Page should scroll vertically
-- Header stays fixed at top
-- Footer stays fixed at bottom
-- Content scrolls between them
+### Step 12: Make page 2
 
----
+1. Double-click the frame's name and rename it **Page 1**.
+2. Copy the whole frame and paste the copy beside it. Rename it **Page 2**.
+3. Keep the header and tab bar, and change the rest so it clearly looks like a different screen.
 
-### STEP 9: Prepare for Horizontal Scroll Component
-**Action:** Create horizontally scrollable card section
+If Page 2 looks too much like Page 1, you won't be able to tell when the link works.
 
-1. Go back to design file
-2. Select **first card** and make it narrower (~60-70% of frame width)
-3. Copy and paste to create multiple cards **side by side**
-4. Select **all upper cards**
-5. Drag them **out of the main frame** temporarily
-<img width="434" height="152" alt="prototype-horizontal-create-boxes" src="_images/prototype-horizontal-create-boxes.png" />
+### Step 13: Link Page 1 to Page 2
 
+1. Make sure the **Prototype** tab is selected.
+2. On Page 1, select one of the tab bar icons.
+3. Hover over it until a small blue circle appears on its edge.
+4. Drag that circle onto Page 2 and let go.
 
-**Key Point:** We're building a contained horizontal scroll area separate from the vertical page scroll
-**Common Issues:** Trying to make cards scroll horizontally while still in the main frame - won't work
+![Linking an icon to Page 2](_images/prototype-step13.png)
 
----
+Tapping that icon now goes to Page 2. Be sure to drag the blue circle, not the icon itself; it's a
+small target.
 
-### STEP 10: Frame the Horizontal Scroll Section
-**Action:** Create a container that enables horizontal scrolling
+### Step 14: Link back to Page 1
 
-1. With cards selected, right-click → **"Frame Selection"**
-2. This creates a new frame around just these cards
-3. **Drag this new frame back** into the mobile frame
-4. Position it where you want the horizontal scroll area
-<img width="616" height="301" alt="prototype-horizontal-frame-selection" src="_images/prototype-horizontal-frame-selection.png" />
+1. On Page 2, select a **different** icon in the tab bar.
+2. Drag its blue circle to Page 1.
 
+![Linking back to Page 1](_images/prototype-step14.png)
 
-**Result:** Cards are now in their own frame that we can control
+**Another way to make a link:** select the icon, click **+** next to **Interactions** in the
+Prototype tab, change the action to **Navigate to**, and pick the page. Same result. This way is
+easier once a screen has a lot of links.
 
-**Key Point:** Frames within frames enable different scroll behaviors
-**Common Issues:** Not creating the frame before trying to add scroll - horizontal scroll needs a frame
+### ✅ Checkpoint: pages
+
+Play it. The tab bar icons take you back and forth between the two pages.
 
 ---
 
-### STEP 11: Configure Horizontal Scrolling
-**Action:** Set frame properties for horizontal scroll
+## Part 4: A pop-up
 
-1. Select the **cards frame** (not individual cards)
-2. Adjust **frame width** to match phone width (so cards overflow)
-3. In right panel, check **"Clip content"** box
-4. In **Prototype tab**, enable **"Horizontal scrolling"**
-<img width="726" height="433" alt="prototype-horizontal-enabled" src="_images/prototype-horizontal-enabled.png" />
+### Step 15: Make the pop-up
 
+1. Press `F` and make a frame **smaller than the phone**, about 70 to 80 percent as wide. Put it next
+   to your pages, not on them.
+2. Inside it, add a background rectangle, a close button (an X) in the top right corner, and some
+   content.
 
-**Code Example (Properties):**
-```
-Cards Frame:
-- Width: ~90% of phone width
-- Clip content: ✓ Checked
-- Prototype: Horizontal scrolling ✓ Enabled
-- Vertical scrolling: Disabled
-```
+It should be clearly smaller than the screen, so it reads as a pop-up and not a new page.
 
-**Result:** Users can now swipe horizontally through cards
+### Step 16: Open it from a page
 
-**Key Point:** Frame width MUST be smaller than total cards width for scroll to activate
-**Common Issues:** Frame too wide - no overflow means no scroll needed
+1. On Page 2, select the icon or button that should open the pop-up.
+2. In the **Prototype** tab, drag its blue circle to the pop-up frame.
+3. In the interaction settings, change **Navigate to** to **Open overlay**.
+4. Check **Add background behind overlay** (dims the page) and **Close when clicking outside**.
 
----
+### Step 17: Make the X close it
 
-## Component Scrolling Checkpoint
+1. Select the X in the pop-up.
+2. Click **+** next to **Interactions** and set the action to **Close overlay**.
 
-**Test your prototype now:**
-- Page scrolls vertically (header/footer fixed)
-- Upper card section scrolls horizontally
-- You can adjust frame size without squishing cards
+Now there are two ways to close it: the X, or tapping outside. Always give people both.
+
+### ✅ Checkpoint: pop-up
+
+Play it. The trigger opens the pop-up over a dimmed page, and both the X and a tap outside close it.
 
 ---
 
+## Bonus tips
 
-### OPTIONAL STEP 11.5
-> NOTE! I'd suggest possibly making the header & Footer COMPONENTS NOW! as opposed to later; but don't think i'll be able to rewrite this tutorial to reflect that; but may do that in class!
+### Put the tab bar's links inside the component
 
-- Make the header and footer into components NOW. These are resuable pieces when you start cloning out multiple pages for the prototype the issue is if we change something in the header and footer; we would need to change it manually on every page. It would be helpful to make the header and footer a component NOW. that way when you do the next step (step 12+) it uses the shared component of header and footer! 
-- However the rest of the steps haven't taken that we did this into account but it should be pretty similar.
-<img width="767" height="535" alt="prototype-step-11-5" src="_images/prototype-step-11-5.png" />
+If you did step 11.5, you can set the tab bar's links **once** and have every page get them.
 
+1. Find the **main component** for the tab bar (the original, not a copy; its icon in the Layers panel
+   is solid).
+2. Add the navigation links to its icons there: icon 1 → Page 1, icon 2 → Page 2, and so on.
+3. Every copy of the tab bar on every page now has the same links. Add a page, paste in the tab bar,
+   and it already works.
 
+If you edit a copy instead of the main component, the change stays on that one page.
 
----
+### Test on your phone
 
+1. Install the **Figma** app on your phone and log in.
+2. Tap **Mirror** and select a frame on your laptop.
 
-### STEP 12: Create a Second Page
-**Action:** Build a new screen for navigation testing
+The prototype shows up on your phone as you work. It's the best way to feel what you're building.
 
-1. Double-click page frame name → rename to **"Page 1"**
-2. Copy **entire Page 1** frame (`Cmd/Ctrl + C`)
-3. Paste beside it (`Cmd/Ctrl + V`)
-4. Rename new frame to **"Page 2"**
-5. Keep header and footer
-6. Adjust/create new rectangles to make it visually different
+### Watch someone use it
 
-**Key Point:** Navigation requires at least 2 distinct pages
-**Common Issues:** Not making pages visually different enough - users won't notice navigation working
-
----
-
-### STEP 13: Create Navigation Interaction (Method 1)
-**Action:** Link tab bar icon to different page
-
-1. Make sure **Prototype tab** is selected (top right)
-2. Select **one icon** on Page 1's tab bar
-3. **Drag the blue circle** (connection point) to Page 2
-4. Release to create the connection
-
-**Result:** Clicking that icon now navigates to Page 2
-<img width="767" height="683" alt="prototype-step13" src="_images/prototype-step13.png" />
-
-
-**Code Example (Interaction Details):**
-```
-Icon → Page 2:
-- On: Click/Tap
-- Action: Navigate to Page 2
-- Animation: Instant (default)
-```
-
-**Key Point:** The blue circle appears when you hover over interactive elements
-**Common Issues:** Accidentally dragging the element instead of the connection point
+Send someone your prototype link. While they're using it, open the same link yourself, hover over
+the top of the screen, and click their profile picture to **follow** them: you'll see every tap as
+they make it. Click **Stop following** when you're done. This is how you can watch a test remotely in
+Project 3.
 
 ---
 
-### STEP 14: Create Return Navigation
-**Action:** Link back from Page 2 to Page 1
-
-1. On **Page 2**, select **different icon** on tab bar
-2. Drag blue circle to **Page 1**
-
-**Result:** Users can now click between pages using tab icons
-<img width="767" height="683" alt="prototype-step14" src="_images/prototype-step14.png" />
-
-**Key Point:** Complete navigation requires links in both directions
-**Common Issues:** Linking same icon on both pages - users expect consistent icon meanings
-
----
-
-### STEP 15: Create Navigation Interaction (Method 2)
-**Action:** Alternative way to create navigation
-
-1. Select icon on Page 2
-2. In **Prototype panel**, click **"+ Add Interaction"**
-3. Click the new interaction
-4. Change **"None"** dropdown to **"Navigate to"**
-5. Select **"Page 1"** from destination dropdown
-
-**Code Example (Properties):**
-```
-Interaction:
-- Trigger: On Click
-- Action: Navigate to → Page 1
-- Animation: Instant
-```
-
-**Result:** Exact same navigation as Method 1, just created differently
-
-**Key Point:** Method 2 is better for complex interactions with multiple triggers
-**Common Issues:** Forgetting to change "None" to "Navigate to"
-
----
-
-## Navigation Checkpoint
-
-**Test your prototype now:**
-- Click tab icons to move between Page 1 and Page 2
-- Navigation should feel instant and responsive
-- Icons should clearly indicate which page you're on (if designed well)
-
----
-
-### STEP 16: Create Modal/Overlay Frame
-**Action:** Build a popup dialog
-
-1. Press `F` to create new frame
-2. Make it **smaller than mobile screen** (~70-80% width)
-3. Position it **near your pages** (doesn't need to be on them)
-4. Use rectangles to create a modal design:
-   - Background rectangle
-   - Close icon in top right
-   - Content area
-
-**Key Point:** Modals should be smaller than full screen to show they're overlays
-**Common Issues:** Making modal full-screen - loses the overlay effect
-
----
-
-### STEP 17: Create Overlay Interaction
-**Action:** Make icon trigger the modal popup
-
-1. Go to **Page 2**
-2. Select **one of the icons** (we'll use as modal trigger)
-3. In **Prototype tab**, drag blue circle to **modal frame**
-4. In interaction details, change **"Navigate to"** to **"Open overlay"**
-
-**Code Example (Properties):**
-```
-Interaction:
-- Trigger: On Click
-- Action: Open overlay → Modal Frame
-- Animation: Instant
-```
-
-**Result:** Clicking the icon opens modal as an overlay
-
-**WARNING:** Without next steps, modal will be hard to see and can't be closed
-
----
-
-### STEP 18: Improve Overlay Visibility
-**Action:** Add background dimming and click-outside-to-close
-
-1. With the interaction still selected
-2. Under **interaction details**, check:
-   - ✓ **"Add background behind overlay"**
-   - ✓ **"Close when clicking outside"**
-
-**Code Example (Properties):**
-```
-Overlay Settings:
-- Background behind overlay: ✓ Checked
-- Close when clicking outside: ✓ Checked
-```
-
-**Result:** Modal now has dimmed background and can be dismissed by clicking outside
-
-**Key Point:** These two settings make modals feel polished and user-friendly
-**Common Issues:** Forgetting background - modal blends into page content
-
----
-
-### STEP 19: Add Close Button to Modal
-**Action:** Create explicit way to dismiss modal
-
-1. Select the **close icon** in top right of modal
-2. In **Prototype tab**, click **"+ Add interaction"**
-3. Set interaction to **"Close overlay"**
-
-**Code Example (Properties):**
-```
-Close Icon Interaction:
-- Trigger: On Click
-- Action: Close overlay
-- Icon: X or cross symbol
-```
-
-**Result:** Users can now close modal by clicking X or clicking outside
-
-**Key Point:** Always provide two ways to close modals (explicit close button + outside click)
-**Common Issues:** Close icon not actually clickable - verify interaction is added
-
----
-
-## Modal Checkpoint
-
-**Test your prototype now:**
-- Click designated icon to open modal
-- Modal appears with dimmed background
-- Click outside modal to close
-- Click X icon to close
-- Modal properly overlays page content
-
----
-
-## Bonus Tips
-
-### TIP 1: Test on Real Device
-**Action:** Use Figma mobile app for realistic testing
-
-1. Download **Figma app** on your mobile phone
-2. Open the app and log in
-3. Click **"Mirror"** icon in bottom right
-4. Select any frame on your laptop
-
-**Result:** Prototype appears on your phone in real-time
-
-**Key Point:** This is THE best way to test mobile interactions - more realistic than desktop preview
-**Common Issues:** Laptop and phone need to be on same WiFi network
-
----
-
-### TIP 2: Use Components for Shared Elements
-**Action:** Make tab bar edits update across all pages automatically
-
-1. **Drag tab bar** outside of any page frames
-2. Right-click → **"Create Component"**
-3. Add **all interactions** to this main component (all icon links)
-4. **Copy this main component**
-5. **Paste into each page** (automatically becomes instance)
-
-**Code Example (Component Structure):**
-```
-Main Component (outside frames):
-- All interactions defined once
-- Icon 1 → Page 1
-- Icon 2 → Page 2
-- Icon 3 → Page 3
-
-Instances (on each page):
-- Automatically inherit all interactions
-- Updates when main component changes
-```
-
-**Result:** Edit tab bar once, all pages update automatically
-
-**Key Point:** HUGE time saver when you have many pages or need to make changes
-**Common Issues:** Editing instance instead of main component - changes don't propagate
-
----
-
-### TIP 3: Shadow User Testing
-**Action:** Watch real-time as someone uses your prototype
-
-1. Open **prototype link** (the share URL)
-2. Send this link to a test user
-3. Once they start using it, click **their profile photo** in top right
-4. Select **"Shadow"** option
-
-**Result:** You see exactly what they're doing in real-time
-
-**Key Point:** Perfect for remote user testing and observing interaction patterns
-**Common Issues:** Tester must use the share link, not view the design file
-
----
-
-## Summary
-
-### Core Skills Mastered:
-1. **Page-Level Vertical Scroll** with fixed header/footer
-2. **Component-Level Horizontal Scroll** within a frame
-3. **Cross-Page Navigation** using interactive elements
-4. **Modal Overlays** with proper visibility and dismissal
-
-### Key Figma Concepts:
-- Fixed positioning for sticky elements
-- Frames within frames enable different scroll behaviors
-- Components save massive time on repeated elements
-- Prototype mode vs Design mode serve different purposes
-
-### Common Troubleshooting:
-| Problem | Solution |
-|---------|----------|
-| Page won't scroll | Frame height must exceed viewport height |
-| Header/footer scrolls with content | Group elements, enable "Fixed position" |
-| Horizontal scroll not working | Check: Clip content ✓, Frame width < cards width |
-| Navigation doesn't work | Verify blue connection line exists in Prototype tab |
-| Modal hard to see | Add background behind overlay |
-| Can't close modal | Add "Close overlay" interaction to X icon |
-
-### What You Can Do Now:
-- Create multi-page interactive prototypes
-- Implement realistic scrolling behaviors
-- Add navigation between screens
-- Build modal dialogs and overlays
-- Test designs on real devices
-- Use components to work efficiently
-
----
-
-
-**Bonus:** Share your prototype link and get feedback from classmates!
-
----
-
-*This guide based on comprehensive Figma prototyping tutorial covering essential interactive features for mobile app design.*
+## When something doesn't work
+
+| Problem | Fix |
+|---|---|
+| The page won't scroll | Make the frame taller than the phone, and set **Overflow → Vertical** in the Prototype tab |
+| The header or tab bar scrolls away | Group it, then **Prototype → Scroll behavior → Position → Fixed** |
+| The tab bar is fixed in the wrong place | Set its constraint to **Bottom** in the Design tab |
+| The cards won't scroll sideways | Check **Clip content**, set **Overflow → Horizontal**, and make sure the frame is narrower than the cards |
+| A link doesn't work | In the Prototype tab, check there's a blue line from the icon to the page |
+| The pop-up is hard to see | Turn on **Add background behind overlay** |
+| The pop-up won't close | Give the X a **Close overlay** interaction |
+| The right panel looks wrong | You're probably in **Draw mode**. Switch back to Design mode |
+
+## What's next
+
+Make it yours: [Enhance the Figma Prototype](../activities/enhance-the-figma-prototype.md). Your
+Project 3 hi-fi is built in Figma too, using these same four patterns.
