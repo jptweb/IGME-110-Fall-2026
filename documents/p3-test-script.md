@@ -73,3 +73,7 @@ Show the home screen. Don't explain it.
 2. What was the most frustrating part?
 3. If you had a magic wand and could add one thing to this app, what would it be?
 4. Anything else you want to tell us?
+
+### AI line
+
+*(One line for the team: the tool and what you used it for, or "We used no AI.")*

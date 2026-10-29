@@ -243,6 +243,10 @@ A rough version of the app, just real enough to test, and the script you'll test
 **Have every task written and every screen drawn by Tuesday's class (November 3).** The rehearsal
 runs on them. Wednesday is for fixing what the rehearsal turns up and putting the PDF together.
 
+> **You'll need two things:** the 📄 **[test script template](p3-test-script.md)** (copy it into a
+> Google Doc and fill it in) and the **[sample submission](p3-lofi-sample.md)** (to check your shape,
+> not to copy).
+
 ### What to do
 
 1. **Write your test task.** Each person picks one thing their persona would want to do in the app
