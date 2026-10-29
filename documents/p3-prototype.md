@@ -10,11 +10,15 @@ there's a page in myCourses that opens this one at that section.
 | | Deliverable | Due |
 |---|---|---|
 | 1 | [Work Plan and Personas](#1-work-plan-and-personas) | **Sun, October 25** |
-| 2 | [Lo-Fi Prototype and Test Script](#2-lo-fi-prototype-and-test-script) | Fri, October 30 |
+| 2 | [Lo-Fi Prototype and Test Script](#2-lo-fi-prototype-and-test-script) | **Wed, November 4** |
 | 3 | [Testing Results](#3-testing-results) | Fri, November 6 |
 | 4 | [Hi-Fi Prototype and Presentation](#4-hi-fi-prototype-and-presentation) | **Thu, November 12, in class** |
 | 5 | [Reflection and Peer Evaluation](#5-reflection-and-peer-evaluation) | Fri, November 20 |
 
+> **Note the Wednesday.** Deliverable 2 moved from Friday, October 30 to Wednesday, November 4, so
+> you can fix what Tuesday's rehearsal finds before you hand it in. Your tasks and screens still
+> need to be done by Tuesday's class, because the rehearsal runs on them.
+>
 > **Note the Thursday.** Deliverable 4 is due when your class starts on November 12, because
 > presenting it is the deadline.
 
@@ -47,13 +51,13 @@ falls apart on test day, and who fixes it properly afterward, has done this proj
 
 How the four weeks run:
 
-| Week | In class | What you hand in that Friday |
+| Week | In class | What you hand in |
 |---|---|---|
-| **9** | Paper prototypes Tuesday, planning studio Thursday | Work Plan and Personas (Sunday this time) |
-| **10** | Figma Tuesday, build day Thursday | Lo-Fi Prototype and Test Script |
-| **11** | Rehearsal Tuesday, **test day** Thursday | Testing Results |
-| **12** | Build day Tuesday, **presentations** Thursday | (due Thursday, in class) |
-| **13** | Project 4 starts | Reflection and Peer Evaluation |
+| **9** | Paper prototypes Tuesday, planning studio Thursday | Work Plan and Personas (Sunday) |
+| **10** | Figma Tuesday, build day Thursday | Nothing. Finish your tasks and screens before Tuesday |
+| **11** | Rehearsal Tuesday, **test day** Thursday | Lo-Fi Prototype and Test Script (Wednesday), Testing Results (Friday) |
+| **12** | Build day Tuesday, **presentations** Thursday | Hi-Fi Prototype and Presentation (Thursday, in class) |
+| **13** | Project 4 starts | Reflection and Peer Evaluation (Friday) |
 
 ---
 
@@ -232,9 +236,12 @@ and whether the document is clean and easy to read.
 
 ## 2. Lo-Fi Prototype and Test Script
 
-**Due Friday, October 30, 11:59 PM | One submission per team**
+**Due Wednesday, November 4, 11:59 PM | One submission per team**
 
 A rough version of the app, just real enough to test, and the script you'll test it with.
+
+**Have every task written and every screen drawn by Tuesday's class (November 3).** The rehearsal
+runs on them. Wednesday is for fixing what the rehearsal turns up and putting the PDF together.
 
 ### What to do
 
