@@ -243,9 +243,8 @@ A rough version of the app, just real enough to test, and the script you'll test
 **Have every task written and every screen drawn by Tuesday's class (November 3).** The rehearsal
 runs on them. Wednesday is for fixing what the rehearsal turns up and putting the PDF together.
 
-> **You'll need two things:** the 📄 **[test script template](p3-test-script.md)** (copy it into a
-> Google Doc and fill it in) and the **[sample submission](p3-lofi-sample.md)** (to check your shape,
-> not to copy).
+> **Start from the 📄 [test script template](p3-test-script.md).** Copy it into a Google Doc and fill
+> it in.
 
 ### What to do
 
