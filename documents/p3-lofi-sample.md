@@ -82,8 +82,9 @@ The wavy lines stand in for text. That's all a lo-fi needs.
 
 ## Part 2: Test script
 
-This is the [test script template](p3-test-script.md) with the team's parts filled in. The wrap-up
-questions are exactly as the template has them, so they're not repeated here.
+This is the [test script template](p3-test-script.md) with the team's ✏️ parts filled in, the way it
+looks when they hand it in. The fixed questions and the "What happened" notes (filled in on test
+day) are left out here to keep it short.
 
 - **Product:** Meal Pro
 - **Section and team:** Section 01, Team 3
@@ -117,7 +118,7 @@ you're hungry. Find something you could make for dinner in that time."
 
 **Expected path:** Home → Results (tap "Under 30 min") → Recipe
 
-**Ask afterward, question 3:** "When you tapped the Under 30 min chip, what did you expect to
+**Their ask-afterward question:** "When you tapped the Under 30 min chip, what did you expect to
 happen?"
 
 ### Task 2: Plan two dinners and shop for them · Ben
@@ -128,7 +129,7 @@ list that covers both."
 **Expected path:** Home → Planner → "+ Add" Monday → Results → Planner → "+ Add" Tuesday → Results
 → Planner → Grocery List
 
-**Ask afterward, question 3:** "When you tapped + Add, what did you expect to see?"
+**Their ask-afterward question:** "When you tapped + Add, what did you expect to see?"
 
 ### Task 3: Stop seeing meat · Chris
 
@@ -137,7 +138,7 @@ Make the app stop showing them to you."
 
 **Expected path:** Home → profile icon → Food Preferences (turn on Vegetarian, Save) → Home
 
-**Ask afterward, question 3:** "Where did you expect to find that setting?"
+**Their ask-afterward question:** "When you tapped the profile icon, what did you expect to see?"
 
 ### AI line
 
