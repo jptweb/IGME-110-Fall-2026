@@ -4,7 +4,7 @@
 
 > 🛑 **Do not copy this sample.** It shows the shape of a submission. It is not a form to fill in.
 >
-> Copying the [test script template](p3-test-script.md) is expected. Copying MealMate is not. Handing
+> Copying the [test script template](p3-test-script.md) is expected. Copying Meal Pro is not. Handing
 > in its personas, tasks, screens, or wording as your team's work is plagiarism, an academic
 > integrity violation under [RIT policy D08.0](https://www.rit.edu/policies/d080). That includes
 > leftovers: a "Busy Brian" or an "Under 30 min" chip in your submission means it was copied.
@@ -23,7 +23,7 @@ written underneath.
 
 ---
 
-## The app: MealMate
+## The app: Meal Pro
 
 A recipe and meal-planning app for college students. A team of three: Ana, Ben, and Chris. Their
 personas from deliverable 1:
@@ -41,13 +41,20 @@ personas from deliverable 1:
 Six screens cover all three tasks. Each one is labeled with the tasks that use it.
 
 In your PDF, this part is **photos of your drawn screens**, one per screen with its name written on
-it. If you used Figma, export each frame instead. They're written out here only so you can read them.
+it. If you used Figma, export each frame instead. Home is drawn below the way yours should be. The rest are written out
+so you can read them.
 
 **Home** (tasks 1, 2, 3)
+
+<img src="https://people.rit.edu/~jxtadm/IGME110/note-photos/10b-eatlikeking.png" alt="Hand-drawn Home screen for Meal Pro, in pencil. A menu icon and a profile icon at the top, a search bar asking what you want to cook, a banner with a drawn burger that says Eat like a King, a Featured Meals card for Pasta Bake with a 25 minute prep time, wavy lines standing in for text, and Home, Planner and Favorites tabs along the bottom." width="300">
+
+The wavy lines stand in for text. That's all a lo-fi needs.
+
+- Menu icon top left, profile icon top right
 - Search bar: "What do you want to cook?"
-- Profile icon, top right
+- A banner: "Eat like a King!"
+- A "Featured meals" card: picture box, meal name, prep time
 - Bottom tabs: Home, Planner, Favorites
-- A "Quick dinners" row
 
 **Results** (tasks 1, 2)
 - Filter chips across the top, including "Under 30 min"
