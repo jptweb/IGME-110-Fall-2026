@@ -270,7 +270,8 @@ Fill in the rest of the script, which is mostly already written. Put your name o
 with your AI line.
 
 > **See the [sample lo-fi submission](p3-lofi-sample.md)** for how the tasks and screens fit
-> together. It shows the shape. The content has to be yours.
+> together. It shows the shape. The content has to be yours. **Don't copy from it**: handing in any
+> of its tasks, screens, or wording counts as plagiarism.
 
 ### What to submit
 

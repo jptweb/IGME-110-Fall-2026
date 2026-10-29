@@ -2,12 +2,24 @@
 
 **→ [Back to Project 3](p3-prototype.md#2-lo-fi-prototype-and-test-script)**
 
+> 🛑 **Do not copy this sample.** It shows the shape of a submission. It is not a form to fill in.
+>
+> Copying the [test script template](p3-test-script.md) is expected. Copying MealMate is not. Handing
+> in its personas, tasks, screens, or wording as your team's work is plagiarism, an academic
+> integrity violation under [RIT policy D08.0](https://www.rit.edu/policies/d080). That includes
+> leftovers: a "Busy Brian" or an "Under 30 min" chip in your submission means it was copied.
+
 This is deliverable 2 from a made-up team for a made-up app, to show how the parts fit together.
 Your product, your personas, and your tasks will be your own.
 
 > ⚠️ **The screens below are described in words so you can see what's on them. Yours have to be
-> actual drawings**, on paper or on screen. A written description of a screen is not a lo-fi
+> actual drawings**, on paper (best) or in Figma. A written description of a screen is not a lo-fi
 > prototype.
+
+Yours should look more like this: boxes, icons, and labels, one screen at a time, each with its name
+written underneath.
+
+<img src="https://people.rit.edu/~jxtadm/IGME110/note-photos/10b-paper-prototype.webp" alt="Hand-drawn paper prototype screens for a tablet app, spread across a table with two pens. Each sheet has two or three screens drawn in blue ink as simple boxes, icons and labels, and each screen has its name written underneath, like "set temp" and "meeting with"." width="600">
 
 ---
 
@@ -89,6 +101,11 @@ Make the app stop showing them to you."
 **Expected path:** Home → profile icon → Food Preferences (turn on Vegetarian, Save) → Home
 
 **Ask afterward, question 3:** "Where did you expect to find that setting?"
+
+### AI line
+
+**AI use:** We used ChatGPT to come up with recipe names for the cards on the Results screen.
+Nothing else.
 
 ---
 
