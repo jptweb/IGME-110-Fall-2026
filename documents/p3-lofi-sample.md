@@ -19,7 +19,7 @@ Your product, your personas, and your tasks will be your own.
 Yours should look more like this: boxes, icons, and labels, one screen at a time, each with its name
 written underneath.
 
-<img src="https://people.rit.edu/~jxtadm/IGME110/note-photos/10b-paper-prototype.webp" alt="Hand-drawn paper prototype screens for a tablet app, spread across a table with two pens. Each sheet has two or three screens drawn in blue ink as simple boxes, icons and labels, and each screen has its name written underneath, like "set temp" and "meeting with"." width="600">
+<img src="https://people.rit.edu/~jxtadm/IGME110/note-photos/10b-paper-prototype.webp" alt="Hand-drawn paper prototype screens for a tablet app, spread across a table with two pens. Each sheet has two or three screens drawn in blue ink as simple boxes, icons and labels, and each screen has its name written underneath, like ‘set temp’ and ‘meeting with’." width="600">
 
 ---
 
