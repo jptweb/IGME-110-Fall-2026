@@ -277,8 +277,9 @@ with your AI line.
 **One PDF** on myCourses, once per team: the screens (clear photos if you drew them on paper), then
 the test script with your tasks in it.
 
-**Bring the screens to class on test day.** Paper is best. If yours are digital, print them, or be
-ready to show exactly one screen at a time.
+**Bring the screens to class on test day.** Paper is best: hand in photos, and test with the
+originals. If yours are digital, print them, or be ready to show exactly one screen at a time. Need
+copies? Ask me in class, or come to office hours and I'll print them for free.
 
 ### How this is graded
 
