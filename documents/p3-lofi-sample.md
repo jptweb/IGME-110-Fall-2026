@@ -23,10 +23,12 @@ written underneath.
 
 ---
 
-## The app: Meal Pro
+## Background: the sample team
 
-A recipe and meal-planning app for college students. A team of three: Ana, Ben, and Chris. Their
-personas from deliverable 1:
+*Not part of your PDF. It's here so the sample's tasks make sense. Your PDF starts at Part 1.*
+
+Meal Pro is a recipe and meal-planning app for college students. A team of three: Ana, Ben, and
+Chris. Their personas from deliverable 1:
 
 | Persona | Who | Owner |
 |---|---|---|
