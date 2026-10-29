@@ -78,10 +78,35 @@ The wavy lines stand in for text. That's all a lo-fi needs.
 
 ---
 
-## Part 2: Test tasks
+## Part 2: Test script
 
-The rest of the script (the opening, the first-look questions, the wrap-up) is filled in exactly as
-the template has it. These are the three tasks.
+This is the [test script template](p3-test-script.md) with the team's parts filled in. The wrap-up
+questions are exactly as the template has them, so they're not repeated here.
+
+**Product:** Meal Pro
+**Section and team:** Section 01, Team 3
+**Facilitator:** Ana
+**Computer:** Ben
+**Scribe:** Chris
+**Tester's first name:** *(filled in on test day)*
+
+### Before you start (Facilitator reads this out loud)
+
+> Thanks for helping. We're testing our app, not you, so you can't do anything wrong. If something
+> is confusing, that's exactly what we need to find out.
+>
+> This is a sketch, so nothing really works. Tap things with your finger, and Ben will show you what
+> would happen.
+>
+> Please think out loud the whole time: what you're looking at, what you're looking for, and what
+> you expect to happen. We can't help during the tasks, but we'll answer anything at the end.
+
+### First look
+
+Show the home screen. Don't explain it.
+
+1. Looking at this screen, what do you think this app is for?
+2. What would you tap first?
 
 ### Task 1: Find a quick dinner · Ana
 
