@@ -40,6 +40,9 @@ personas from deliverable 1:
 
 Six screens cover all three tasks. Each one is labeled with the tasks that use it.
 
+In your PDF, this part is **photos of your drawn screens**, one per screen with its name written on
+it. If you used Figma, export each frame instead. They're written out here only so you can read them.
+
 **Home** (tasks 1, 2, 3)
 - Search bar: "What do you want to cook?"
 - Profile icon, top right
