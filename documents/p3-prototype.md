@@ -280,7 +280,7 @@ with your AI line.
 ### What to submit
 
 **One PDF** on myCourses, once per team: the screens (clear photos if you drew them on paper), then
-the test script with your tasks in it.
+your test script with your tasks in it, filled in from the [test script template](p3-test-script.md).
 
 **Bring the screens to class on test day.** Paper is best: hand in photos, and test with the
 originals. If yours are digital, print them, or be ready to show exactly one screen at a time. Need
