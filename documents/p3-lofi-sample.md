@@ -82,7 +82,7 @@ The wavy lines stand in for text. That's all a lo-fi needs.
 
 ## Part 2: Test script
 
-This is the [test script template](p3-test-script.md) with the team's ✏️ parts filled in, the way it
+This is the [test script template](p3-test-script.md) with the team's parts filled in, the way it
 looks when they hand it in. The wrap-up, the fixed ask-afterward question, and the "What happened"
 notes (filled in on test day) are left out here to keep it short.
 
