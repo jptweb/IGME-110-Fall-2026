@@ -16,12 +16,12 @@ notes about where someone hesitated matter more than the numbers.
 
 ## Project 3 Test Script
 
-**Product:**
-**Section and team:**
-**Facilitator:**
-**Computer:**
-**Scribe:**
-**Tester's first name:**
+- **Product:**
+- **Section and team:**
+- **Facilitator:**
+- **Computer:**
+- **Scribe:**
+- **Tester's first name:**
 
 ### Before you start (Facilitator reads this out loud)
 

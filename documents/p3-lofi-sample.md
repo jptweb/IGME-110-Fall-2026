@@ -85,12 +85,12 @@ The wavy lines stand in for text. That's all a lo-fi needs.
 This is the [test script template](p3-test-script.md) with the team's parts filled in. The wrap-up
 questions are exactly as the template has them, so they're not repeated here.
 
-**Product:** Meal Pro
-**Section and team:** Section 01, Team 3
-**Facilitator:** Ana
-**Computer:** Ben
-**Scribe:** Chris
-**Tester's first name:** *(filled in on test day)*
+- **Product:** Meal Pro
+- **Section and team:** Section 01, Team 3
+- **Facilitator:** Ana
+- **Computer:** Ben
+- **Scribe:** Chris
+- **Tester's first name:** *(filled in on test day)*
 
 ### Before you start (Facilitator reads this out loud)
 
