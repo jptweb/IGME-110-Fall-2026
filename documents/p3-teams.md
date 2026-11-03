@@ -22,6 +22,21 @@ If you filled out the team form, your picks were used wherever they could be. Th
 
 *Teams posted Tuesday, October 20.*
 
+### Test day pairs
+
+The team on the left has its prototype tested first. Then you swap.
+
+| Tested first | Tested second |
+|---|---|
+| Team 1 | Team 2 |
+| Team 3 | Team 4 |
+| Team 5 | Team 6 |
+| Team 7 | Team 10 |
+| Team 8 | Team 9 |
+
+Teams 8 and 9 both have four people, so you can test each other's prototypes at the same time
+instead of taking turns. I'll go over it with you in class.
+
 ### Team 1
 
 - Gavin B.
@@ -89,6 +104,18 @@ If you filled out the team form, your picks were used wherever they could be. Th
 ## Section 07 (Tue/Thu 3:30 to 4:45 PM)
 
 *Teams posted Tuesday, October 20.*
+
+### Test day pairs
+
+The team on the left has its prototype tested first. Then you swap.
+
+| Tested first | Tested second |
+|---|---|
+| Team 1 | Team 2 |
+| Team 3 | Team 4 |
+| Team 5 | Team 6 |
+| Team 7 | Team 8 |
+| Team 9 | Team 10 |
 
 ### Team 1
 

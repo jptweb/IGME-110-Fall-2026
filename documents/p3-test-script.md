@@ -23,6 +23,7 @@ said. That's what your Testing Results will be built from.
 - **Computer:**
 - **Scribe:**
 - **Tester's first name** *(on test day)*:
+- **Had this tester seen our screens before today?** Yes / No / Partly *(on test day)*
 
 ### Before you start (Facilitator reads this out loud)
 
