@@ -139,7 +139,9 @@ The hi-fi is built in Figma, which Study Guide 9 and week 10 set you up for. The
 or anything else.
 
 - **Keep the whole prototype in one Figma file.** The Design Lead creates it and invites everyone
-  else as editors.
+  else as editors. Set it up early and check that everyone can actually edit, because a file left
+  in Drafts can lock teammates out. Steps are in the
+  [Week 12A notes](../weekly/12A.md#setting-up-your-shared-figma-file).
 - **The file's owner needs an approved education account.** If nobody on your team has one yet,
   tell me in week 9, not week 12.
 - **Before you submit, set the share link to "anyone with the link can view,"** then open it in a
