@@ -1,6 +1,6 @@
 # Activity: Best Foot Forward
 
-**IGME-110 | Week 15B | In-Class Activity**
+**IGME-110 | Not scheduled this semester**
 
 > 🚧 **Draft.** Adapted from Fall 2025. Submission details not final.
 

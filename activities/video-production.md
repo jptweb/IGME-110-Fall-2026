@@ -1,6 +1,6 @@
 # Activity: Video Production
 
-**IGME-110 | Week 13B | In-Class Activity**
+**IGME-110 | Week 13B | Started in class, finished on your own**
 
 > 🚧 **Draft.** Adapted from Fall 2025. Asset links and submission details not final.
 

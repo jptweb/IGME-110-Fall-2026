@@ -17,8 +17,9 @@ Most of the deadlines in this course repeat, so they are worth learning once rat
 up fifteen times.
 
 - **Study guides are due Monday**, before the week they set up. Not every week has one.
-- **In-class activities close the night we do them.** Most class sessions have one.
-- **Project deliverables are due Friday.** The table below has the exceptions, and there are two.
+- **In-class activities close the night we do them.** Most class sessions have one. Video Production
+  and Audacity, near the end, stay open longer.
+- **Project deliverables are due Friday.** The tables below show the exceptions.
 
 ## Dates that change the schedule
 
@@ -44,7 +45,7 @@ in writing, and taking a critique without it being miserable.
 | **4** | Sep 15 & 17 | Legal Aspects of Media | P1 Final, Friday |
 | **5** | Sep 22 & 24 | Types of Media | P1 Reflections & Peer Evals, Friday |
 
-Week 3 has the only Wednesday deadline in the course. Your draft is due the night before the class
+Week 3 has a Wednesday deadline. Your draft is due the night before the class
 where two other teams critique it.
 
 ---
@@ -69,13 +70,12 @@ then watching real people use it.
 
 | Week | Dates | Topic | Project milestone |
 |---|---|---|---|
-| **9** | Oct 20 & 22 | Prototyping & Accessibility | P3 Work Plan, Friday |
-| **10** | Oct 27 & 29 | Prototyping Tools | P3 Lo-Fi & test script, Friday |
-| **11** | Nov 3 & 5 | Testing Your Prototype | P3 Testing Results, Friday |
-| **12** | Nov 10 & 12 | Presentations & Feedback | Presentations & Hi-Fi, **Thursday in class** |
+| **9** | Oct 20 & 22 | Prototyping & Accessibility | P3 Work Plan, **Sunday** |
+| **10** | Oct 27 & 29 | Prototyping Tools | |
+| **11** | Nov 3 & 5 | Testing Your Prototype | P3 Lo-Fi & test script, **Wednesday**<br>P3 Testing Results, Friday |
+| **12** | Nov 10 & 12 | Building Your Hi-Fi | P3 Hi-Fi, Friday |
 
-Week 12 is the other exception. The hi-fi prototype is due in the room, because presenting it is
-the deadline.
+Tuesday, November 17 is P3 demo day, when everyone tries each other's prototypes.
 
 ---
 
@@ -87,8 +87,8 @@ building all semester.
 | Week | Dates | Topic | Project milestone |
 |---|---|---|---|
 | **13** | Nov 17 & 19 | Digital Media | P4 Work Plan, Friday<br>P3 Peer Evals, Friday |
-| **14** | Nov 24 only | Digital Video | Work session, nothing due |
-| **15** | Dec 1 & 3 | Looking Ahead | P4 Rough Cut, Friday |
+| **14** | Nov 24 only | Digital Media | Video Production activity, Tuesday |
+| **15** | Dec 1 & 3 | Looking Ahead | Audacity activity, Tuesday<br>P4 Rough Cut, Friday |
 
 ---
 

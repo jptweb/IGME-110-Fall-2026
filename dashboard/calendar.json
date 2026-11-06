@@ -837,17 +837,17 @@
     {
       "week": 12,
       "dates": "Nov 9–13",
-      "theme": "Presentations & Feedback",
+      "theme": "Building Your Hi-Fi",
       "status": "provisional",
       "days": {
-        "tue": "P3 workday",
-        "thu": "Group presentations"
+        "tue": "P3 build day",
+        "thu": "P3 build day, ending with a 15-minute peer check"
       },
       "slides_url": null,
       "due": [
         {
-          "item": "P3: Hi-Fi Prototype & Presentation",
-          "date": "Thu Nov 12",
+          "item": "P3: Hi-Fi Prototype",
+          "date": "Fri Nov 13",
           "type": "project",
           "url": null
         }
@@ -860,23 +860,11 @@
       "theme": "Digital Media",
       "status": "provisional",
       "days": {
-        "tue": "Audio editing with Audacity, and Project 4 launches",
+        "tue": "Prototype demo day with a class vote, then Project 4 launches",
         "thu": "Video editing with Shotcut"
       },
       "slides_url": null,
       "due": [
-        {
-          "item": "Activity: Audio Editing with Audacity",
-          "date": "Tue Nov 17",
-          "type": "activity",
-          "url": null
-        },
-        {
-          "item": "Activity: Video Production",
-          "date": "Thu Nov 19",
-          "type": "activity",
-          "url": null
-        },
         {
           "item": "P4: Video Work Plan",
           "date": "Fri Nov 20",
@@ -888,17 +876,15 @@
           "date": "Fri Nov 20",
           "type": "project",
           "url": null
+        },
+        {
+          "item": "Activity: Video Production",
+          "date": "Tue Nov 24",
+          "type": "activity",
+          "url": null
         }
       ],
       "activities": [
-        {
-          "item": "Activity: Audio Editing with Audacity",
-          "file": "activities/audio-editing-with-audacity.md",
-          "day": "tue",
-          "graded": true,
-          "dropbox": true,
-          "status": "stub"
-        },
         {
           "item": "Activity: Video Production",
           "file": "activities/video-production.md",
@@ -913,15 +899,38 @@
     {
       "week": 14,
       "dates": "Nov 23–27",
-      "theme": "Digital Video",
+      "theme": "Digital Media",
       "status": "provisional",
       "days": {
-        "tue": "Work session on your video",
+        "tue": "Audio editing with Audacity, and time to finish Video Production",
         "thu": null
       },
       "slides_url": null,
-      "due": [],
-      "study_guide": null
+      "due": [
+        {
+          "item": "Activity: Video Production",
+          "date": "Tue Nov 24",
+          "type": "activity",
+          "url": null
+        },
+        {
+          "item": "Activity: Audio Editing with Audacity",
+          "date": "Tue Dec 1",
+          "type": "activity",
+          "url": null
+        }
+      ],
+      "study_guide": null,
+      "activities": [
+        {
+          "item": "Activity: Audio Editing with Audacity",
+          "file": "activities/audio-editing-with-audacity.md",
+          "day": "tue",
+          "graded": true,
+          "dropbox": true,
+          "status": "stub"
+        }
+      ]
     },
     {
       "week": 15,
@@ -930,13 +939,13 @@
       "status": "provisional",
       "days": {
         "tue": "Storyboard critiques",
-        "thu": "Best Foot Forward, and where this goes next"
+        "thu": "Project 4 help session, and where this goes next"
       },
       "slides_url": null,
       "due": [
         {
-          "item": "Activity: Best Foot Forward",
-          "date": "Thu Dec 3",
+          "item": "Activity: Audio Editing with Audacity",
+          "date": "Tue Dec 1",
           "type": "activity",
           "url": null
         },
@@ -945,16 +954,6 @@
           "date": "Fri Dec 4",
           "type": "project",
           "url": null
-        }
-      ],
-      "activities": [
-        {
-          "item": "Activity: Best Foot Forward",
-          "file": "activities/best-foot-forward.md",
-          "day": "thu",
-          "graded": true,
-          "dropbox": true,
-          "status": "stub"
         }
       ],
       "study_guide": null
@@ -1005,6 +1004,15 @@
       "status": "unplaced",
       "shape": "in-class",
       "note": "DISPLACED 2026-09-07 by Activity: The Metagame, once the printable card deck turned up in tools/metagame/. Kept, not deleted: it is the rain-check if the printing does not happen, and it needs no edits to run. Its five questions also live in documents/p1-peer-critique-questions.md, which 3B uses."
+    },
+    {
+      "item": "Activity: Best Foot Forward",
+      "file": "activities/best-foot-forward.md",
+      "graded": true,
+      "dropbox": true,
+      "status": "unplaced",
+      "shape": "on your own",
+      "note": "UNSCHEDULED 2026-11-06 (JP) to make room in the last weeks. 15B became a P4 help session. Kept, not deleted, so it can come back as a makeup. Its dropbox and topic are hidden. Its grade item is still in the gradebook, ungraded, and ungraded items don't count here."
     }
   ]
 }

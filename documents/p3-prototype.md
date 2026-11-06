@@ -1,6 +1,6 @@
 # Project 3: Interactive Prototype
 
-**IGME-110 | Fall 2026 | Weeks 9 through 12**
+**IGME-110 | Fall 2026 | Weeks 9 through 13**
 
 Everything for Project 3 lives on this page. Each deliverable below has its own section, and
 there's a page in myCourses that opens this one at that section.
@@ -12,15 +12,16 @@ there's a page in myCourses that opens this one at that section.
 | 1 | [Work Plan and Personas](#1-work-plan-and-personas) | **Sun, October 25** |
 | 2 | [Lo-Fi Prototype and Test Script](#2-lo-fi-prototype-and-test-script) | **Wed, November 4** |
 | 3 | [Testing Results](#3-testing-results) | Fri, November 6 |
-| 4 | [Hi-Fi Prototype and Presentation](#4-hi-fi-prototype-and-presentation) | **Thu, November 12, in class** |
+| 4 | [Hi-Fi Prototype](#4-hi-fi-prototype) | **Fri, November 13** |
 | 5 | [Reflection and Peer Evaluation](#5-reflection-and-peer-evaluation) | Fri, November 20 |
 
 > **Note the Wednesday.** Deliverable 2 moved from Friday, October 30 to Wednesday, November 4, so
 > you can fix what Tuesday's rehearsal finds before you hand it in. Your tasks and screens still
 > need to be done by Tuesday's class, because the rehearsal runs on them.
 >
-> **Note the Thursday.** Deliverable 4 is due when your class starts on November 12, because
-> presenting it is the deadline.
+> **Deliverable 4 changed.** The hi-fi is now due Friday, November 13, and both classes in week 12 are
+> build days. There are no team presentations and no slides to make. Demo day on Tuesday,
+> November 17 takes their place.
 
 **Reference:** [Teams](#teams) · [Picking a product](#picking-a-product) ·
 [One thread each](#one-thread-each) · [Your three roles](#your-three-roles) · [Figma](#figma) ·
@@ -56,8 +57,8 @@ How the four weeks run:
 | **9** | Paper prototypes Tuesday, planning studio Thursday | Work Plan and Personas (Sunday) |
 | **10** | Figma Tuesday, build day Thursday | Nothing. Finish your tasks and screens before Tuesday |
 | **11** | Rehearsal Tuesday, **test day** Thursday | Lo-Fi Prototype and Test Script (Wednesday), Testing Results (Friday) |
-| **12** | Build day Tuesday, **presentations** Thursday | Hi-Fi Prototype and Presentation (Thursday, in class) |
-| **13** | Project 4 starts | Reflection and Peer Evaluation (Friday) |
+| **12** | Build days Tuesday and Thursday | Hi-Fi Prototype (Friday) |
+| **13** | **Demo day** Tuesday, then Project 4 starts | Reflection and Peer Evaluation (Friday) |
 
 ---
 
@@ -124,12 +125,12 @@ chapters.** Nobody's role is "does deliverable 3."
 
 | Role | Owns |
 |---|---|
-| **Coordinator** | The schedule and the check-ins, getting each deliverable submitted, and the presentation slides |
+| **Coordinator** | The schedule and the check-ins, getting each deliverable submitted, and the hi-fi write-up |
 | **Design Lead** | The Figma file and the look. Keeps the screens consistent from the lo-fi sketches through the final. |
 | **Test Lead** | The test script, running your team on test day, and pulling everyone's notes into the Testing Results |
 
-**Team of four?** The fourth person takes the presentation slides off the Coordinator and runs the
-rehearsals for it.
+**Team of four?** The fourth person takes the write-up off the Coordinator and gets your team ready
+for demo day.
 
 ---
 
@@ -146,7 +147,7 @@ or anything else.
   tell me in week 9, not week 12.
 - **Before you submit, set the share link to "anyone with the link can view,"** then open it in a
   private browser window to check. People outside your team will need to open it (see
-  [deliverable 4](#4-hi-fi-prototype-and-presentation)).
+  [deliverable 4](#4-hi-fi-prototype)).
 
 Want to use something other than Figma? Ask me first.
 
@@ -345,9 +346,11 @@ three fixes that each point to something a tester did.
 
 ---
 
-## 4. Hi-Fi Prototype and Presentation
+<a id="4-hi-fi-prototype-and-presentation"></a>
 
-**Due Thursday, November 12, when your class starts | One submission per team**
+## 4. Hi-Fi Prototype
+
+**Due Friday, November 13, 11:59 PM | One submission per team**
 
 ### The prototype
 
@@ -363,44 +366,46 @@ Build it in Figma, clickable, starting from the home screen.
 That's the whole list. You don't need to build the rest of the app, and screens that none of your
 tasks use are optional. Three tasks that work beat ten screens that don't connect.
 
-Tuesday of week 12 is a build day. In the last 15 minutes you'll swap with another team for a quick
-look at each other's progress.
+Tuesday and Thursday of week 12 are both build days. In the last 15 minutes on Thursday you'll swap
+with another team for a quick look at each other's progress.
 
-### The presentation
+### The write-up
 
-**Four minutes, then one question.** There are about ten teams in each section, so the four minutes
-is firm. Everyone on the team speaks.
+Hand in one short PDF with your prototype. It doesn't need a set format, and it doesn't need to be
+long. It should make sense to someone who has never met your team:
 
-A shape that fits:
+1. **The product and who it's for,** in a short paragraph.
+2. **What testing changed.** Show a lo-fi screen next to its hi-fi version, and say why you changed it.
+3. **Your three personas and your Testing Results summary,** copied in from your earlier deliverables.
+   In Project 4, everyone in the class picks one of these products to make a video ad for, and this
+   is how they'll learn who it's for and what testers said.
 
-| Part | Time |
-|---|---|
-| The product and who it's for, with one persona | 30 seconds |
-| What testing changed: a lo-fi screen next to its hi-fi version, and why | 1 minute |
-| Live demo: do your tasks in the prototype | 2 minutes |
-| Close | 30 seconds |
+End with your AI line.
 
-Keep it to four to six slides. The demo is the presentation.
+### Demo day
 
-**Then add appendix slides** after your last slide: your three personas and your Testing Results
-summary. You won't present them. In Project 4, everyone in the class picks one of these products to
-make a video ad for, and the appendix is how they'll learn who it's for and what testers said.
+There are no team presentations. **Tuesday, November 17 is demo day** instead. Every team sets up
+with its prototype open on a laptop, and everyone walks around and tries the others. Half of your
+team stays with your prototype while the rest go try other teams', and then you swap. Let people do
+the clicking themselves, the way your testers did. Bring a charged laptop and a backup plan.
 
-Present from your own laptop, or I can pull it up from your submission. Either way, have a backup.
-Practice once with a timer, because four minutes goes faster than you think.
+Pay attention while you're out there, because you'll pick one of these products for your Project 4
+ad. At the end, everyone votes for the apps they'd actually use, and the winner in each section gets
+a prize. The vote has nothing to do with your grade.
 
 ### What to submit
 
-On myCourses, once per team, **before your class starts on Thursday**:
+On myCourses, once per team, **by Friday night**:
 
 - The **Figma prototype link**, set so anyone with the link can view. Check it in a private window.
-- The **slides**, as a PDF or PPTX, with the appendix. Put your AI line on the last slide.
+- The **write-up**, as one PDF.
 
 ### How this is graded
 
 Mostly the prototype: does it show the product's core idea, can someone use it without help, does
-it look like one app, and do the fixes from testing show? Then the presentation: clear, on time, a
-demo that works, everyone speaking, and a real answer to the question.
+it look like one app, and do the fixes from testing show? Then the write-up and demo day: does the
+write-up make sense on its own, does the prototype work when people try it, and did everyone take a
+shift?
 
 ---
 
@@ -433,8 +438,8 @@ submission** on myCourses. Your grade comes from what you wrote in the form.
 
 ## Where this goes next
 
-Project 4 starts the week after you present. Everyone picks one of these prototypes to make a video
-ad for, and it may well be yours. That's why the link has to open and the appendix has to be there.
+Project 4 starts right after demo day. Everyone picks one of these prototypes to make a video ad
+for, and it may well be yours. That's why the link has to open and the write-up has to be complete.
 
 Further out, every design class you take runs some version of this loop with more time at each step:
 real interviews before the personas, more than one round of testing. The habit worth keeping from

@@ -1,6 +1,6 @@
 # Activity: Audio Editing with Audacity
 
-**IGME-110 | Week 13A | In-Class Activity**
+**IGME-110 | Week 14A | Started in class, finished on your own**
 
 > 🚧 **Draft.** Instructions are being lifted out of the Fall 2025 weekly notes.
 

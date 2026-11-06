@@ -16,7 +16,7 @@ The product below, DormBot, is invented for this sample. It is not one of this y
 **Selected Prototype:** DormBot (sample product, not a real F26 team)
 
 **Why I chose this project:**
-I selected DormBot because it addresses a real problem I've experienced as a college student, keeping track of shared responsibilities in a dorm setting. The prototype has clear, well-designed screens that will translate well to video, and the concept is easy to explain quickly. The team's presentation included good visuals of the key features, which gives me strong material to work with.
+I selected DormBot because it addresses a real problem I've experienced as a college student, keeping track of shared responsibilities in a dorm setting. The prototype has clear, well-designed screens that will translate well to video, and the concept is easy to explain quickly. The team's write-up included good visuals of the key features, which gives me strong material to work with.
 
 The app's focus on reducing roommate conflicts through task management and communication is relatable to my target audience, and I can see several creative directions for making an engaging advertisement.
 
@@ -134,7 +134,7 @@ The app's focus on reducing roommate conflicts through task management and commu
 |------|-------------------|
 | Gather assets (stock footage, music) | Fri Nov 20, with the work plan |
 | Record screen captures of the prototype | Sun Nov 22 |
-| Film any live-action clips needed | Tue Nov 24, using the 14A workday |
+| Film any live-action clips needed | Tue Nov 24, after class |
 | Rough cut assembly in Shotcut | Thanksgiving weekend, done by Wed Dec 2 |
 | Rough cut handed in | Fri Dec 4 |
 | Replace placeholders, add captions, polish | Mon Dec 7 to Wed Dec 9 |

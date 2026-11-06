@@ -42,8 +42,8 @@ is aimed at a real audience, whether it holds together, and whether you actually
 
 ## Picking a prototype
 
-After the Project 3 presentations, every team's deck and prototype goes on the
-[P4 Prototypes page](p4-prototypes.md). Pick one from that list.
+Once Project 3 is handed in, every team's write-up and prototype go on the
+[P4 Prototypes page](p4-prototypes.md). You'll try a lot of them at demo day. Pick one from that list.
 
 **It does not have to be your own team's**, and it does not have to be from your section. Most of
 the class picks somebody else's, which is the interesting version of this assignment: you're a
@@ -76,12 +76,12 @@ does have to be long enough to show the pacing you're going for.
 
 ## The software
 
-Two class sessions in week 13 exist to get you ready for this, and both are graded activities:
+Two class sessions exist to get you ready for this, and both are graded activities:
 
 | Day | Session | What you get out of it |
 |---|---|---|
-| 13A, Tue Nov 17 | [Audio Editing with Audacity](../activities/audio-editing-with-audacity.md) | Recording, levels, noise reduction, exporting a track you can drop into a video |
 | 13B, Thu Nov 19 | [Video Production](../activities/video-production.md) | Cutting picture to an existing soundtrack, which is exactly the shape of this project |
+| 14A, Tue Nov 24 | [Audio Editing with Audacity](../activities/audio-editing-with-audacity.md) | Recording, levels, noise reduction, exporting a track you can drop into a video |
 
 **Shotcut is the recommended editor.** It's free, it runs on Windows, Mac, and Linux, and it does
 everything this project needs. iMovie, CapCut, and DaVinci Resolve are all fine if you already know
