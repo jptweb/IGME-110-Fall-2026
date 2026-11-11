@@ -23,6 +23,9 @@ These are the Project 3 prototypes you can build your video ad around. Pick one.
 
 **It does not have to be your own team's, and it does not have to be from your section.**
 
+Want to see how classmates pitched the same product? Everyone's final Project 2 infographics are
+in myCourses, in the Project 2: Infographic module, sorted by product.
+
 > 🚧 This page fills in after Project 3 is handed in on November 13. It'll be complete before
 > demo day on November 17.
 

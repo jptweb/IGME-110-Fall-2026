@@ -52,6 +52,11 @@ person hired to sell a product you didn't design, which is what advertising actu
 You are selling the product the prototype represents. You are not reviewing the prototype, and you
 are not making a demo video that walks through its screens.
 
+Every Project 3 product started as a Project 1 proposal, so most of them also have Project 2
+infographics. Everyone's final infographics are in myCourses, in the Project 2: Infographic
+module, sorted by product. They're a quick way to see who a product is for and how other people
+pitched it.
+
 ---
 
 ## What the video has to contain
