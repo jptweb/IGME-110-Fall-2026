@@ -1,22 +1,3 @@
-<!--
-  JP-ONLY BUILD NOTES. Invisible to students when transcluded into myCourses.
-
-  This page cannot be written until P3 is handed in. The Hi-Fi is due Fri Nov 13, and demo day
-  and the P4 launch are 13A, Tue Nov 17. So the fill-in window is Sat Nov 14 through Mon Nov 16.
-
-  Fall 2025 kept this table inline at the top of p4-1-workplan.md. Split out here for two
-  reasons: the P4 brief is stable and publishable now while this is not, and this is the
-  one P4 page that changes every year. Same reasoning as p1-teams.md.
-
-  What each row needs: team name, product name, a link to the write-up PDF, a link to
-  the Figma prototype. Both sections in one table, since students may pick from either.
-  F25 had 18 teams across two sections. F26 should be similar.
-
-  ⚠️ Sharing check before publishing: every write-up and prototype link has to open for a
-  student who is not on that team. Test one in an incognito window. In F25 this was the
-  single most common way the page broke.
--->
-
 # Project 4: Available Prototypes
 
 These are the Project 3 prototypes you can build your video ad around. Pick one.

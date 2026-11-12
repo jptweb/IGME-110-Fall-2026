@@ -162,9 +162,6 @@ Write a document with five parts. They're the five things the rubric grades, in 
 
 Add an **AI disclosure** at the end if you used AI on any of the above.
 
-> **See the [sample work plan](p4-work-plan-sample.md)** for the level of detail expected. It's a
-> structural guide, not a template to fill in. The thinking has to be yours.
-
 ### What to submit
 
 Hand in **one file** on myCourses: a `.docx` or `.pdf` containing all five parts.
