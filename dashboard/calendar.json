@@ -779,7 +779,7 @@
       "week": 11,
       "dates": "Nov 2–6",
       "theme": "Testing Your Prototype",
-      "status": "provisional",
+      "status": "built",
       "days": {
         "tue": "Rehearsal: run your test script once inside your team, fix whatever breaks, and get your screens ready for Thursday",
         "thu": "Testing your lo-fi prototypes on each other: paired teams, think-aloud, with Facilitator, Computer and Scribe roles, then a debrief each way"
@@ -838,10 +838,10 @@
       "week": 12,
       "dates": "Nov 9–13",
       "theme": "Building Your Hi-Fi",
-      "status": "provisional",
+      "status": "built",
       "days": {
-        "tue": "P3 build day",
-        "thu": "P3 build day, ending with a 15-minute peer check"
+        "tue": "A quick look at what's coming, then P3 build day",
+        "thu": "A first look at Project 4, then P3 build day, ending with a 15-minute peer check"
       },
       "slides_url": null,
       "due": [
