@@ -14,7 +14,7 @@ If you filled out the team form, your picks were used wherever they could be. Th
 |---|---|
 | **9** | Find your team and your teammates' names. Product names get added once the Work Plans are in. |
 | **11** | Find the team you're paired with on test day, Thursday. |
-| **13 onward** | Nothing. Project 4 has its own list of prototypes. |
+| **13 onward** | Nothing. Every team's final prototype is linked on [Project 4: Available Prototypes](p4-prototypes.md). |
 
 ---
 
