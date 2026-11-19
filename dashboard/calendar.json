@@ -858,10 +858,10 @@
       "week": 13,
       "dates": "Nov 16–20",
       "theme": "Digital Media",
-      "status": "provisional",
+      "status": "built",
       "days": {
         "tue": "Prototype demo day with a class vote, then Project 4 launches",
-        "thu": "Video editing with Shotcut"
+        "thu": "Demo day winners, what's inside a video file, and a start on the Video Production homework"
       },
       "slides_url": null,
       "due": [
@@ -891,7 +891,7 @@
           "day": "thu",
           "graded": true,
           "dropbox": true,
-          "status": "stub"
+          "status": "ready"
         }
       ],
       "study_guide": null
