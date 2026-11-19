@@ -44,10 +44,13 @@ and [Pixabay](https://pixabay.com/) are good for free video clips, and the
 
 ## Get the files
 
-Two files are attached to this assignment on myCourses:
+Download these two:
 
-- `narration.mp3`, the 40 second narration
-- `narration-cue-sheet.txt`, the script with a time next to each line
+- **[narration.mp3](https://github.com/jptweb/IGME-110-Fall-2026/raw/main/activities/_files/narration.mp3)**, the 40 second narration
+- **[narration-cue-sheet.txt](https://github.com/jptweb/IGME-110-Fall-2026/raw/main/activities/_files/narration-cue-sheet.txt)**, the script with a time next to each line
+
+The same narration is also attached to this assignment on myCourses, under its original file name
+(`shrek_opening_rerecorded.mp3`).
 
 Make **one folder** for this project and put everything in it: those two files, every clip and
 image you download, and your project file. An editor's project file doesn't contain your
