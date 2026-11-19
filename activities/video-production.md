@@ -8,6 +8,11 @@ I give you the audio: a 40 second fairy tale opening you'll probably recognize. 
 everything on screen. That is the same job Project 4 asks for, at a tenth of the size, so this
 is where you find out how your editor works before it counts.
 
+> **Start here: watch the tutorial.** Before you edit anything, watch
+> [this 30 minute Shotcut tutorial](https://www.youtube.com/watch?v=PCMcyYAtRzw). It is the most
+> important step on this page. Shotcut is powerful and not obvious, and half an hour of watching
+> saves hours of guessing. It has sound, so plan to watch it at home tonight.
+
 **In this page:** [What you're making](#what-youre-making) · [Get the files](#get-the-files) ·
 [What you can do without sound](#what-you-can-do-without-sound) · [The cue sheet](#the-cue-sheet) ·
 [First steps in Shotcut](#first-steps-in-shotcut) · [Finishing at home](#finishing-at-home) ·
@@ -91,10 +96,11 @@ Nine lines and five required cuts, so you don't need a new picture on every line
 ## First steps in Shotcut
 
 [Shotcut](https://shotcut.org/download/) is free, runs on Windows, Mac, and Linux, and is what
-I demo in class. If you already know iMovie, CapCut, Clipchamp, DaVinci Resolve, or Premiere,
+I show in class. If you already know iMovie, CapCut, Clipchamp, DaVinci Resolve, or Premiere,
 use that instead. The requirements are the same in any editor.
 
-Shotcut is powerful and not obvious. These are the steps from the class demo:
+The tutorial above covers all of this at a slower pace. These are the same steps as a checklist
+to follow once you have watched it:
 
 1. **Start a project.** Open Shotcut, pick your project folder, give the project a name, and
    press Start. Save right away.
@@ -116,11 +122,12 @@ Shotcut is powerful and not obvious. These are the steps from the class demo:
 9. **Export.** Open the **Export** panel, keep the default preset (it makes an H.264 `.mp4`),
    press Export File, and wait for the job to finish before you close Shotcut.
 
-Stuck? [This 30 minute Shotcut tutorial](https://www.youtube.com/watch?v=PCMcyYAtRzw) covers
-all of it at a slower pace. For anything else, search "Shotcut" plus what you're trying to do.
+Stuck on one step? Go back to that part of the tutorial, or search "Shotcut" plus what you're
+trying to do.
 
 ## Finishing at home
 
+- **Watch the tutorial first** if you haven't yet. Everything below assumes you have.
 - **Check your cuts against the voice.** A cut that lands half a second late looks like a
   mistake. A cut on the first word of a line looks deliberate.
 - **Add the music on its own audio track** and turn it down. In Shotcut, select the music
