@@ -132,7 +132,7 @@ The app's focus on reducing roommate conflicts through task management and commu
 
 | Task | Target Completion |
 |------|-------------------|
-| Gather assets (stock footage, music) | Fri Nov 20, with the work plan |
+| Gather assets (stock footage, music) | Sun Nov 22, with the work plan |
 | Record screen captures of the prototype | Sun Nov 22 |
 | Film any live-action clips needed | Tue Nov 24, after class |
 | Rough cut assembly in Shotcut | Thanksgiving weekend, done by Wed Dec 2 |

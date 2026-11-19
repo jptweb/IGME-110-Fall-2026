@@ -9,7 +9,7 @@ there's a page in myCourses that opens this one at that section.
 
 | | Deliverable | Due | Points |
 |---|---|---|---|
-| 1 | [Work Plan](#1-work-plan) | Fri, November 20 | 100 |
+| 1 | [Work Plan](#1-work-plan) | Sun, November 22 | 100 |
 | 2 | [Rough Cut](#2-rough-cut) | Fri, December 4 | 100 |
 | 3 | [Final Video](#3-final-video) | Fri, December 11 | 100 |
 
@@ -136,7 +136,7 @@ what you used it for. No transcript needed.
 
 ## 1. Work Plan
 
-**Due Friday, November 20, 11:59 PM | Individual submission | 100 points**
+**Due Sunday, November 22, 11:59 PM | Individual submission | 100 points**
 
 Before you shoot or cut anything, decide what you're making and who it's for.
 

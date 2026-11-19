@@ -13,7 +13,7 @@ there's a page in myCourses that opens this one at that section.
 | 2 | [Lo-Fi Prototype and Test Script](#2-lo-fi-prototype-and-test-script) | **Wed, November 4** |
 | 3 | [Testing Results](#3-testing-results) | Fri, November 6 |
 | 4 | [Hi-Fi Prototype](#4-hi-fi-prototype) | **Fri, November 13** |
-| 5 | [Reflection and Peer Evaluation](#5-reflection-and-peer-evaluation) | Fri, November 20 |
+| 5 | [Reflection and Peer Evaluation](#5-reflection-and-peer-evaluation) | Date to come |
 
 > **Note the Wednesday.** Deliverable 2 moved from Friday, October 30 to Wednesday, November 4, so
 > you can fix what Tuesday's rehearsal finds before you hand it in. Your tasks and screens still
@@ -58,7 +58,7 @@ How the four weeks run:
 | **10** | Figma Tuesday, build day Thursday | Nothing. Finish your tasks and screens before Tuesday |
 | **11** | Rehearsal Tuesday, **test day** Thursday | Lo-Fi Prototype and Test Script (Wednesday), Testing Results (Friday) |
 | **12** | Build days Tuesday and Thursday | Hi-Fi Prototype (Friday) |
-| **13** | **Demo day** Tuesday, then Project 4 starts | Reflection and Peer Evaluation (Friday) |
+| **13** | **Demo day** Tuesday, then Project 4 starts | Reflection and Peer Evaluation (date to come) |
 
 ---
 
@@ -411,7 +411,10 @@ shift?
 
 ## 5. Reflection and Peer Evaluation
 
-**Due Friday, November 20, 11:59 PM | Individual submission**
+**Due date to come | Individual submission**
+
+> The forms aren't out yet. You'll get a due date when they are, with time over Thanksgiving break to
+> fill yours out. Nothing is due on this before then.
 
 > ⚠️ **This one is individual.** The other four are submitted once per team. This one you each do
 > yourself, and your answers are your own.

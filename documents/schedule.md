@@ -86,7 +86,7 @@ building all semester.
 
 | Week | Dates | Topic | Project milestone |
 |---|---|---|---|
-| **13** | Nov 17 & 19 | Digital Media | P4 Work Plan, Friday<br>P3 Peer Evals, Friday |
+| **13** | Nov 17 & 19 | Digital Media | P4 Work Plan, Sunday<br>P3 Peer Evals, date to come |
 | **14** | Nov 24 only | Digital Media | Video Production activity, Tuesday |
 | **15** | Dec 1 & 3 | Looking Ahead | Audacity activity, Tuesday<br>P4 Rough Cut, Friday |
 
