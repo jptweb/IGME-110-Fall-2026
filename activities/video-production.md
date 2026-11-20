@@ -22,25 +22,49 @@ is where you find out how your editor works before it counts.
 
 ## What you're making
 
-One video, a little under a minute long, with these parts:
+One video, about 50 seconds long, with these parts:
 
 | Part | Requirement |
 |---|---|
 | **Title card** | Your name and a title, on screen for 5 seconds |
 | **Picture for the whole narration** | Something on screen from the first word to the last, and it ends when the narration ends |
-| **Cuts** | At least 5, and 2 of them are transition effects (a dissolve, a wipe) rather than plain cuts |
-| **Sources** | At least 3 different ones. Video clips, or still images that you pan and zoom across |
+| **Cuts** | At least 5 changes from one picture to the next. At least 2 of those 5 are transition effects (a dissolve, a wipe) instead of plain cuts |
+| **Sources** | At least 3 different pieces of visual material, in any mix of video clips and still images. Any still image has to move (pan or zoom) |
 | **Music** | Background music under the narration, quiet enough that the voice is easy to hear |
-| **Credits** | 10 seconds at the end, listing where every clip, image, and song came from |
+| **Credits** | 10 seconds at the end, listing where every clip, image, and song came from (the site and the creator or title is enough) |
+
+A few things people ask about that table:
+
+- **What counts as a source?** One clip or one image. Three clips from the same website are
+  three sources. The title card, the credits, and the music don't count toward the three.
+- **Does it have to be video?** No. Three stills that pan and zoom meet the requirement, and so
+  do three video clips, or a mix. Try to use at least one real video clip, since Project 4
+  will need them.
+- **How do I count cuts?** Every time the picture changes, that's one, including going from
+  the title card into the first shot and from the last shot into the credits. Those two spots
+  are the easy places for your two transitions.
+- **Three sources but five cuts?** Right. Title, three shots, and credits only makes four
+  changes, so you'll come back to one of your sources or add a fourth.
+- **How long is it?** A 5 second title during the quiet at the start, pictures until the
+  narration ends at about 0:40, then 10 seconds of credits.
 
 You find or shoot the visuals. They don't have to match the story literally. A dragon can be a
 cat. A castle can be Golisano Hall. Funny is allowed and usually works better.
 
 Stick to Creative Commons, public domain, or AI-generated material, or footage you shoot
-yourself. [This Harvard guide](https://guides.library.harvard.edu/c.php?g=310751) lists places
-to find images, sound, and video you're allowed to use. [Pexels](https://www.pexels.com/videos/)
-and [Pixabay](https://pixabay.com/) are good for free video clips, and the
-[YouTube Audio Library](https://www.youtube.com/audiolibrary) is good for music.
+yourself. Places that are free and don't make you sign up or pay:
+
+| For | Where |
+|---|---|
+| **Stock video** | [Pexels Videos](https://www.pexels.com/videos/) (search works well), [Mixkit](https://mixkit.co/free-stock-video/), [Coverr](https://coverr.co/). [Pixabay](https://pixabay.com/) is fine too, but skip the sponsored row at the top of its results, which is paid |
+| **Old and strange footage** | The [Prelinger Archives](https://archive.org/details/prelinger): thousands of public domain films from the 1930s to 1960s. Very good for comedy |
+| **Space and science** | [NASA's image and video library](https://images.nasa.gov/), all public domain |
+| **Anything specific** | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Videos). Clunky, but no ads and every file lists its license |
+| **Game footage** | Record your own. Most games let you capture your own play (Windows: Win+G, Mac: Cmd+Shift+5, or OBS on either). Don't download someone else's gameplay video |
+| **Music** | [YouTube Audio Library](https://www.youtube.com/audiolibrary), [Incompetech](https://incompetech.com/music/royalty-free/music.html), [Free Music Archive](https://freemusicarchive.org/) |
+
+[This Harvard guide](https://guides.library.harvard.edu/c.php?g=310751) lists more. Whatever
+you use, note where it came from as you download it, because that list becomes your credits.
 
 ## Get the files
 
